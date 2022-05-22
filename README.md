@@ -17,8 +17,8 @@ This  browsergame is part of the project museum4punkt0  -  Digital Strategies fo
 Museum  of  the  Future,  sub-project Vimuki. The project museum4punkt0 is funded by the Federal Government  
 Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). Further information: [Museum 4.0](https://www.museum4punkt0.de/)
 
-![LogoBKM]((/assets/images/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg))
-![LogoKultur]((/assets/images/BKM_Fz_2017_Web_de.gif))
+![LogoBKM](/assets/images/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
+![LogoKultur](/assets/images/BKM_Fz_2017_Web_de.gif)
 
 ### Benutzung
 Näheres findet sich in der [Dokumentation](/assets/doku/VimukiIsland.pdf).
