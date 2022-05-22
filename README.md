@@ -35,7 +35,7 @@ Urheber:innen:
 [Konsonautic Solutions GmbH](https://konsonautic.com/), Haldystr. 1b, 66123 Saarbrücken
 
 ### Lizenz
-
+Die Software unterliegt der GNU-GPLv3 Lizenz. 
 Copyright © 2022 [Konsonautic Solutions GmbH](https://konsonautic.com/)
 
 ### Hinweise
