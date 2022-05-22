@@ -6,6 +6,7 @@
 *  [Benutzung](#Benutzung)  
 *  [Credits](#Credits)  
 *  [Lizenz](#Lizenz)
+*  [Hinweise](#Hinweise)
 
 ### Kurzbeschreibung 
 Vimuki Island ist ein Browserspiel, welches sich in drei Teile aufteilt. In dem Spiel geht es um die gesunde Handhabe von Social Media und die Interaktion mit Follower:innen. In ersten Spiel wird eine Sponsor:in für die Reise gewählt, im zweiten Spiel wird der Koffer für die Reise mit nützlichen Items gepackt. Im dritten Spiel haben die Spieler:innen 5 Tage Zeit die neu entdeckte Vimuki-Insel zu erforschen und Bilder und Artefakte für ihre Reise zu sammeln. Näheres findet sich in der [Dokumentation](/assets/doku/VimukiIsland.pdf).
@@ -36,3 +37,7 @@ Urheber:innen:
 ### Lizenz
 
 Copyright © 2022 [Konsonautic Solutions GmbH](https://konsonautic.com/)
+
+### Hinweise
+Code der VNGen-Visual Novel Engine wurde entfernt. Lesen Sie bitte die [Dokumentation von VNGen](https://docs.xgasoft.com/vngen/index/) und die Hinweise in der [Dokumentation](/assets/doku/VimukiIsland.pdf) um die Software nutzen zu können. 
+
