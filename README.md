@@ -40,4 +40,4 @@ Copyright © 2022 [Konsonautic Solutions GmbH](https://konsonautic.com/)
 
 ### Hinweise
 Code der VNGen-Visual Novel Engine wurde entfernt. Lesen Sie bitte die [Dokumentation von VNGen](https://docs.xgasoft.com/vngen/index/) und die Hinweise in der [Dokumentation](/assets/doku/VimukiIsland.pdf) um die Software nutzen zu können. 
-
+Sollten Sie eine Lizenz von VNGen-Visual Novel Engine erwerben, können sie auf Anfrage per E-Mail, mit einem Nachweis der Lizenz, den vollständigen Code erhalten: hello@konsonautic.com 
