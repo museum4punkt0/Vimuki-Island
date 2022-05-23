@@ -1,0 +1,524 @@
+{
+   "t_se_2_0": {
+      "German": "Euer letzter Besuch in den Höhlen, hat sich tief in eure Erinnerungen gebrannt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_1": {
+      "German": "Nur jemand total verrücktes, würde noch einmal einen Fuß in diese Höhlen setzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_2": {
+      "German": "Gut für euch, dass ihr so verrückt seid! Außerdem sitzt Suzan die Begegnung mit dem Bären noch immer quer im Magen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_3": {
+      "German": "Wir sollten zumindest nach dem Tier sehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_4": {
+      "German": "Meinst du das ist eine gute Idee? Ich meine es ist immer noch ein wildes Tier, das uns das Gesicht zerfetzen könnte...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_5": {
+      "German": "Aber der Bär war jetzt nicht so aggressiv. Außerdem bist du genauso wütend, wenn man dich aus dem Schönheitsschlaf reißt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_6": {
+      "German": "Auch Chad muss zugeben, dass das ein gutes Argument ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_7": {
+      "German": "Nach einer kurzen Diskussion entschließt ihr euch noch einmal nach dem Bären zu sehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_8": {
+      "German": "Zum Glück habt ihr den Eingang zu seiner Höhle markiert!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_9": {
+      "German": "Selbstbewusst, aber vorsichtig, tretet ihr erneut in die große Höhle und bemerkt, dass sie leer ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_10": {
+      "German": "Der Schlafplatz des Bären ist verlassen. Wo der wohl hin ist?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_11": {
+      "German": "Wahrscheinlich hat er sich zurückgezogen, nicht dass ihn noch jemand bei seinem Schläfchen stört.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_12": {
+      "German": "Oder er sucht sich gerade etwas zu fressen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_13": {
+      "German": "Beide könnten recht haben. Wo möchtest du suchen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_o1": {
+      "German": "Im tiefen Teil der Höhle",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_o2": {
+      "German": "Draußen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_0": {
+      "German": "Ihr betretet die Höhle und schaut euch um. Vielleicht ist er wirklich nur tiefer in die Höhle geflohen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_1": {
+      "German": "Langsam bahnt ihr euch einen Weg und versucht im spärlichen Licht etwas zu erkennen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_2": {
+      "German": "Solltet ihr euch noch einmal tiefer in die Höhle wagen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_3": {
+      "German": "Vielleicht könnten wir ihn auch einfach rufen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_4": {
+      "German": "Das ist keine schlechte Idee, dann erschrecken wir ihn auch nicht. Aber vielleicht wecken wir ihn dann nochmal auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_5": {
+      "German": "Willst du den Bären in der Dunkelheit suchen oder möchtest du lieber nach ihm rufen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_6": {
+      "German": "Schließlich willst du dich ja nur entschuldigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_o1": {
+      "German": "In die Höhle gehen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_o2": {
+      "German": "Rufen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_0": {
+      "German": "Du begibst dich in den tieferen Teil der Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_1": {
+      "German": "Direkt neben dem Gang, welcher euch in die hinteren Höhlensysteme führt, entdeckt ihr eine kleine Einbuchtung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_2": {
+      "German": "Ihr versucht in die Dunkelheit zu spähen. Dort könnt ihr sogar die Umrisse des Bären erkennen! Langsam nähert ihr euch dem Tier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_3": {
+      "German": "Leider könnt ihr in der Dunkelheit kaum etwas erkennen, weswegen ihr dem armen Bären auf den Schweif tretet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_4": {
+      "German": "Ein gequältes Jaulen schallt durch die Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_5": {
+      "German": "Wütend dreht sich der Bär zu euch und knurrt euch an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r1_6": {
+      "German": "Ihr schon wieder!?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_0": {
+      "German": "HALLLOOO BÄÄÄR!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_1": {
+      "German": "Sei höflich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_2": {
+      "German": "Dann eben... HALLO HERR BÄR!!? SIND SIE DA?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_3": {
+      "German": "Nichts.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_4": {
+      "German": "Versucht mal mit etwas zu rascheln. Vielleicht reagiert er besser auf solche Geräusche.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_5": {
+      "German": "Du raschelst mit einer Packung Chips herum, die du dir als kleinen Snack mitgenommen hast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_6": {
+      "German": "Und tatsächlich, sofort kommt etwas aus dem tieferen Teil der Höhle auf dich zugestampft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_7": {
+      "German": "Der Bär schleppt sich träge voran und schaut euch nur müde entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_8": {
+      "German": "Du reichst ihm die Tüte Chips, aus der er sich mit seiner erstaunlich langen Zunge einige Happen genehmigt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r1_d2_r2_9": {
+      "German": "Oje. Der Bär sieht ja gar nicht gut aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_0": {
+      "German": "Ihr entschließt euch dazu euch draußen umzusehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_1": {
+      "German": "Du bist der Meinung, dass ihr auf dem Weg zur Höhe an einem Baum vorbeigelaufen seid, an dem ein riesiger Bienenstock gewachsen ist!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_2": {
+      "German": "Vielleicht könntet ihr dort nachsehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_3": {
+      "German": "Das ist eine gute Idee!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_4": {
+      "German": "Vielleicht ist er aber auch am Fluss um etwas zu trinken. Dort können wir auch nachschauen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_5": {
+      "German": "Ihr nickt euch gegenseitig zu. Wo wollt ihr zuerst nachsehen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_o1": {
+      "German": "Bach",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_o2": {
+      "German": "Baum mit Honig",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_0": {
+      "German": "Ihr sucht als erstes am Bach nach dem verschwunden Bären. Und tatsächlich, nicht weit von der Höhle findet ihr ihn.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_1": {
+      "German": "Der Bär richtet seine leeren, trüben Blicke auf sein Spiegelbild im Wasser, bevor er lustlos daran schlürft. Dann bemerkt er euch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_2": {
+      "German": "Ihr schaut euch einen Moment lang an, bis er euch erkennt. Sein Blick verfinstert sich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_3": {
+      "German": "Ihr schon wieder? Könnt ihr mich nicht einfach in Frieden lassen?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_4": {
+      "German": "Gereizt stampft er an euch vorbei und zurück in die sichere und vor allem kühlere Umgebung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_5": {
+      "German": "Hitze scheint der Bär gar nicht gut zu vertragen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r1_6": {
+      "German": "Doch er hat nicht damit gerechnet, dass ihr ihm folgt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_0": {
+      "German": "Ihr sucht als erstes am Bienenstock, schließlich mögen Bären nichts lieber als Honig!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_1": {
+      "German": "Und tatsächlich, dort unter dem Baum sitzt der Bär und plündert träge den Bienenstock.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_2": {
+      "German": "Auch die kleinen Insekten, die wild um ihn herumkreisen scheinen ihn nicht zu stören.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_3": {
+      "German": "Oh Mann...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_4": {
+      "German": "Der sieht aber gar nicht gut aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_5": {
+      "German": "Du musst zugeben, der Bär sieht miserabel aus. Er stopft sich ja aus Frust regelrecht voll! Ihr tretet näher und der Bär erkennt euch sofort.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_6": {
+      "German": "Zu eurer Überraschung sucht er das Weite als er euch sieht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_7": {
+      "German": "Lustlos und traurig stampft er an euch vorbei und zurück in die sichere und vor allem kühlere Umgebung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_8": {
+      "German": "Hitze scheint der Bär gar nicht gut zu vertragen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_d1_r2_d3_r2_9": {
+      "German": "Besorgt folgt ihr dem Bären in die Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_0": {
+      "German": "Stinkig auf alles und jeden, aber vor allem auf euch, lässt sich der Bär auf sein Hinterteil fallen und fixiert euch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_1": {
+      "German": "Er fragt sich wahrscheinlich was ihr von ihm wollt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_2": {
+      "German": "Dass ihr ihn aus dem Schlaf gerissen habt, nimmt er euch nur mehr als übel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_3": {
+      "German": "Ihr habt den Armen aus seinem Sommerschlaf geweckt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_4": {
+      "German": "Das tut uns unglaublich leid. Wir wollten Sie wirklich nicht wecken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_5": {
+      "German": "Ja, Alter. Das ist echt doof gelaufen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_aggro_6": {
+      "German": "Auch du stimmst ihnen zu. Der Bär verschränkt nur die Pranken vor der Brust.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_0": {
+      "German": "Bedrückt rollt sich der Bär vor euch auf den Boden und bleibt bäuchlings liegen. Er wirkt unglaublich müde und deprimiert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_1": {
+      "German": "Ihr habt den Armen wohl aus dem Sommerschlaf geweckt. Schuldbewusst schaut ihr unter euch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_2": {
+      "German": "Das tut uns unglaublich leid. Wir wollten sie wirklich nicht wecken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_3": {
+      "German": "Ja, Alter. Das ist echt doof gelaufen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_4": {
+      "German": "Auch du stimmst ihnen zu. Der Bär seufzt erschlagen und pustet Luft durch seine Nase aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_5": {
+      "German": "Eure Entschuldigung ist lieb gemeint und er nimmt euch die Situation auch nicht besonders übel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_sad_6": {
+      "German": "Allerdings kann er jetzt nicht mehr einschlafen, egal wie müde er ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_0": {
+      "German": "Vielleicht können wir es wieder gutmachen und dir helfen einzuschlafen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_1": {
+      "German": "Der Bär hebt neugierig, aber skeptisch eine Augenbraue. Du musst zugeben, das wäre nur fair. Doch wie wollt ihr das anstellen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_o1": {
+      "German": "Schlafanzug",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_o2": {
+      "German": "Bett",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_o3": {
+      "German": "Nachtlicht",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_bear": {
+      "German": "Säbelzahnbär",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

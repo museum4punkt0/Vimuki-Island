@@ -1,0 +1,560 @@
+{
+   "t_se_2_help_aggro_d4_r1_0": {
+      "German": "Wenn ich einen schlechten Tag habe, dann zieh ich meinen Lieblingspyjama an! Der hilft mir immer beim Einschlafen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_1": {
+      "German": "Einen Schlafanzug? Der Bär schaut dir skeptisch entgegen. Wie soll ihm das helfen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_2": {
+      "German": "Außerdem...es gibt doch sicher keinen der groß genug für einen Bären wäre.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_3": {
+      "German": "Das Tier ist leider nicht so überzeugt von deiner Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_4": {
+      "German": "Du hingegen überlegst schon aus welchem Material du besagten Schlafanzug machen könntest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_0": {
+      "German": "Der Bär schaut trübsinnig vor sich hin. Einen Schlafanzug?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_1": {
+      "German": "Wenn ich einen schlechten Tag habe, dann zieh ich meinen Lieblingspyjama an! Der hilft mir immer beim Einschlafen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_2": {
+      "German": "Der Bär schaut euch skeptisch entgegen. Er hatte ja nicht nur einen schlechten Tag, er hatte einen ultra schlechten Tag!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_3": {
+      "German": "Wie soll ihm das helfen? Außerdem… es gibt doch sicher keinen der groß genug für einen Bären wäre.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_4": {
+      "German": "Der Bär ist leider nicht so überzeugt von dir wie du es bist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_5": {
+      "German": "Du hingegen überlegst schon aus welchem Material du besagten Schlafanzug machen könntest:",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d5_o1": {
+      "German": "Eure Kleidung",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d5_o2": {
+      "German": "Blätter",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d5_o3": {
+      "German": "Steine! Die sind überall!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d5_o4": {
+      "German": "RusH-Outdoor-Jacke",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_0": {
+      "German": "Du hast die Idee! Natürlich. Warum kratzige Blätter oder hartes Gestein verwenden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_1": {
+      "German": "Natürlich sind eure Kleider das passende Material für den Pyjama!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_2": {
+      "German": "Suzan und Chad schauen dich skeptisch an, aber in Anbetracht der anderen Alternativen ist das wohl eine solide Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_3": {
+      "German": "Chad beginnt mit einer beachtlichen Fingerfertigkeit, die einzelnen Kleidungsstücke zu einer noch nie dagewesenen Kreation zusammenzunähen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_4": {
+      "German": "Ihr reicht ihm eure Kleidung und erst als ihr nur noch in euren Unterhemden voreinander steht, legt er die glühende Nähnadel zur Seite.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_5": {
+      "German": "Chad hält euch seine neueste Kreation entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_6": {
+      "German": "Ich nenne es: Frankenjama! Man betrachte die weiche Sockenfütterung und die atmungsaktiven Außenseiten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_7": {
+      "German": "Ich sollte die Dinger vielleicht vermarkten, was meint ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_8": {
+      "German": "Ihr starrt das Ding an. Nun ja.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_9": {
+      "German": "Es ist definitiv ein schöner Schlafanzug, Chad.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r1_10": {
+      "German": "Sie lächelt ihm entgegen und aufeinmal schwillt seine Brust vor Stolz nur so auf. Nur der Bär schaut missgelaunt auf das Ergebnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_0": {
+      "German": "Blätter! Das könnten wir als Material benutzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_1": {
+      "German": "Ihr stimmt Suzan zu, nur der Bär wirkt skeptisch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_2": {
+      "German": "Er schaut euch missmutig dabei zu, wie du mit Suzan immer mehr Blätter von draußen in die Höhle bringst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_3": {
+      "German": "Chad nimmt in der Zwischenzeit die Maße des Bären ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_4": {
+      "German": "Mit vereinten Kräften näht ihr gemeinsam die einzelnen Blätter aneinander. Nach und nach bilden sich immer mehr Formen aus den Blättern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_5": {
+      "German": "Flink fängt Chad damit an das Blättergeflächt mit kühlendem Moos zu füttern. Schließlich mag es der Bär bestimmt kühl beim Schlafen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r2_6": {
+      "German": "Nach einer kleinen Ewigkeit ist er fertig. Der Bärenschlafanzug!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r3_0": {
+      "German": "Der Bär schaut dir missmutig dabei zu wie du den Schlafanzug aus Steinen anfertigst. Oder eher anfertigen willst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r3_1": {
+      "German": "Doch dann hältst du inne.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r3_2": {
+      "German": "Liebe Person hinter dem Bildschirm. WIE willst du das machen?! Willst du die Dinger zusammentackern oder was?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r3_3": {
+      "German": "Nach einer geschlagenen Ewigkeit musst du den Tatsachen ins Gesicht sehen. So wird das nicht funktionieren. Natürlich nicht...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r4_0": {
+      "German": "Du überlegst welches Material dir zur Verfügung steht und da fällt dir etwas ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r4_1": {
+      "German": "Natürlich! Was ist mit der wetterfesten Jacke von Rush!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r4_2": {
+      "German": "Der Bär wirkt skeptisch. Naja, die Jacke ist ja schick und wahrschienlich würde er verdammt gut darin aussehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r4_3": {
+      "German": "Aber die sieht jetzt nicht so aus, als ob sie ihm wirklich beim Einschlafen helfen könnte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r1_d5_r4_4": {
+      "German": "Probier die mal an, die ist der allerneueste Schrei!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_0": {
+      "German": "Du hast die Idee! Natürlich. Warum kratzige Blätter oder hartes Gestein verwenden wenn du das beste Material an deinem Körper trägst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_1": {
+      "German": "Ihr solltet eure Kleidung nehmen und damit ein Opfer bringen um euren Fehler wieder gut zu machen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_2": {
+      "German": "Suzan und Chad stimmen dir zu. Das ist wohl die beste Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_3": {
+      "German": "Chad beginnt mit einer beachtlichen Fingerfertigkeit damit, die einzelnen Kleidungsstücke zusammenzunähen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_4": {
+      "German": "Als ihr nur noch in euren Unterhemdchen voreinander steht, hält Chad euch seine neueste Kreation entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_5": {
+      "German": "Ich nenne es: Frankenjama! Man betrachte die weiche Sockenfütterung und die atmungsaktiven Außenseiten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_6": {
+      "German": "Ich sollte die Dinger vielleicht vermarkten, was meint ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_7": {
+      "German": "Ihr starrt das Ding an. Das ist ja... FANTASTISCH!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r1_8": {
+      "German": "Der Bär schaut brummig auf das Ergebnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_0": {
+      "German": "Blätter! Das könnten wir als Material benutzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_1": {
+      "German": "Ihr nickt Suzan zu! Der Bär brummt nur. Blätter würden auch nicht helfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_2": {
+      "German": "Die halten dich ja nicht kühl, sondern sind nur kratzig und unangenehm!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_3": {
+      "German": "Er schaut euch missmutig dabei zu, wie du mit Suzan immer mehr Blätter von draußen in die Höhle bringt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_4": {
+      "German": "Chad nimmt in der Zwischenzeit die Maße des Bären ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_5": {
+      "German": "Mit vereinten Kräften näht ihr gemeinsam die einzelnen Blätter aneinander. Immer mehr bildet sich aus dem Gerüst die Form eines Schlafanzuges.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_6": {
+      "German": "Schaut mal, damit können wir den Schlafanzug füttern!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_7": {
+      "German": "Er zeigt euch Moos, welches er tiefer in der Höhle gefunden hat. Es fühlt sich kühl auf eurer Haut an und wärmt sich kaum auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_8": {
+      "German": "Außerdem ist es äußerst fluffig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r2_9": {
+      "German": "Nach einer kleinen Ewigkeit ist er fertig. Der Bärenschlafanzug!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_0": {
+      "German": "Der Bär schaut dir träge dabei zu, wie du den Schlafanzug aus Steinen anfertigst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_1": {
+      "German": "Oder eher anfertigen willst. Für einen Moment hat er dich für ein intelligentes Wesen gehalten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_2": {
+      "German": "Auch du hälst in deiner Bewegung inne…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_3": {
+      "German": "Liebes Über-Ich hinter dem Bildschirm. WIE? Und WARUM?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_4": {
+      "German": "Leider musst du dich den Entscheidungen des Über-Ichs beugen und missmutig versuchst du die Steine als Material zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r3_5": {
+      "German": "Nach einer geschlagenen Ewigkeit musst du den Tatsachen ins Gesicht sehen. So wird das nicht funktionieren. Natürlich nicht...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r4_0": {
+      "German": "Du überlegst welches Material dir zur Verfügung steht und da fällt dir ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r4_1": {
+      "German": "Natürlich! Was ist mit der wetterfesten Jacke der Marke Rush, die du immer für den Fall der Fälle mit dir trägst?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r4_2": {
+      "German": "Der Bär wirkt skeptisch. Naja, da die Jacke so breit ist und Übergröße hat, würde sie an ihm bestimmt besser aussehen als an dir.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r4_3": {
+      "German": "Aber… die sieht jetzt nicht so aus als ob sie ihm wirklich beim Einschlafen helfen könnte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r1_d5_r4_4": {
+      "German": "Probier die mal an, die ist der allerneueste Schrei!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_0": {
+      "German": "Der Bär zieht die Jacke über und… ja! Sie passt perfekt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_1": {
+      "German": "Sie schmiegt sich elegant an seine Körperformen und wirkt beinahe so, als ob sie für diesen Bären selbst konstruiert wurde!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_2": {
+      "German": "Der Bär schnüffelt an den edlen Stoffen bevor er euch erstaunt anschaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_3": {
+      "German": "Ist das ein Geschenk für mich?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_4": {
+      "German": "Natürlich ist es das! Und sie ist nicht nur super bequem sie ist auch wärmeabweisend!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_5": {
+      "German": "Natürlich, wie sonst solltest du den in der Wüste besonders cool aussehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_best_6": {
+      "German": "Der Bär kühlt auf eine angenehme Temperatur herunter und brummt zufrieden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_good_0": {
+      "German": "Der Bär probiert skeptisch den Schlafanzug. Sollte er das Ding wirklich anziehen? Naja, was hatte er schon zu verlieren?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_good_1": {
+      "German": "Aber eins musste er zugeben. Irgendwie war es doch ein wenig bequem. Seine Lieder werden irgendwie schwerer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_good_2": {
+      "German": "Und das schöne Moos kühlte seine Temperatur sogar ab! Er fühlte sich wohlig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_0": {
+      "German": "Was war das denn? Der Bär schnuppert misstrauisch an eurer Kreation. Würde ihm das wirklich beim Einschlafen helfen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_1": {
+      "German": "Er probiert den Pyjama an, welcher zumindest passt wie angegossen. Auch wenn sein Bauch ein wenig aus dem unteren Teil seines Oberteils hängt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_2": {
+      "German": "Weich ist er zumindest. Der Bär legte sich hin und versucht die müden Augen zu schließen. Jedoch…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_3": {
+      "German": "Er rollt sich hin und her und findet nicht die richtige Schlafposition.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_4": {
+      "German": "Auch ist ihm der Schlafanzug viel zu heiß... Der wärmt ihn sogar noch richtig auf!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_ok_5": {
+      "German": "Er zieht sich das Stück Stoff wieder aus. All die Mühe... Etwa umsonst?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_nope_0": {
+      "German": "Das ging aber gewaltig in die Hose.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_nope_1": {
+      "German": "Steine als Schlafanzug! Das würden Chad und Suzan dir noch wochenlang vorhalten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_nope_2": {
+      "German": "Leider habt ihr keinen Schlafanzug und somit auch nichts, mit dem ihr dem Bären wirklich helfen könnt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r1_nope_3": {
+      "German": "Dieser versinkt wieder in Trübsal.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_bear": {
+      "German": "Säbelzahnbär",
+      "English": "",
+      "French": "",
+      "Spain": ""
+   }
+}

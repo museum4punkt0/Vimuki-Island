@@ -1,0 +1,89 @@
+﻿KEY;German;Englisch;French;Spain
+inv_0;Es wurde eine neue Insel mitten im Ozean entdeckt. Ein Paradies für viele Tiere und Pflanzen. Niemand hatte bis jetzt die Chance sie zu bereisen. (Klicke für weiter!);n/a;n/a;n/a
+inv_1;Das ist deine Gelegenheit! Dazu hast du dich mit den berühmtesten Unternehmer:innen deines Landes verabredet. Schließlich kostet eine solche Reise sehr viel Geld...;n/a;n/a;n/a
+inv_2;Jetzt musst du nur noch eine der Personen überzeugen und dein Abenteuer kann losgehen!;n/a;n/a;n/a
+inv_3;Deine Schritte hallen in den riesigen Räumen der Galerie wider, als du zügig zu deinem Termin eilst.;n/a;n/a;n/a
+inv_4;Du bleibst vor der Tür stehen, welche dich von den Unternehmer:innen trennt.;n/a;n/a;n/a
+inv_q1;Du siehst dich noch einmal im großen Wandspiegel des Flurs an… (Wähle eine Option!) ;n/a;n/a;n/a
+inv_q1_o1;Schlichte, aber ordentliche Kleidung;n/a;n/a;n/a
+inv_q1_o2;Markenklamotten und schicke Frisur;n/a;n/a;n/a
+inv_q1_o3;Arbeitskleider aus dem Atelier;n/a;n/a;n/a
+inv_q1_o4;Du bist im Matsch ausgerutscht;n/a;n/a;n/a
+inv_q2;Du trittst ein, während die Blicke deiner möglichen Unterstützer:innen auf dir liegen. Du wirkst...;n/a;n/a;n/a
+inv_q2_o1;...selbstsicher.;n/a;n/a;n/a
+inv_q2_o2;...nervös.;n/a;n/a;n/a
+inv_q2_r1;Du trittst mit erhobenem Kopf und festem Schritt in den Raum und blickst den Unternehmer:innen in die Augen. ;n/a;n/a;n/a
+inv_q2_r2;Du trittst unsicher in den Raum und meidest den Blick der Unternehmer:innen.;n/a;n/a;n/a
+inv_q3;Erzähl etwas über dich, Grünschnabel!;n/a;n/a;n/a
+inv_q3_o1;Ich bin gut organisiert und bereit für jede Hürde!;n/a;n/a;n/a
+inv_q3_o2;Ich höre immer auf mein Bauchgefühl!;n/a;n/a;n/a
+inv_q3_o3;Ich stehe mit beiden Beinen fest im Leben! ;n/a;n/a;n/a
+inv_q3_o4;Ich will stets etwas Neues auszuprobieren!;n/a;n/a;n/a
+inv_q4;Was versprichst du dir von dieser Reise? ;n/a;n/a;n/a
+inv_q4_o1;Groß rauskommen!;n/a;n/a;n/a
+inv_q4_o2;Die Welt sehen! ;n/a;n/a;n/a
+inv_q4_o3;Fremde Kulturen kennenlernen.;n/a;n/a;n/a
+inv_q4_o4;Inspirationen finden.;n/a;n/a;n/a
+inv_q5;Und wie bereitest du dich auf die Reise vor?;n/a;n/a;n/a
+inv_q5_o1;Ich habe mir viele Survival-Videos angeschaut!;n/a;n/a;n/a
+inv_q5_o2;Ich springe einfach ins kalte Wasser! ;n/a;n/a;n/a
+inv_q5_o3;Ich habe mich monatelang auf diese Reise vorbereitet!;n/a;n/a;n/a
+inv_q5_o4;Ich habe mich vorbereitet, aber es kann immer Probleme geben!;n/a;n/a;n/a
+inv_q6;Worauf legst du am meisten Wert?;n/a;n/a;n/a
+inv_q7;Jetzt mal etwas ganz anderes... [pause=0.5]Für welchen von uns würdest du dich denn entscheiden wollen?;n/a;n/a;n/a
+inv_q7_r1;Schmeichelhaft... [pause=0.5]Natürlich würdest du das sagen... ;n/a;n/a;n/a
+inv_q7_r2;[font=fnt_standard_bigitalic]HA! HA! HA![/font] Das hört man gerne, du Grünschnabel!;n/a;n/a;n/a
+inv_q7_r3_q1;Warum denkst du, dass ich deine Bilder brauche?;n/a;n/a;n/a
+inv_q7_r3_q1_o1;Weil es tolle Bilder sind, die etwas noch nie Dagewesenes zeigen!;n/a;n/a;n/a
+inv_q7_r3_q1_o2;Weil ich mit meiner Kunst etwas bewirken will!;n/a;n/a;n/a
+inv_q7_r3_q1_o3;Sie erzählen die Geschichte der Insel! Es ist ein tolles Abenteuer!;n/a;n/a;n/a
+inv_q7_r3_q1_r1_1;Wie oft glaubst du habe ich das schon gehört? ;n/a;n/a;n/a
+inv_q7_r3_q1_r1_2;Er sieht nicht besonders überzeugt aus.;n/a;n/a;n/a
+inv_q7_r3_q1_r2_1;Wenn du etwas bewirken willst, brauchst du mehr als nur Bilder...;n/a;n/a;n/a
+inv_q7_r3_q1_r2_2;Verschwende nicht meine Zeit...;n/a;n/a;n/a
+inv_q7_r3_q1_r3_1;Abenteuer sagst du...[pause=0.5] Soso…;n/a;n/a;n/a
+inv_q7_r3_q1_r3_2;Der Mann lehnt sich in seinem Rollstuhl zurück und scheint in Erinnerungen zu schwelgen. Auf seinem Gesicht erscheint ein Lächeln. ;n/a;n/a;n/a
+inv_q7_r4_1;[font=fnt_standard_bigitalic]Ha!...[/font][pause=0.5] Na was sagst du dazu?;n/a;n/a;n/a
+inv_q7_r4_2;Der Jungspund mag wohl Innovationen, Bruder!;n/a;n/a;n/a
+inv_5;Die Unterstützer:inenn schauen dich abschätzend an.  ;n/a;n/a;n/a
+inv_6;Nach einer kurzen Überlegung heben die interessierten Personen die Hand. Such dir deine Unterstützer:in aus! ;n/a;n/a;n/a
+inv_rush_1;Ich freu mich darauf, dich kennenzulernen. Du klingst unglaublich vielversprechend!;n/a;n/a;n/a
+inv_rush_2;Ich werde dich finanzieren, aber natürlich nur zu meinen Konditionen. Wie du sicher weißt, ist die Marke [color=#400080][font=fnt_standard_big]RusH[/font][/color] ein Modelabel für die besten Kleidungsstücke, denn wir alle sind Einzelstücke. ;n/a;n/a;n/a
+inv_rush_3;Mir ist es egal wovon du Bilder machst... Aber ich möchte, dass du wie [color=#400080][font=fnt_standard_big]RusH[/font][/color] lebst!;n/a;n/a;n/a
+inv_rush_4;Wie [color=#400080][font=fnt_standard_big]RusH[/font][/color] atmest!;n/a;n/a;n/a
+inv_rush_5;Dass du... [pause=0.5] [color=#400080][font=fnt_standard_big]RusH[/font][/color] bist!;n/a;n/a;n/a
+inv_rush_6;Deswegen hier ein Stück aus meiner neuen Kollektion!;n/a;n/a;n/a
+inv_rush_7;Sie reicht dir ein Paket mit einer wetterfesten Jacke im modischen Schnitt. Sie wirkt unhandlich, jedoch ziemlich cool.;n/a;n/a;n/a
+inv_rush_8;Wie findest du sie? Ein Kunstwertk nicht wahr? Und hier...[pause=0.5] natürlich die Reisetickets. Also beeil dich lieber. Ich bin auf meine Fotos gespannt.;n/a;n/a;n/a
+inv_scholle_1;[font=fnt_standard_bigitalic]OI![/font] Ich wusste, dass etwas in dir steckt, Grünschabel! Das wird ein tolles Geschäft!;n/a;n/a;n/a
+inv_scholle_2;Er reibt sich die Hände.;n/a;n/a;n/a
+inv_scholle_3;Scholle steht für Effektivität, Haltbarkeit und Effizienz! Deswegen möchte ich dir etwas mitgeben, das dir zur Erfoschung des Gebietes sicher nützlich sein wird!;n/a;n/a;n/a
+inv_scholle_4;Er übergibt dir ein reißfestes Netz.;n/a;n/a;n/a
+inv_scholle_5;Das Scholle RV7-Karbonnetz! Viel Spaß auf deiner Reise! Und bring dem alten Scholle etwas mit, ne?!;n/a;n/a;n/a
+inv_wealth_1;Ich muss sagen, Jungspund... [pause=0.5]du hast mich tatsächlich dazu gebracht, dir auf deinem Weg zu helfen.;n/a;n/a;n/a
+inv_wealth_2;Reise auf die Insel und sieh zu, dass du ordentliche Fotos machst! Vor allem, damit ich deine Reise bis ins Detail nachverfolgen kann...;n/a;n/a;n/a
+inv_wealth_3;Er wirkt freundlicher.;n/a;n/a;n/a
+inv_wealth_4;Ich hoffe, du wirst genauso viel Spaß haben wie ich damals. Denn ob du's glaubst oder nicht...[pause=0.5] in diesen alten Knochen steckt immer noch Abenteuergeist!!!;n/a;n/a;n/a
+inv_wealth_5;Außerdem möchte ich dir etwas sehr Wichtiges anvertrauen.;n/a;n/a;n/a
+inv_wealth_6;Er reicht dir ein altes ledernes Buch. Auf dem Einband kann man eine Fliege erkennen.;n/a;n/a;n/a
+inv_wealth_7;Du wirst auf dieser Insel vielen Gefahren ins Auge sehen, aber auch viele neue Freunde kennenlernen.;n/a;n/a;n/a
+inv_wealth_8;Dies hier wird dir helfen, dich nicht komplett zu verlieren.;n/a;n/a;n/a
+inv_wealth_9;Ich wünsche dir viel Erfolg bei deiner Reise.;n/a;n/a;n/a
+inv_crowd_1;Bei uns bist du richtig! Schließlich ist Erfolg unser größtes Ziel.;n/a;n/a;n/a
+inv_crowd_2;Genauso wie es die Innovation ist! Es freut uns, bei deinem Vorhaben einzusteigen.;n/a;n/a;n/a
+inv_crowd_3;Du solltest dich trotzdem gut vorbereiten.;n/a;n/a;n/a
+inv_crowd_4;Um dir deine Reise zu erleichtern, möchten wir dir das hier mit auf den Weg geben. Ein neues Projekt der [font=fnt_standard_bigitalic][color=#006600]Crowd & Funding Gesellschaft[/color][/font]!;n/a;n/a;n/a
+inv_crowd_5;Es steckt noch in den Kinderschuhen, deswegen ist es noch nicht auf dem Markt.;n/a;n/a;n/a
+inv_crowd_6;Der Prototyp ist sehr empfindlich, aber er ist der Beste!;n/a;n/a;n/a
+inv_crowd_7;Sie reichen dir eine Apparatur, die dich stark an ein Taschenmesser erinnert. [pause=0.5]Nur größer... [pause=0.5][font=fnt_standard_big]sehr viel größer...[/font];n/a;n/a;n/a
+inv_crowd_8;Ein Multi-Survivaltool!;n/a;n/a;n/a
+inv_crowd_9;Bevor wir es vergessen: hier hast du noch deine Tickets!;n/a;n/a;n/a
+inv_crowd_10;Wir freuen uns auf deinen Fortschritt!;n/a;n/a;n/a
+inv_7;Dein Investor reicht dir die Schiffstickets. Vergiss nicht, dir den Speichercode [color=#0000FF]aufzuschreiben[/font]!;n/a;n/a;n/a
+notfall_0;Leider hast du etwas lange gebraucht. Du musst zurück zur Führung. ;;;
+notfall_rush;Deine Unterstützerin Ravina Rush gibt dir noch schnell ihre modische Outdoorjacke und dein Schiffsticket. ;;;
+notfall_scholle;Dein Unterstützer Leutnant Scholle gibt dir noch schnell sein reissfestes Netz und dein Schiffsticket. ;;;
+notfall_rich;Dein Unterstützer Mr. Rich Wealth gibt dir noch schnell dein Schiffsticket.;;;
+notfall_crowd;Deine Unterstützer Geschwister Crowd & Funding geben dir noch schnell ihr Multitool und dein Schiffsticket. ;;;
+notfall_none;Aber die Geschwister Crowd & Funding sind so von dir überzeugt, dass sie dich unterstützen möchten. Sie geben dir ihr Multitool und dein Schiffsticket. ;;;
+notfall_1;Vergiss nicht, dir den Speichercode [color=#0000FF]aufzuschreiben[/font]!;;;

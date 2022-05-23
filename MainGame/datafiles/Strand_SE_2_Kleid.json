@@ -1,0 +1,614 @@
+{
+   "s_se_2_kleid_0": {
+      "German": "Ihr beginnt damit das Brautkleid zusammenzustellen. Leider habt ihr keine Stoffe oder andere Materialien, die ihr dafür benutzen könnt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_1": {
+      "German": "Darum sucht ihr den Meeresgrund und den Strand nach Sachen ab, die ihr für das Kleid verwenden könntet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_2": {
+      "German": "Wir sollten uns überlegen, was das überhaupt für ein Kleid werden soll! Dann fällt uns die Suche sicher leichter.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_3": {
+      "German": "Irgendwas fischiges bestimmt, schließlich ist das ja eine Meerfrau.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_4": {
+      "German": "Chad sammelt einige Materialien zusammen und präsentiert sie euch stolz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_5": {
+      "German": "Vor euch liegen ein Haufen Muscheln, ein Eimer Meeresschaum und ein Hügel Algen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_6": {
+      "German": "Ihr müsst wohl das nehmen, was ihr kriegen könnt. Was davon wollt ihr verwenden?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_o1": {
+      "German": "Algen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_o2": {
+      "German": "Meerschaum",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_o3": {
+      "German": "Muscheln",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_o4": {
+      "German": "Scholles Netz",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r1_0": {
+      "German": "Du entscheidest dich für die Algen, aus denen kann man doch bestimmt ein schönes Hochzeitskleid zaubern, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r1_1": {
+      "German": "Wir müssen die unbedingt vorher trocknen, das kann man ja nicht anziehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r1_2": {
+      "German": "Lassen wir das, die nassen Algen sind echt perfekt elastisch. Die lassen sich bestimmt gut verformen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r1_3": {
+      "German": "Ich weiß nicht, ob das dann optisch wirklich gut aussieht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r1_4": {
+      "German": "Während die zwei angeregt diskutieren, triffst du eine Entscheidung. Was willst du tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_o1": {
+      "German": "Trocknen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_o2": {
+      "German": "Nass zusammenkleben",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_0": {
+      "German": "Ihr schwimmt wieder zum Strand, um die Algen etwas stabiler zu machen. Einzeln legt ihr die Algenstreifen auf einen Stein in die pralle Sonne.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_1": {
+      "German": "Da heute ein wirklich heißer und wolkenloser Tag ist, dauert es auch nicht lange, bis die Algen fertig getrocknet sind.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_2": {
+      "German": "Vergeblich versucht ihr die trockenen und porösen Algen zusammenzubinden, aber leider zerbröseln sie ständig in euren Händen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_3": {
+      "German": "Das klappt so gar nicht, das ist total unstabil. Ich krieg nur das hier hin.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_4": {
+      "German": "Chad hält euch einen Fetzen entgegen, der aussieht wie ein alter Waschlappen. Frustriert wirft er diesen ins Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_5": {
+      "German": "Die Algen saugen sich wieder mit dem Wasser voll und der Fetzen wird zu einem Algenknäuel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_6": {
+      "German": "Warum machen wir das hier eigentlich? Das wird doch eh wieder nass!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_7": {
+      "German": "Verdammt, das habe ich echt übersehen. Oh Mann! Die Mühe hätten wir uns auch sparen können.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_8": {
+      "German": "Tja, das hattet ihr wohl nicht ganz durchdacht. Ihr nehmt euer Knäuel mit, um es Scholle zu zeigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r1_9": {
+      "German": "Hoffentlich hat die Braut einen sehr eigenen Geschmack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_0": {
+      "German": "Ihr entscheidet euch dafür die Klebrigkeit der Algen zu nutzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_1": {
+      "German": "Chad schnappt sich sofort ein paar der Meeresblätter und knüpft sie geschickt zusammen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_2": {
+      "German": "Mit seiner multifunktionalen Nagelschere gibt er seiner Kreation noch den letzten Schliff. Stolz hält er euch sein Werk entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_3": {
+      "German": "Na? Wie findet ihr's. Ich denke das kann sich sehen lassen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_4": {
+      "German": "Ich wusste gar nicht, dass du sowas kannst. Wahnsinn!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_5": {
+      "German": "Tja, ich wollte tatsächlich mal Modedesigner werden! Inzwischen ist das ein echt geiles Hobby geworden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_6": {
+      "German": "Aber natürlich schlummern in mir noch weitere verborgene Talente.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_7": {
+      "German": "Er zwinkert euch zu und reicht dir das Kleid, das wie ein fesches Cocktailkleid aussieht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d2_r2_8": {
+      "German": "Jetzt müsst ihr es nur noch Scholle zeigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_0": {
+      "German": "Du entscheidest dich für den Meeresschaum, aus dem kann man doch bestimmt ein schönes Hochzeitskleid zaubern, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_1": {
+      "German": "Bah! Das klebt ja wie die Hölle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_2": {
+      "German": "Ja, das ist wie so ein Spinnennetz, voll widerlich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_3": {
+      "German": "Ihr knetet an dem Schaum herum, welcher lauter klebrige Fäden zieht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_4": {
+      "German": "Wie durch ein Wunder schafft ihr es tatsächlich ein schönes Kleid zu formen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_5": {
+      "German": "Das sieht auf jeden Fall nach einem Kleid aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_6": {
+      "German": "Ja aber nur so halb. Da fehlt auf jedenfall noch der letzte Schliff.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_7": {
+      "German": "Zu dritt seht ihr euch nach anderem Material um. Vor euch liegen nur noch ein paar Stücke Treibholz und natürlich Sand.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_8": {
+      "German": "Euch bleibt wohl nichts anderes übrig, als dem Kleid mit einem dieser Dinge den letzten Schliff zu verpassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r2_9": {
+      "German": "Was benutzt ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_o1": {
+      "German": "Sand",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_o2": {
+      "German": "Treibholz",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_0": {
+      "German": "Chad nimmt eine handvoll Sand und wirft ihn auf eine kleine Stelle des Kleides.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_1": {
+      "German": "Die einzelnen Sandkörner beginnen im Sonnenlicht zu glitzern und zu schimmern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_2": {
+      "German": "Das könnte vielleicht nach was aussehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_3": {
+      "German": "Ihr bewerft zusammen das gesamte Kleid mit Sand. Keine freie Stelle darf übrig bleiben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_4": {
+      "German": "Ihr schüttelt den überschüssigen Sand ab und betrachtet euer Ergebnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r1_5": {
+      "German": "Es ist ein hübsches Empire-Kleid geworden. Jetzt müsst ihr es nur noch Leutnant Scholle zeigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_0": {
+      "German": "Suzan befestigt viele kleine Treibholzstücke am klebrigen Kleid. Aus diesem ist nun ein braunes fusseliges Etwas entstanden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_1": {
+      "German": "Was ist das denn? Das ist ja voll hässlich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_2": {
+      "German": "Ich weiß.... ich kann das eben nicht so gut wie du! Immerhin hält es warm oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_3": {
+      "German": "Vielleicht, aber zuerst fängst du dir einen Haufen Splitter ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_4": {
+      "German": "Tja, das habt ihr wohl nicht ganz durchdacht. Hoffentlich hat die Braut einen sehr eigenen Geschmack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d3_r2_5": {
+      "German": "Ihr schnappt euch euer \"Kleid\" und geht zu Scholle, um es ihm zu zeigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_0": {
+      "German": "Ihr schnappt euch ein paar Muscheln und überlegt, wie ihr daraus ein Kleid schneidern könnt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_1": {
+      "German": "Wir könnten sie ja aufknüpfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_2": {
+      "German": "Das dauert viel zu lange, die Hochzeit ist doch heute. Außerdem haben wir nichts zum Aufknüpfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_3": {
+      "German": "Wir könnten doch Kokosfasern nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_4": {
+      "German": "Und warum nehmen wir nicht direkt Palmenblätter? Die haben viel mehr Fläche.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_5": {
+      "German": "Weil Muscheln viel schöner sind. Sowas würde doch viel mehr Aufsehen erregen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r3_6": {
+      "German": "Während die zwei diskutieren, triffst du eine Entscheidung. Was willst du tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_o1": {
+      "German": "Palmenblätter",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_o2": {
+      "German": "Muscheln aufknüpfen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_0": {
+      "German": "Die großen Palmenblätter würden sich wirklich besser für ein Kleid eignen als die Muscheln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_1": {
+      "German": "Ihr schwimmt zurück an den Strand, um ein paar Palmenblätter zu sammeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_2": {
+      "German": "Gemeinsam faltet ihr die großen, stabilen Blätter zu einem schicken Cocktail-Kleid zusammen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_3": {
+      "German": "Mit seiner All-Zweck Nagelschere gibt Chad dem Ganzen noch den letzten Schliff.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_4": {
+      "German": "Chad, ich wusste gar nicht, dass du sowas kannst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_5": {
+      "German": "Du weißt halt nicht immer alles, Suzan.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_6": {
+      "German": "Er zwinkert ihr zu und reicht dir stolz das Cocktail-Kleid.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r1_7": {
+      "German": "So etwas hat die Meeresprinzessin bestimmt noch nie getragen. Das hier ist echt exotische Landware.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r2_0": {
+      "German": "Muscheln sind einfach viel schöner, da hat Chad schon recht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r2_1": {
+      "German": "Nachdem ihr am Strand eine Vielzahl von Muscheln gesammelt habt, beginnt ihr aus Kokosnüssen Kokosfasern zu gewinnen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r2_2": {
+      "German": "Dies nimmt viel Zeit in Anspruch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r2_3": {
+      "German": "Mit den Kokosfasern im Gepäck nehmt ihr eure Muscheln, um diese anschließend aufzuküpfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d4_r2_4": {
+      "German": "Ihr habt nicht einmal die Hälfte des Kleides fertiggestellt, als bereits Scholle zu euch herüberkommt, um euren Fortschritt zu begutachten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_0": {
+      "German": "Du erinnerst dich an das Netz, welches Scholle dir für die Reise mitgegeben hat, und kramst es aus deinem Rucksack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_1": {
+      "German": "Vielleicht kann man das irgendwie benutzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_2": {
+      "German": "Alter, dass ist ja voll die krasse Idee!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_3": {
+      "German": "Er schnappt sich das Carbon-Netz aus deinen Händen und hält es ins Licht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_4": {
+      "German": "Das Material beginnt bläulich zu schimmern und zu glänzen, das würde sicher toll an Enya aussehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_5": {
+      "German": "Chad zieht seine Allzweck-Nagelschere aus seiner Tasche und beginnt damit an dem Netz herumzuschnippeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_6": {
+      "German": "Nach und nach entsteht ein elegantes Abendkleid.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_7": {
+      "German": "Chad, das ist wunderschön. Wo hast du sowas gelernt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_8": {
+      "German": "Naja, für meine Viewer:innen muss ich ja auch immer voll stylisch aussehen. Da muss man sich schon was einfallen lassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_d1_r4_9": {
+      "German": "Stolz übergibt dir Chad das Abendkleid. Jetzt müsst ihr es nur noch Scholle zeigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_gut_0": {
+      "German": "Begeistert rennt ihr zu Scholle, um ihm euer Hochzeitskleid zu präsentieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_gut_1": {
+      "German": "Du reichst Scholle das Modestück, das er vor sich ausbreitet und genau inspiziert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_gut_2": {
+      "German": "Jesses, das ist wirklich schön. Meine Seeanemone wird darin so hell strahlen wie der Polarstern!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_gut_3": {
+      "German": "Scholle grinst zufrieden in sich hinein. Euer Kleid ist einfach perfekt geworden. Die Braut wird bestimmt überglücklich sein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_schlecht_0": {
+      "German": "Was soll das denn sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_schlecht_1": {
+      "German": "Du reichst Scholle das Kleid, welcher es vor sich ausbreitet und genau inspiziert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_schlecht_2": {
+      "German": "Das ist doch kein Kleid. Das sieht aus wie ein zerknautschtes Segel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_schlecht_3": {
+      "German": "Naja, was solls. Meine Liebe ist sowieso schon hübsch genug für mich, auch ohne Hochzeitskleid.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_2_kleid_schlecht_4": {
+      "German": "Leider ist euer Kleid ein Reinfall. Ob eine Hochzeit ohne Brautkleid gut ausgeht? Ihr könnt nur hoffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

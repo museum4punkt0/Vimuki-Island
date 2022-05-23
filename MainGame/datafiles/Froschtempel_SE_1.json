@@ -1,0 +1,932 @@
+{
+   "f_intro_0": {
+      "German": "Du hast von einem Tempel auf der anderen Seite der Insel gehört, welcher unglaubliche Gefahren aber auch unglaublichen Spaß beherbergen soll.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_intro_0_b": {
+      "German": "Zumindest laut der Broschüre, welche du von den Affen bekommen hast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_intro_1": {
+      "German": "Und so reist du durch die Gefahren des Dschungels und findest dich vor einer mächtigen Konstruktion aus festem, dicken Stein wieder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_intro_2": {
+      "German": "Um euch herum ist sumpfiges Gelände mit einigen kleinen und großen Seerosenteichen, die in voller Blüte stehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_0": {
+      "German": "Heute ist ein klasse Tag, um den mysteriösen Tempel zu erkunden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_1": {
+      "German": "Ihr packt eure Rucksäcke und schlagt euch durch das dichte Gewächs, das sich zwischen euch und eurem Ziel befindet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_2": {
+      "German": "Chad fällt sofort etwas auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_3": {
+      "German": "Was für ein Tier macht denn solche Spuren?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_4": {
+      "German": "Zeig mal! Hm.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_5": {
+      "German": "Chad hat Recht. Die Felsen, die Gebüsche und auch der Schlamm um euch herum weisen merkwürdige Spuren auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_6": {
+      "German": "Sind die Kratzer und Fußspuren etwa von einem Tier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_7": {
+      "German": "Ihr beschließt der Sache auf den Grund zu gehen und die Spuren zu untersuchen. Wo fangt ihr an?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_o1": {
+      "German": "Schlamm",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_o2": {
+      "German": "Gebüsch",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_o3": {
+      "German": "Felsen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_0": {
+      "German": "Ihr zwängt euch durch die dichten Blätter des Gebüschs. Etwas tiefer findest du ein paar hübsch verzierte Tonscherben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_1": {
+      "German": "Sieht so aus, als würden sie zu einem kaputten Krug oder etwas Ähnlichem gehören.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_2": {
+      "German": "Deinen Fund zeigst du sofort deinen Freund:innen, die die Scherben anschließend interessiert untersuchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_3": {
+      "German": "Tiere benutzen doch keine Krüge, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_4": {
+      "German": "Vielleicht ist ja jemanden irgendwas passiert? Vielleicht sogar den Affen vom Camp.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_5": {
+      "German": "Das könnte schon sein, aber im Camp habt ihr noch keine Krüge mit diesen Verzierungen gesehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r1_6": {
+      "German": "Merkwürdig. Vielleicht geben euch die anderen Spuren mehr Informationen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_0": {
+      "German": "In der Schlammpfütze findet ihr einen seltsamen Fußabdruck.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_1": {
+      "German": "Sieht aus wie von einem Frosch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_2": {
+      "German": "Der ist ja riesig. Was soll das denn für ein Monsterfrosch sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_3": {
+      "German": "Keine Ahnung, vielleicht werden sie in dieser Umgebung ja so groß.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_4": {
+      "German": "Sicher. Ich denke ja die Affen wollen uns bestimmt nur pranken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_5": {
+      "German": "Handelt es sich hier um einen albernen Streich oder doch um ein riesiges Monster?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r2_6": {
+      "German": "Vielleicht geben euch die anderen Spuren mehr Hinweise.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_0": {
+      "German": "Diese Kratzspuren auf den leicht überwucherten Felsen sind schon ziemlich auffällig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_1": {
+      "German": "In ihnen kannst du sogar einige dir bekannte Formen erkennen, wie Richtungspfeile oder durchgekreutzte Quadrate.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_2": {
+      "German": "Vielleicht handelt es sich hierbei um Hieroglyphen. Ich probiere mal was aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_3": {
+      "German": "Suzan versucht mit ihrer Kamera die Felsen abzuscannen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_4": {
+      "German": "Anscheinend möchte sie mit ihrer Übersetzungsapp die Zeichen entschlüsseln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_5": {
+      "German": "Und? Was steht da jetzt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_6": {
+      "German": "Kein Resultat. Vielleicht ist das ja keine Sprache.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d1_r3_7": {
+      "German": "Ihr geht zurück zu den anderen Hinweisen und fragt euch, von wem die Kratzer wohl stammen könnten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_8": {
+      "German": "Auf einmal hört ihr ein Rascheln in eurer Nähe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_9": {
+      "German": "Hört ihr das auch?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_10": {
+      "German": "Ja, lass uns nachsehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_11": {
+      "German": "Das Geräusch wird lauter, je näher ihr ihm kommt. Langsam ändert es sich zu einem verzweifelten Quaken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_12": {
+      "German": "Ihr betretet eine Lichtung im Dschungel, in deren Mitte ein großer Baum steht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_13": {
+      "German": "Hinter den riesigen Blättern des Baumes entdeckt ihr einen großen Frosch, der euch bis zur Hüfte reicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_14": {
+      "German": "Zumindest würde er das, wenn er nicht in einer Springfalle stecken würde.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_15": {
+      "German": "Verflixt und zugequackt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_16": {
+      "German": "Ihr müsst dem feuerroten Frosch helfen, der über euren Köpfen baumelt. Doch wie wollt ihr das anstellen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_17": {
+      "German": "Suzan durchsucht eure Rucksäcke nach etwas Hilfreichem.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_18": {
+      "German": "Zu deiner Überraschung versucht dich der Frosch vergeblich auf etwas hinzuweisen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_19": {
+      "German": "Mit seinem gespreizten Fuß deutet er auf ein Blatt, welches unter ihm liegt. Du hebst es an und findest einen Bumerang.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_20": {
+      "German": "Chad kommt dir mit einem Stock voller Termiten entgegen und Suzan präsentiert dir eine Lupe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_21": {
+      "German": "Ihr sammelt eure Fundstücke auf einem Haufen und überlegt, womit ihr den Frosch am besten befreien könnt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_o1": {
+      "German": "Äste",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_o2": {
+      "German": "Boomerang",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_o3": {
+      "German": "Termiten",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_o4": {
+      "German": "Lupe",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_0": {
+      "German": "Wir könnten die Äste ja zusammenstecken, um eine lange Rute zu bauen. Damit kommen wir zumindest an das Netz ran.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_1": {
+      "German": "Wäre eine Leiter nicht besser?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_2": {
+      "German": "Hmmm, ja..das könnte auch gehen. Aber wir haben nichts, um die Stöcke aneinander zu binden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_3": {
+      "German": "Suzan pflückt ein paar Lianen von einem der Bäume und hält sie Chad entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_4": {
+      "German": "Sofort bindet ihr die Stöcke und Äste mit den Lianen zusammen und baut so eine ziemlich stabile Leiter.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_5": {
+      "German": "Damit könnt ihr den Frosch sicher herunterholen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_6": {
+      "German": "Suzan klettert geschickt die Leiter hinauf, um den Knoten des Netzes zu lösen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_7": {
+      "German": "Der Frosch schaut sie dabei mit seinen großen, glubschigen Augen neugierig an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r1_8": {
+      "German": "Nachdem der Knoten gelöst wurde, senkt Suzan das Netz der Falle vorsichtig nach unten, um den Frosch nicht zu verletzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_0": {
+      "German": "Wenn der Frosch dich schon auf den Bumerang hinweist, dann liegt es natürlich nahe diesen auch zu benutzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_1": {
+      "German": "In dem Moment in dem du ausholst, um den Bumerang Richtung Falle zu werfen, stupst dich Chad von der Seite an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_2": {
+      "German": "BOAH, kann ich?! Ich weiß wie das geht! Ich habe ein Video gesehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_3": {
+      "German": "Lion Barbecue macht das auch immer in seinen Clips. Das war mega krass!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_4": {
+      "German": "Na gut. Du gibst dem aufgeregten Chad skeptisch den Bumerang.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_5": {
+      "German": "Diese Chance kannst du deinem Freund einfach nicht verwehren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r2_6": {
+      "German": "Chad wirft den Bumerang gezielt auf das tragende Seil des Netzes, das wie Butter von dem Wurfgeschoss zerschnitten wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_0": {
+      "German": "Termiten sind perfekt. Die fressen sich durch alles durch, bestimmt auch durch Fallen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_1": {
+      "German": "Du legst den befallenen Ast unter den Baum, an dem die Falle mit dem Frosch hängt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_2": {
+      "German": "Die kleinen hungrigen Käfer klettern in Windeseile den Baum hinauf und zerfressen den gesamten Stamm in nur wenigen Sekunden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_3": {
+      "German": "Alter...was zum. Was sind das denn für Viecher?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_4": {
+      "German": "Oh oh, schnell der Frosch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_5": {
+      "German": "Zu spät! Der Frosch klatscht flach auf dem Boden auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_6": {
+      "German": "Er richtet sich auf und blickt zuerst zu euch und dann auf die Termiten, die sich langsam durch den Wald fressen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r3_7": {
+      "German": "Er sieht wütend aus. Plötzlich beginnt er laut zu quaken. Es hört sich ein wenig wie ein Alarmsignal an. Ojee...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_0": {
+      "German": "Die Lupe! Aber natürlich! Wenn ihr mit der Lupe das Licht richtig bündelt, dann könnt ihr das Seil des Fangenetzes sauber durchtrennen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_1": {
+      "German": "Suzan sucht nach einem Loch im Blätterdach des Dschungels, durch das die Sonne durchscheint.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_2": {
+      "German": "Mit der Lupe versucht sie das Licht zu bündeln und zielt auf die Falle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_3": {
+      "German": "Au! Das war mein Auge!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_4": {
+      "German": "Suzan, kannst du nicht besser zielen?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_5": {
+      "German": "Ich versuch doch schon mein Bestes! Das ist gar nicht so leicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_6": {
+      "German": "Suzan braucht viele Versuche bis sie das Seil endlich durchtrennen kann.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_7": {
+      "German": "Dabei hat sie den Frosch mehrfach versehentlich geblendet und ganz leicht verbrannt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_8": {
+      "German": "Der Frosch fällt samt Falle zu Boden und schaut euch genervt an. Was war das denn für eine grobe Behandlung?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_9": {
+      "German": "Springen diese Menschlinge denn mit allen so um?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_d2_r4_10": {
+      "German": "Plötzlich beginnt der Frosch laut zu quaken. Es hört sich ein wenig wie ein Alarmsignal an. Ojee...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_0": {
+      "German": "Der Frosch ist frei, Hurra! Doch anstatt wegzuhüpfen, hüpft er nun auf euch zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_1": {
+      "German": "Gar nicht mal so schlecht! Ihr habt ein geschicktes Händchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_2": {
+      "German": "Bist du verletzt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_3": {
+      "German": "Pff. Mir passiert so schnell nichts! Schließlich kenne ich die Gegend wie meine Schwimmhäute! Ich bin übrigens Croak.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_4": {
+      "German": "Du stellst dich, Suzan und Chad freundlich vor. Croak bedankt sich noch einmal für eure Hilfe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_5": {
+      "German": "Wer auch immer diese verflixten Dinger aufgestellt hat, den sollte Mashpotato höchst selbst erschlagen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_6": {
+      "German": "Ihr seid schwer in Ordnung. Kommt mal mit, ich will euch etwas zeigen. Mir nach!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_freund_7": {
+      "German": "Was das nur sein könnte? Gespannt folgt ihr Croak, der leichtfüßig durch das Geäst springt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_0": {
+      "German": "Was schreit der denn jetzt? Der is ja jetzt frei, oder nicht?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_1": {
+      "German": "Das hört sich an, als ob er jemanden rufen will.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_2": {
+      "German": "Wie rufen?! Was will der denn hier rufen? Verstärkung oder was?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_3": {
+      "German": "Warte mal! Bitte!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_4": {
+      "German": "Der Frosch hört tatsächlich mit dem Quaken auf und schaut Suzan misstrauisch an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_5": {
+      "German": "Der Zorn steht ihm ins Gesicht geschrieben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_6": {
+      "German": "Was? Was wollt ihr? Ihr seid Eindringlinge und keine freundlichen obendrein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_7": {
+      "German": "Wir wollten dir doch nur helfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_8": {
+      "German": "Ne GROßE Hilfe seid ihr gewesen. Ihr habt's nur noch schlimmer gemacht, ihr Grobiane.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_9": {
+      "German": "Du bist aber ziemlich undankbar dafür, dass wir dich aus dem Netz befreit haben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_10": {
+      "German": "Da hätte ich mich auch selbst raushohlen können! Gut. Dann frag ich jetzt eben direkt! Seid ihr Freund oder Feind?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_11": {
+      "German": "Ai, was denkst du denn?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_12": {
+      "German": "Freund:innen natürlich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_13": {
+      "German": "Sie hält Chad davon ab noch mehr zu reden. Er hat schon genug gesagt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_14": {
+      "German": "Freund:innen?! PAH. Beweist es!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_15": {
+      "German": "Ihr überlegt, wie ihr das am besten beweisen könnt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_16": {
+      "German": "Suzan schlägt vor den Frosch mit ihrem Wissen über die Pflanzenwelt zu überzeugen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_17": {
+      "German": "Chad hingegen möchte ihm seine neuen Bio-Kosmetikprodukte zeigen, die er von einem seiner Sponsor:innen geschickt bekommen hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_18": {
+      "German": "Was denkst du?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_o1": {
+      "German": "Bio-Produkte",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_o2": {
+      "German": "Pflanzen-Facts",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_0": {
+      "German": "Bio-Produkte sind doch automatisch auch gut für die Umwelt, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_1": {
+      "German": "Das wird den Frosch doch bestimmt beeindrucken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_2": {
+      "German": "Chad präsentiert dem sprunghaften Zweibeiner sein Repertoir aus Öko-Handcremes.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_3": {
+      "German": "Der Frosch schaut ihn nur skeptisch an. War das etwa Salbe für Kampfwunden?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_4": {
+      "German": "Schau mal. Diese Handcreme ist voll natürlich aus echter seltener Gold-Aloevera. Das macht die Haut babyweich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_5": {
+      "German": "Sowas macht ihr aus Pflanzen? Was bringt das denn?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_6": {
+      "German": "Hier, probier mal!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_7": {
+      "German": "Chad schmiert dem Frosch ein wenig von der Creme auf den dünnen Arm.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_8": {
+      "German": "Leider weiß er nicht, dass die Haut von Fröschen extrem empfindlich ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_9": {
+      "German": "NA?! Merkst'e schon irgendwas?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_10": {
+      "German": "Ihhh! Das stinkt und brennt ja! Was ist das für Zeug?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_11": {
+      "German": "Handcreme! Das hab ich doch gesagt… Die stinkt gar nicht und brennen sollte sie auch nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_12": {
+      "German": "Ihr habt mich ausgetrickst! Das ist ein Angriff auf meine Froschigkeit!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r1_13": {
+      "German": "Der Frosch beginnt wieder damit laut zu quaken, um Alarm zu schlagen und seine Freunde zu Hilfe zu rufen. Ojee...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_0": {
+      "German": "Wenn ihr dem Frosch zeigt, dass ihr euch gut mit Pflanzen auskennt, dann wird er euch bestimmt als Freund:in des Dschungels akzeptieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_1": {
+      "German": "Suzan stellt sich vor den wütenden Frosch und zieht braune Papiertüten aus ihrem Rucksack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_2": {
+      "German": "Schau mal! Das sind getrocknete Trauben, Äpfel und Mangos von meinen eigenen Setzlingen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_3": {
+      "German": "Die schmecken süß und unglaublich lecker. Ich habe sie sogar selbst getrocknet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_4": {
+      "German": "Misstrauisch schaut dir der rote Frosch entgegen. Mangos?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_5": {
+      "German": "Das sind doch seine Lieblingsfrüchte. Woher kann sie das nur wissen? ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_6": {
+      "German": "Probier doch mal.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_7": {
+      "German": "Sie streckt ihm die Trockenfrüchte hin, die der Frosch noch immer argwöhnisch beäugt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_8": {
+      "German": "Gut. Aber WEHE es ist ein Trick! Ich habe euch genau im Auge.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_9": {
+      "German": "Er greift vorsichtig in die braune Tüte und holt sich ein Stück der getrockneten Mango heraus, welche er vorsichtig zerkaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_10": {
+      "German": "Mhmmm…die schmecken ja fantastisch! Fast so gut wie aus unserem Obstwald.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_11": {
+      "German": "Nimm dir ruhig noch eine. Vielleicht ist es ja eine Sorte die euren ganz ähnlich ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_12": {
+      "German": "Du meinst es gibt noch mehr Mangos?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_13": {
+      "German": "Ja ich meine es gibt fast über 1000 verschiedene Sorten, überall auf der Welt verteilt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_14": {
+      "German": "So VIELE Mangos!? Wahnsinn! Ihr wisst aber eine Menge über Mangos!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_15": {
+      "German": "Das gefällt mir! Mein Name ist Croak! Und wer seid ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_16": {
+      "German": "Ihr stellt euch dem Frosch lächelnd vor, der noch mehr von Suzans Leckerbissen isst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_17": {
+      "German": "Gespannt hört er sich dabei weitere Mango-Fakten an, die Suzan nur allzu gerne mit dem neugierigen Frosch teilt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_18": {
+      "German": "Plötzlich springt er auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_19": {
+      "German": "Wisst ihr was? Ihr seid schwer in Ordnung. Kommt mal mit, ich will euch etwas zeigen. Mir nach!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_feind_d3_r2_20": {
+      "German": "Was das nur sein könnte? Gespannt folgt ihr Croak, der leichtfüßig durch das Geäst springt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_1_frosch": {
+      "German": "Frosch",
+      "English": "",
+      "French": "",
+      "Spain": ""
+   }
+}

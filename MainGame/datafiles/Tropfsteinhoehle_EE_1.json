@@ -1,0 +1,482 @@
+{
+   "t_intro_0": {
+      "German": "Die Tropfsteinhöhlen befinden sich in einer Berglandschaft mit verwucherten Hängen, fernab von jeglicher Zivilisation.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_1": {
+      "German": "Diese von Menschen noch nie zuvor betretenen Höhlensysteme bieten außer einer Menge Steinen vielleicht auch einige Freizeitaktivitäten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_2": {
+      "German": "Der Besuch der Höhlen ist es sicher Wert den langen Fußmarsch auf euch zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_0": {
+      "German": "Bei den Tropfsteinhöhlen angekommen, wagt ihr euch in das Innere und folgt den Tunneln, die ihr am Eingang ausfindig macht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_1": {
+      "German": "Immer tiefer und tiefer steigt ihr in das verwinkelte Höhlensystem ein, aber nicht ohne euch an den dunklen Wänden genau euren Weg zu markieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_1_b": {
+      "German": "Je tiefer ihr steigt, desto … wärmer wird euch?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_2": {
+      "German": "Das ist ungewöhnlich… eigentlich sind solche Höhlen eher kalt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_3": {
+      "German": "Vielleicht funktioniert diese Höhle ja anders?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_4": {
+      "German": "Eine Höhle kann nicht anders funktionieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_5": {
+      "German": "Doch wenn die Höhle nicht anders funktioniert, woher kommt dann diese feuchte Wärme? Ihr beschließt der Sache auf den Grund zu gehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_6": {
+      "German": "Hinter der nächsten Felswand entdeckt ihr das Geheimnis: Hier in einer großen Kammer des Höhlensystems ist eine Ansammlung von heißen Quellen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_7": {
+      "German": "Freudig betrachtet ihr die großen und kleinen Wasserbecken. Was möchtet ihr nun mit dieser Entdeckung unternehmen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_o1": {
+      "German": "Ab ins Wasser!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_o2": {
+      "German": "Ab zu dem Matsch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_0": {
+      "German": "Das blubbernde und dampfende Wasser lässt dich entspannt aufseufzen. Ihr denkt alle dasselbe: Wie gut würde sich nun ein warmes Bad nach den Strapazen des Tages anfühlen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_1": {
+      "German": "Doch ihr zögert einen Moment. An dem Wasser wollt ihr euch jetzt nicht unbedingt verbrennen. Chad hingegen hat nun den Punkt erreicht, an dem er auf die Temperatur pfeifen könnte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_2": {
+      "German": "Man gewöhnt sich sicher an die Temperatur!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_3": {
+      "German": "Er beginnt sich auszuziehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_4": {
+      "German": "Warte doch mal! Du kannst doch nicht einfach dort reinspringen! Das muss man langsam machen damit dir nicht schwindlig von der hohen Temperatur wird!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_5": {
+      "German": "Das ist doch voll lahm!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r1_6": {
+      "German": "Beide sehen dich an, du musst wohl eine Entscheidung treffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_o1": {
+      "German": "Volle Kanne reinspringen. YOLO!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_o2": {
+      "German": "Testen wir zuerst die Temperatur.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_o3": {
+      "German": "Steigen wir langsam ins Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_0": {
+      "German": "YOOO! So lob ich mir das!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_1": {
+      "German": "Er klatscht die Hände zusammen und reibt sie aufgeregt. Ihr reißt euch die Kleider vom Leib und springt in euren Badesachen in das warme, dampfende Nass.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_2": {
+      "German": "Zumindest tust du das zusammen mit Chad. Suzan hingegen bemüht sich langsam und gemächlich in das warme Wasser zu steigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_3": {
+      "German": "Das Wasser ist heiß. Zu heiß. So heiß, dass Chad und dir die Hitze vollkommen zu Kopf steigt. Euch wird schwindelig und alles fängt an sich zu drehen .",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_3_b": {
+      "German": "Du verziehst das Gesicht wegen einer aufsteigenden Übelkeit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_4": {
+      "German": "Suzan sieht euch zu wie ihr regungslos im Wasser umher treibt und zögert nicht lange euch einzeln aus dem Wasser zu ziehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_5": {
+      "German": "Jetzt wo ihr aus dem Wasser gestiegen seid, kommt euch der warme Steinboden der Höhle seltsam kühl vor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r1_6": {
+      "German": "Es war eine heiße Angelegenheit, doch das Foto ist noch heißer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_0": {
+      "German": "Suzan meldet sich freiwillig, dieses große Opfer zu bringen und taucht ihren großen Zeh langsam in das dampfende Nass.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_0_b": {
+      "German": "Du kannst mit Chad nur beeindruckt zuschauen. Das war eine gute Art die Temperatur zu testen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_1": {
+      "German": "Ihr beschließt ebenfalls eure Zehen ins Wasser zu tauchen. Die Synchronität eurer Beine ergibt ein atemberaubendes Motiv, das ihr so gleich mit deiner Kamera einfangt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_2": {
+      "German": "Ein Bild der außerordentlichen Eleganz und Symmetrie. Du setzt dich vor die Quellen und betrachtest das Foto voller Stolz. Suzan und Chad gesellen sich ebenfalls zu dir.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_3": {
+      "German": "Woah… Ich wusste nicht das meine Beine so verdammt haarig sind.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_4": {
+      "German": "Es entflammt eine hitzige Diskussion über die mögliche Bedeutung dieses Bildes und ihr verbringt noch etliche Stunden damit euch zu unterhalten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r2_5": {
+      "German": "In der Hitze des Wortgefechtes vergesst ihr vollkommen euer Bad zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_0": {
+      "German": "Ihr steigt vorsichtig in das warme, blubbernde Wasser. Als ihr bereits bis zu eurem Bauchnabel im Wasser seid, lehnt ihr euch gegen den stützenden Rand der Quelle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_1": {
+      "German": "Eine Welle von Entspannung schwappt über euch. Heute ist ein richtiger Spa-Tag.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_2": {
+      "German": "Und ein wahrer Spa-Tag ist nichts ohne Gurkenscheiben auf den Augen! Zum Glück hat Chad immer eine Gurke dabei! Denn diese enthält kaum Kalorien und ist eine nahrhafte und wasserreiche Mahlzeit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_3": {
+      "German": "Ihr beginnt die Gurke in dünne, kühlende Scheiben zu schneiden, die ihr auf eure müden Augen legt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_4": {
+      "German": "Bevor deine Augen immer schwerer werden und du fast in einen entspannten Mittagsschlaf sinkst, hörst du es neben dir laut knuspern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_5": {
+      "German": "Erschrocken hebst du die Gurkenscheiben von deinen Augen, nur um festzustellen, dass Chad gerade den Rest des geschnittenen Gemüses verschlingt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_6": {
+      "German": "Du bist erschrocken! Vor allem weil er weder kaut, noch teilt! Ihr verbringt den Rest des Tages damit das warme Wasser zu genießen und an euren Gurkenscheiben zu snacken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d2_r3_7": {
+      "German": "Leider seht ihr am Ende des Tages ein wenig aus wie verschrumpelte Rosinen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_0": {
+      "German": "Warum solltet ihr euch um das Wasser kümmern, wenn der Schlamm um die heißen Quellen herum doch viel interessanter ist?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_0_b": {
+      "German": "Du beugst dich zu einer riesigen Schlammpfütze und lässt ihn durch deine Hände fließen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_1": {
+      "German": "Er ist erstaunlich warm und zähflüssig. Damit lässt sich doch sicher etwas anfangen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_2": {
+      "German": "An den Gesichtern deiner Freund:innen kannst du bereits die Ideen ablesen, die sich in ihren Köpfen entwickeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_2_b": {
+      "German": "Chads Gesicht ziert ein herausforderndes Grinsen, während er seine Hände in die Seiten stemmt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_3": {
+      "German": "Suzan hingegen wirkt träumerisch und atmet entspannt aus und ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d1_r2_4": {
+      "German": "Was wollt ihr jetzt mit dem Schlamm tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_o1": {
+      "German": "WRESTLING!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_o2": {
+      "German": "Eine Schlammkur ist bestimmt das Richtige.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_o3": {
+      "German": "Mit dem Schlamm spielen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_0": {
+      "German": "Voll korrekt! Ich habe dir doch mal dieses Video von dem Wrestling Match gezeigt! Warte mal.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_1": {
+      "German": "Er kramt sein Telefon heraus und sucht auf WeSquare, einer der beliebtesten Videoplattformen für Jung und Alt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_2": {
+      "German": "HIER! Das ist der Kampf zwischen BattleMax und Oxgar, dem Vernichter!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_3": {
+      "German": "Ach ja, die bekanntesten Wrestler:innen aus eurem Land! Beide unglaubliche Kampfprotze. Hier performen sie gerade in einer gewaltigen Schlamm-Arena.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_4": {
+      "German": "Lass das mal machen! Das wird sicher mega geil!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_5": {
+      "German": "Ihr seid euch unsicher, aber Chad kann euch von seiner Idee überzeugen. Leider stellt sich das Unterfangen als schwieriger heraus, als ihr am Anfang angenommen habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_6": {
+      "German": "Euch fällt es schwer das Gleichgewicht im glitschigen Matsch zu halten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_7": {
+      "German": "Die Fähigkeit euch auf den Beinen zu halten ist euer größter Feind. Ihr versucht dennoch eure Battle-Action zu bekommen und rast aufeinander zu und aneinander vorbei.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_8": {
+      "German": "Ihr schlittert auf dem Matsch wie auf einem zugefrorenen See und landet letzten Endes im Dreck unter euch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r1_9": {
+      "German": "Eure schmerzhaften Hinterteile halten euch trotzdem nicht davon ab noch ein tolles Erinnerungsfoto zu schießen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_0": {
+      "German": "Man könnte mit den Schlamm wahrscheinlich eine Menge anstellen. Ihr entscheidet euch jedoch dazu genüsslich in ihm zu baden. Schließlich ist das sicher gut für die Haut!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_1": {
+      "German": "Ihr legt euch in euren Badesachen in die braune, dickflüssige Substanz und fühlt wie euch diese wärmend umarmt. Doch Moment mal… eine Umarmung?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_2": {
+      "German": "Erschrocken versucht ihr euch aus dem schlammigen Armen der Kreatur zu befreien, welche euch nur grinsend in ihren matschigen Körper drückt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_3": {
+      "German": "Dem Anschein nach handelt es sich bei dieser Pfütze nicht einfach um Schlamm, sondern um ein schlafendes Schlammmonster, in dem ihr frech ein Bad genommen habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_4": {
+      "German": "Zumindest scheint das Schlammmonster nicht nachtragend zu sein, es hat euer Baden wohl als eine freundschaftliche Geste wahrgenommen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r2_5": {
+      "German": "Ihr verbringt zusammen den Tag und genießt die schöne Atmosphäre der Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_0": {
+      "German": "Was könnte schöner sein, als mit dem Schlamm selbst zu spielen. Ihn zu formen, zu verändern und zu gestalten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_0_b": {
+      "German": "Was in eurer Kindheit bereits eine spaßige Aktivität war, würde bestimmt auch jetzt eine sein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_1": {
+      "German": "Schnell werden verschiedene Figuren und sogar ganze Bauwerke aus Schlamm geformt, die jedoch durch ihre feuchte Konsistenz schnell verschwinden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_2": {
+      "German": "Zurück bleibt ein kleiner Haufen Matsch, der stark an einen Schokoladenkuchen erinnert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_3": {
+      "German": "Ein Schokokuchen… Das wärs jetzt! Vielleicht wenn ihr euch stark genug auf diesen Wunsch konzentriert, wird dieser Haufen tatsächlich zu einem richtigen Kuchen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_4": {
+      "German": "Ihr merkt bereits wie sich die Magie eures Wunsches um euch herum sammelt und probiert überzeugt das warme Schlammgebäck.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_1_d3_r3_5": {
+      "German": "Überraschenderweise schmeckt das Essen nicht so gut wie ihr erwartet habt, da es weder Geschmacksverstärker, noch Gewürze oder Lebensmittel enthält.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

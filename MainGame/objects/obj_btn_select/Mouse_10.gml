@@ -1,0 +1,1 @@
+sprite_index = spr_btn_visit_hover;

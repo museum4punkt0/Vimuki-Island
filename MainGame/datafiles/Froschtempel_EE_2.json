@@ -1,0 +1,332 @@
+{
+  "f_intro_0": {
+    "German":"Du hast von einem Tempel auf der anderen Seite der Insel gehört, welcher unglaubliche Gefahren aber auch unglaublichen Spaß beherbergen soll.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_0_b": {
+    "German":"Zumindest laut der Broschüre, welche du von den Affen bekommen hast",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_1": {
+    "German":"Und so reist du durch die Gefahren des Dschungels und findest dich vor einer mächtigen Konstruktion aus festem, dicken Stein wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_2": {
+    "German":"Um euch herum ist sumpfiges Gelände mit einigen kleinen und großen Seerosenteichen, die in voller Blüte stehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_0": {
+    "German":"Du steigst die einzelnen Stufen nach oben und findest dich an einer Wand voller mysteriöser Zeichen und Symbole wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_1": {
+    "German":"Während du mit Chad versuchst den Sinn der Bilder zu verstehen, macht Suzan bereits hellauf begeistert Fotos von eurer Entdeckung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_2": {
+    "German":"Das sind die einzigartigsten Hieroglyphen, die ich jemals gesehen habe!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_3": {
+    "German":"Ach so… Darum handelt es sich also.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_4": {
+    "German":"Und… Was steht nun da?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_5": {
+    "German":"Das weiß ich nicht… Die Schrift kommt mir nicht bekannt vor und auch auf Vimoogel kann ich keine Bedeutungen finden. Das scheint eine vollkommen fremde Kultur zu sein!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_6": {
+    "German":"Neugierig auf den Inhalt des Textes lädt sich Suzan die krasse EazyGlyph-App aus dem Store herunter.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_6_b": {
+    "German":"Vielleicht kann die fortschrittliche Technologie dieser kostenlosen App euch aus der misslichen Lage helfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_7": {
+    "German":"Es klappt tatsächlich und Chad beginnt die einzelnen fremd klingenden Worte vom Display abzulesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_7_b": {
+    "German":"Mit jedem gesprochenen Wort leuchten immer mehr und mehr Hieroglyphen auf. Was tut ihr?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_o1": {
+    "German":"Chad weiterlesen lassen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_o2": {
+    "German":"Chad stoppen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r2_0": {
+    "German":"Du hältst Chad davon ab weiterzulesen, indem du ihm eines eurer belegten Brote in den Mund stopfst, was ihn wieder zur Besinnung bringt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r2_0_b": {
+    "German":"Ihr habt womöglich eine ungeheuere Katastrophe abgewendet!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r2_1": {
+    "German":"Während ihr eure Brote vernichtet, findet Suzan mehr über die abstrakten Zeichen heraus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r2_2": {
+    "German":"Anscheinend steht hier die Geschichte über eine formlose Gottheit, welche von einem altertümlichen Volk verehrt worden ist!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r2_3": {
+    "German":"Allerdings scheint die App begrenzt zu sein. Weswegen du vorschlägst die Bilder ins Netz zu stellen, um zusammen mit anderen Leuten rund um die Welt nach Hinweisen zu suchen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_o1": {
+    "German":"Foto ins Netz stellen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_o2": {
+    "German":"Es für dich behalten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r1_0": {
+    "German":"Du entschließt dich nach einigem hin und her dazu das Foto im Internet zu veröffentlichen und gibts damit vielen Menschen die Gelegenheit selbst Nachforschungen anzustellen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r1_1": {
+    "German":"Wie in jedem Horrorfilm entpuppt sich das als keine gute Idee.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r1_1_b": {
+    "German":"Es bilden sich eine Vielzahl von Löchern im Himmel, aus denen eine kartoffelbreiartige Substanz herausschießt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r1_2": {
+    "German":"Ihr verfolgt den Horror gemeinsam in einem Livestream, während die Städte von dem dampfenden Brei überschüttet werden. Ups…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r2_0": {
+    "German":"Du stellst das Foto nicht ins Netz, vor allem weil Suzan lautstark dagegen protestiert!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d2_r2_1": {
+    "German":"Es ist sicherlich viel zu gefährlich! Auch Chad ist der Überzeugung sich nicht mit magischen Texten anzulegen. Du postest es nicht, jedoch behältst du das Foto für deine Ausstellung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d1_r1_0": {
+    "German":"Die Hieroglyphen leuchten immer mehr auf, während Chad weiterliest.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_o1": {
+    "German":"Chad weiterlesen lassen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_o2": {
+    "German":"Chad stoppen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r2_0": {
+    "German":"Du hältst Chad mit aller Macht den Mund zu und versuchst ihn vom Weiterlesen abzuhalten. Chad ist jedoch wie in einer Trance gefangen. Wer könnte das nur ausgelöst haben?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r2_1": {
+    "German":"Ihr bemerkt wie hinter euch bereits ein kleines Portal entstanden ist, aus dem ein schreckliches Übel einer Spektral-Dimension in eure Welt gekrochen kommt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r2_2": {
+    "German":"Eine gelblich-braune, unförmige Katze mit zwei schielenden Augen schaut zu euch empor und miaut vor sich hin. Was ist das für eine breiartige Kreatur?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r2_3": {
+    "German":"Suzan hingegen ist hellauf begeistert und streckt ihre Hand aus um das kleine Wesen zu streicheln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_o1": {
+    "German":"Suzan streicheln lassen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_o2": {
+    "German":"Suzan aufhalten",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r1_0": {
+    "German":"Suzan streckt die Hand aus, um die katzenartige Kreatur vor sich zu streicheln. Doch erschrocken muss sie feststellen, dass ihre Hand komplett im buttrigen Körper des Wesens versinkt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r1_1": {
+    "German":"MiniMash schnurrt darauf nur genüsslich. Suzan findet das faszinierend, du hingegen ekelst dich mit Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r2_0": {
+    "German":"NEIN! Du hältst Suzan ab MiniMash zu streicheln, der bedrohlich auf dich zugeblubbert kommt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r2_1": {
+    "German":"Du versuchst wegzulaufen, was leicht ist, da das Wesen durch seine weiche und breiartige Gestalt nur langsam und mühsam vom Fleck kommt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r2_2": {
+    "German":"Trotzdem willst du es nicht unterschätzen und fliehst auf die Seerosenblätter, die stabil genug sind, um euer Gewicht zu halten. Du beobachtest mit Schrecken wie MiniMash immer näher kommt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d4_r2_3": {
+    "German":"Doch dann, als ihr glaubt dass euer letztes Stündchen geschlagen hat, versinkt das Wesen im Wasser und löst sich komplett darin auf. Ein Glück… Wasser scheint seine Schwachstelle zu sein!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r1_0": {
+    "German":"Du lässt Chad weiterlesen, bis er die Formel komplett aufgesagt hat. Während seines stotternden und unverständlichen Murmelns öffnet sich langsam ein hell leuchtendes Portal hinter euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r1_1": {
+    "German":"Es wächst zu einer bedrohlichen Größe heran. Chad beginnt damit die Formel von Neuem aufzusagen, während Suzan und du dem Monster entgegenschaut, das sich aus der Öffnung presst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r1_2": {
+    "German":"Aus dem Portal kommt MegaMash der buttrige Zerstörer von zahlreichen Universen, begleitet von einem zarten Geruch nach Muskatnuss.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r1_3": {
+    "German":"Der riesige Blob, welcher an warmen, dampfenden, luftigen Kartoffelbrei erinnert, starrt dir aus zwei riesigen, verschieden großen Katzenaugen entgegen, bevor er ein gurgelndes Fauchen ausstößt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_r1_4": {
+    "German":"Während seine Augen immer mehr und mehr anfangen zu leuchten und die Umgebung sich mit Elektrizität auflädt, könnt ihr nur entsetzt zuschauen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_mb_1": {
+    "German":"Doch da fällt dir ein, dass du noch ein Ass im Ärmel hast. Du nimmst eine Boombox aus der Tasche und hältst dem riesigen Ungetüm deine sicken Beats entgegen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_mb_2": {
+    "German":"Auch wenn deine Freunde deinen Musikgeschmack nicht besonders mögen, scheint das riesige Ungetüm darauf zu reagieren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_mb_3": {
+    "German":"Es beruhigt sich sogar! Anscheinend hast du gerade die kartoffelige Apokalypse abgewendet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_nmb_1": {
+    "German":"Im Himmel tauchen plötzlich Löcher auf, welche Meteoriten auf die Erde regnen lassen, während sich der Himmel grell verfärbt. Doch… MOMENT. Es sind ja keine Meteoriten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_nmb_2": {
+    "German":"\"DAS SIND JA SALZKARTOFFELN!\"",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_2_d3_nmb_3": {
+    "German":"Erfreut darüber, die Welt ein weiteres Mal ins Chaos gestürzt zu haben, kriecht MegaMesh zurück in sein Dimensionsloch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

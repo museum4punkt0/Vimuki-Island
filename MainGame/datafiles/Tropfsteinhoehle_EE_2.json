@@ -1,0 +1,602 @@
+{
+   "t_intro_0": {
+      "German": "Die Tropfsteinhöhlen befinden sich in einer Berglandschaft mit verwucherten Hängen, fernab von jeglicher Zivilisation.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_1": {
+      "German": "Diese von Menschen noch nie zuvor betretenen Höhlensysteme bieten außer einer Menge Steinen vielleicht auch einige Freizeitaktivitäten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_2": {
+      "German": "Der Besuch der Höhlen ist es sicher Wert den langen Fußmarsch auf euch zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_0": {
+      "German": "Ihr betretet die dunkle, feuchte Höhle und bemerkt sofort die kleinen Kratzspuren an den Wänden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_1": {
+      "German": "Woher kommen diese Spuren?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_2": {
+      "German": "Sicher von den Affen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_3": {
+      "German": "Warum sollten die Affen an Felsen rumkratzen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_4": {
+      "German": "Vielleicht wollten sie hier einen neuen Durchgang errichten. Oder, was am wahrscheinlichsten ist, es waren gar nicht die Affen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_5": {
+      "German": "Moment mal, hört ihr das?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_6": {
+      "German": "Tatsächlich, auch du hörst ein Geräusch, ein kratzendes Geräusch. Chad rennt plötzlich nach vorne.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_7": {
+      "German": "Ich muss sehen was das ist. Das ist bestimmt ein Gorilla oder so.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_8": {
+      "German": "Suzan und du schaut euch in die Augen, das ist garantiert kein Gorilla.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_8_b": {
+      "German": "Ihr sprintet Chad hinterher, um nach ihm zu sehen und findet ihn nach ein paar Metern wieder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_9": {
+      "German": "Er steht vor einem kleinen seltsamen Tier, das an der Steinwand herumkratzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_9_b": {
+      "German": "Du kannst nicht genau identifizieren, um welches Tier es sich hierbei handelt. Es erinnert dich an einen schwarzen Marder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_10": {
+      "German": "Glaubt ihr, dass es gefährlich ist?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_11": {
+      "German": "Ihr wisst es nicht. Ihr wisst auch nicht warum es an der Wand herumkratzt. Was wollt ihr jetzt tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_o1": {
+      "German": "Vorsichtig das Tier inspizieren",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_o2": {
+      "German": "Das Tier ansprechen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_o3": {
+      "German": "Das Tier knuddeln",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_0": {
+      "German": "Vorsichtig nähert ihr euch dem Tier , das euch bereits entdeckt hat. Es richtet sich auf und fiept euch leise entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_1": {
+      "German": "Hey, das sieht ja aus wie ein süßer kleiner Hund. Komm her, Wauzi.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_2": {
+      "German": "Hund? Oh nein ….HATSCHI",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_3": {
+      "German": "Suzan niest heftig. Ihre Stimme hallt in der Höhle wider.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_4": {
+      "German": "Ach stimmt ja, dir fällt ein, dass Suzan eine Hundehaarallergie hat. Sie kann gar nicht mehr mit dem Niesen aufhören!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_5": {
+      "German": "Das laute Geräusch der Nieser verängstigt das kleine Tier so sehr, dass es zurückweicht und sich panisch an die Wand drückt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r1_6": {
+      "German": "Das Wesen knurrt euch an und zeigt seine Zähne. Es macht sich bereit euch jeden Moment mit seiner vollen Körpergröße von 20 cm anzugreifen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_0": {
+      "German": "Das schleifend, kratzende Geräusch quietscht in den Ohren. Ein Besuch beim Zahnarzt ist nichts dagegen, es treibt euch beinahe in den Wahnsinn.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_0_b": {
+      "German": "Chad hat nun die Schnauze voll.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_1": {
+      "German": "Hey, du Dingsbums da! Was machst du da eigentlich?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_2": {
+      "German": "Das Tier antwortet Chad, indem es ihn nun aggressiv ankläfft. Chad reagiert auf das aggressiven Kläffen mit einem Bellen seinerseits.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_3": {
+      "German": "Chad, was machst du da? Das bringt doch nichts, du verängstigst das TIER!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_4": {
+      "German": "Doch Chad hört nicht auf. Es entbrennt ein Wettkampf des aggressiven Bellens und Knurrens. Das Tier nimmt sich die harten Worte wohl zu Herzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r2_5": {
+      "German": "Es bäumt sich auf und springt in kleinen Sätzen auf und ab, getrieben von rasender Wut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_0": {
+      "German": "Du bist wie hypnotisiert von dem kleinen, süßen Wesen. Langsam näherst du dich dem winzigen Tier und hebst es in deine Arme.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_1": {
+      "German": "Während du deine Wange an dem Gesicht des Wesens reibst, bist du im siebten Himmel. So ein süßer Fratz!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_2": {
+      "German": "Aww...guck mal, es hat dich voll lieb. Darf ich auch mal?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_3": {
+      "German": "Entgegen aller Erwartungen reagiert das Tier sichtlich unentspannt auf die Situation. Es fängt an sich wie wild aus deiner Umarmung zu befreien.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_4": {
+      "German": "Seine langen, scharfen Krallen kratzen durch dein Gesicht und graben sich in deine Arme.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_5": {
+      "German": "Du schreist erschrocken auf. Alle Tiervideos des Internets haben dich nicht auf so eine Reaktion vorbereitet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d1_r3_6": {
+      "German": "Das Tier springt vor Chads Füße und baut sich knurrend vor euch auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_12": {
+      "German": "Ihr müsst euch jetzt schnell etwas einfallen lassen, bevor ihr noch von einem Mini-Maulwurfwolf zerfleischt werdet. Schnell, was macht ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_o1": {
+      "German": "Das Tier beeindrucken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_o2": {
+      "German": "Weglaufen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_0": {
+      "German": "Ihr versucht das Tier zu beeindrucken, immerhin seid ihr auch größer und stärker als das kleine Monster.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_0_b": {
+      "German": "Chad lässt seine Muckis spielen, du machst dich groß und Susan schreit mit einer tiefen Stimme los.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_1": {
+      "German": "Wow, Suzan! Komm mal klar, ey! Wir wollen es verscheuchen! Nicht zu Tode schreien!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_2": {
+      "German": "Suzan hört euch nicht. Sie ist jetzt in ihrem Element. Ihre grölende Stimme hallt durch die Höhlengänge.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_3": {
+      "German": "Nun ist das Wolfsmaulwurfwesen total verwirrt. Mit so einer Reaktion hat es das Tier noch nie zutun gehabt. Es schaut euch mit großen, runden und hilflosen Augen an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r1_4": {
+      "German": "Eine unangenehme Stille breitet sich aus, welche von einem lauten Magenknurren unterbrochen wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_0": {
+      "German": "Ihr nehmt eure Beine in die Hand und stürmt aus der Höhle. Leider folgt euch das kleine Biest mit enormer Geschwindigkeit und kommt euch gefährlich nahe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_0_b": {
+      "German": "Auf einmal macht es einen Satz und…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_1": {
+      "German": "AHHHHH! AUA! Mein Bein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_2": {
+      "German": "Aua, mach es ab, mach es AB! Sofort!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_3": {
+      "German": "In dem Moment lässt das Tier auch schon wieder von ihm ab und fängt an zu würgen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_4": {
+      "German": "Also das ist jetzt unhöflich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_5": {
+      "German": "Du scheinst ihm wohl nicht zu schmecken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_6": {
+      "German": "Was!? Ich schmecke bestimmt fantastisch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_7": {
+      "German": "Vielleicht hatte das Tier einfach keinen Geschmack. Ihr verarztet den jammernden Chad.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_8": {
+      "German": "Das kleine Wesen schaut euch mit großen neugierigen Augen an. Nein, nicht euch, sondern eure Rucksäcke!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d2_r2_9": {
+      "German": "Es beginnt damit, an ihnen herumzureißen und auf dem Stoff rumzukauen. Es hat wohl euer Essen gerochen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_13": {
+      "German": "Das kleine Wesen ist offensichtlich einfach nur sehr hungrig. Ihr müsst ihm helfen. Doch wie?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_o1": {
+      "German": "Mit Fast Food füttern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_o2": {
+      "German": "Passende Nahrung suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_0": {
+      "German": "Chad greift in seinen Rucksack und holt eine Packung Instant Nudeln sowie Wasser und einen Campingkocher hervor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_0_b": {
+      "German": "Er schüttelt den Behälter und der Inhalt gibt knacksende Geräusche von sich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_1": {
+      "German": "Komm her mein Kleiner, ich hab da etwas für dich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_2": {
+      "German": "Das Tier reagiert skeptisch auf die Lockversuche und schnuppert nur an der noch verschlossenen Verpackung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_3": {
+      "German": "Ha! Ja, ist noch nicht fertig, Junge. Ich mach ja.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_4": {
+      "German": "Prompt beginnt er die Nudeln zuzubereiten und der Geruch nach Suppe füllt den Raum.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_5": {
+      "German": "Glaubt ihr, dass es das essen wird?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_6": {
+      "German": "Als Antwort hört ihr nur dumpfes Magenknurren. Ihr müsst darüber lachen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_6_b": {
+      "German": "Langsam kommt das kleine Tier zu euch herüber geschlichen und schaut neugierig in den dampfenden Becher.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_7": {
+      "German": "Doch nicht nur das Wesen schaut hungrig zu der warmen Mahlzeit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_8": {
+      "German": "Du musst zugeben, so langsam bekommst du auch Hunger und auch Suzan wirkt etwas hungrig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_8_b": {
+      "German": "Kurzerhand packt Chad noch zwei weitere Nudelpäckchen aus seinem Rucksack und ihr veranstaltet zusammen ein kleines Picknick.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_9": {
+      "German": "Ihr beginnt zu Schlemmen und die warmen Nudeln finden ihren Weg in eure Bäuche.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_10": {
+      "German": "Das tut gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_11": {
+      "German": "Plötzlich hört ihr ein weiteres Kratzen in eurer Nähe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_12": {
+      "German": "Haha! Ich glaube da hat noch jemand Hunger.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_13": {
+      "German": "Ein zweites Tier der gleichen Art ist dem Geruch zu eurem Picknickplatz gefolgt. Und es bleibt nicht nur bei dem einen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_13_b": {
+      "German": "Nach und nach kommen immer mehr kleine Marder-Wesen zu euch und schnuppern an den leeren Bechern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r1_14": {
+      "German": "Ich hoffe du hast genug Instantnudeln für alle mitgebracht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_0": {
+      "German": "Und was denkt ihr, was so ein…. Ding wohl frisst?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_1": {
+      "German": "Ihr schaut euch gegenseitig nachdenklich an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_2": {
+      "German": "Es lebt wahrscheinlich in diesen Gängen. Da kann die Nahrung sicher nicht weit sein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_3": {
+      "German": "Das kleine Tier wendet sich nun desinteressiert von euch ab und beginnt erneut, mit seinen Klauen an der Wand zu schaben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_4": {
+      "German": "Glaubt ihr es möchte das, was hinter der Wand ist?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_5": {
+      "German": "Du meinst Steine? Ich habe noch nie von einem Tier gehört, das Steine isst. Die sind doch nicht nahrhaft, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_6": {
+      "German": "Vielleicht nicht die Steine sondern das, was in den Steinen drin ist? Vielleicht gibt es hier Stein-Insekten, Wand-Würmer oder sowas?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_7": {
+      "German": "Trotz eurer Zweifel entschließt ihr euch dazu, dem Tier dabei zu helfen ein Loch in die Wand zu schlagen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_7_b": {
+      "German": "Ihr benutzt handgroße Steine und hämmert damit immer größere Brocken Geröll aus der Wand.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_8": {
+      "German": "Nach einiger Zeit bemerkt ihr einen kleinen blauen Schimmer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_9": {
+      "German": "Was ist das?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_10": {
+      "German": "ALTER! Das sieht man doch. Das ist ein Aquamarin!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_11": {
+      "German": "Dem kleinen Wolfsmaulwurf scheinen die blauen Edelsteine auch sehr zu gefallen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_11_b": {
+      "German": "Er springt mit einem Satz auf Chads Schulter und verkriecht sich in die nun freigelegte Felsspalte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_12": {
+      "German": "Ihr könnt nur noch ein zufriedenes, knusperndes Schnurren wahrnehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_d3_r2_13": {
+      "German": "Anscheinend essen diese Wesen doch Steine. Nur eben nicht alle davon. Was für ein seltsames Tier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_2_maulwurfswolf": {
+      "German": "Maulwurfswolf",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

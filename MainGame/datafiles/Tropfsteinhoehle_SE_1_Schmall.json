@@ -1,0 +1,506 @@
+{
+   "t_se_1_d1_r1_0": {
+      "German": "Ihr betretet den schmalen Gang nacheinander und folgt diesem.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_1": {
+      "German": "Alter ist das eng. So kann ich doch gar nicht filmen! Das is' total langweilig!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_2": {
+      "German": "Suzan seufzt angestrengt. Du kannst ihr ansehen, dass sie von Chads Verhalten nicht unbedingt begeistert ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_3": {
+      "German": "Schließlich fokussiert er sich mehr auf seine Kamera und die Kommentare der Community und nicht auf seine Umgebung, oder euer Abenteuer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_4": {
+      "German": "Hört ihr das auch? Da plätschert doch irgendwas. Oder bin ich komplett verrückt geworden?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_5": {
+      "German": "Nein ich höre es auch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_6": {
+      "German": "Du nickst. Je länger ihr dem Gang folgt, desto stärker wird das plätschernde Geräusch, welches nach einiger Zeit zu einem Rauschen wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_7": {
+      "German": "Ihr kommt in einer gewaltigen Höhle an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_8": {
+      "German": "Von oben, aus der Schwärze fließt das Wasser in einem gemächlichen Strom hinab in ein riesiges Wasserbecken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_9": {
+      "German": "Und jetzt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_10": {
+      "German": "Gehen wir zurück! Wir sollten das Wasser nicht überqueren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_11": {
+      "German": "Aber in den Höhlen können wir uns nur noch mehr verlaufen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_12": {
+      "German": "Und in dem kalten Wasser schnell ertrinken, wenn das Ufer sehr weit entfernt ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_13": {
+      "German": "Ist das doof... Was sollen wir jetzt machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_o1": {
+      "German": "Kehrt machen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_o2": {
+      "German": "Durch das Wasser schwimmen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_0": {
+      "German": "Es wäre jedenfalls keine gute Idee durch das kalte Wasser zu schwimmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_1": {
+      "German": "Also bleibt euch nichts anderes übrig als euer Glück erneut bei den verwinkelten Gängen zu suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_2": {
+      "German": "Sollen wir vielleicht unsere Community fragen? Die können doch abstimmen wohin wir gehen sollen! Das bringt sicher viele Likes!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_3": {
+      "German": "Suzan schaut Chad entgeistert an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_4": {
+      "German": "Chad, bist du dumm?! Wir müssen so zurückgehen wie wir hergekommen sind, sonst verlaufen wir uns.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_5": {
+      "German": "Das hier ist echt kein Spaß! Das ist gefährlich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_6": {
+      "German": "Du bist eine totale Spielverderberin!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_7": {
+      "German": "Nachdem er sich rührselig von seinen Leuten verabschiedet hat, macht er missmutig seinen Stream aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_8": {
+      "German": "Ihr versucht den richtigen Weg in dem Irrgarten aus schmalen und breiten Gängen zu finden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_9": {
+      "German": "Spinn' ich oder wird es nur immer kälter?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_10": {
+      "German": "Ja ich friere auch... Und die Luft riecht ganz komisch. Das ist ja eine gewaltige Salzgrotte! Schaut euch das an!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_11": {
+      "German": "Zwischen den riesigen, weißen Salzsäulen sprießen leuchtende Kristalle und erhellen eure Umgebung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_12": {
+      "German": "Hier und da könnt ihr einige Käfer sehen, die von ihren Lichtern angelockt werden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_13": {
+      "German": "Ihr beschließt für einen Moment zu rasten und nehmt auf einem größeren Salzblock Platz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_14": {
+      "German": "Und jetzt? Welchen Gang nehmen wir?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_15": {
+      "German": "Bevor ihr euch allerdings entscheiden könnt, fängt der Stein an sich zu bewegen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_16": {
+      "German": "Schnell springt ihr von eurem Sitzplatz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_17": {
+      "German": "Eine steinartige Kreatur schaut euch träge aus dunklen Augen an, bevor sie sich weiter aus der nassen Erde gräbt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_18": {
+      "German": "Das schildkrötenartige Wesen ist von Salzkristallen überzogen. Leider versperrt sie euch den weiteren Weg durch ihren dicken Panzer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_19": {
+      "German": "Beweg dich du riesiges Ding!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_20": {
+      "German": "Keine Chance. Ihr müsst euch wohl oder übel einen anderen Weg suchen oder es noch einmal in den verwinkelten Gängen versuchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_o1": {
+      "German": "Anderen Weg suchen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_o2": {
+      "German": "Zurück in die Gänge",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r1_0": {
+      "German": "Ihr sucht einen anderen Weg in der Salzgrotte, aber leider ohne Erfolg. Es führt nur der Weg zurück oder...hinunter?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r1_1": {
+      "German": "Ihr schaut euch den Tunnel an, aus dem sich das Salzwesen herausgegraben hat. Es ist wohl eure beste Option.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r1_2": {
+      "German": "Mutig steigt ihr nacheinander in den Tunnel hinab und folgt diesem, bis ihr euch in einer größeren Höhle wiederfindet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r2_0": {
+      "German": "Ihr versucht es ein weiteres Mal in den Gängen, die alle verdammt gleich aussehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r2_1": {
+      "German": "Diesmal suchst du den Tunnel aus, durch den ihr steigt. Schließlich ziehen die anderen beiden nur Nieten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r2_2": {
+      "German": "Entschlossen gehst du voran und folgst deinen Instinkten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r2_3": {
+      "German": "Du meinst sogar an einer Stelle frische Luft erschnüffelt zu haben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r1_d3_r2_4": {
+      "German": "Deine Bemühungen führen euch in eine größere Höhle!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_0": {
+      "German": "Trotz aller Gefahren entschließt ihr euch das Wasser zu durchqueren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_1": {
+      "German": "Ihr wartet auf Chad, der seine Kamera in ein wasserdichtes Gehäuse steckt und begebt euch in das eiskalte Nass.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_2": {
+      "German": "Ich glaube da läuft Wasser in meine Kamera!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_3": {
+      "German": "Also echt jetzt, hast du nur deinen blöden Kanal im Kopf?! Was ist wenn wir hier nicht mehr herauskommen? Das hier ist ernst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_4": {
+      "German": "Wir finden hier schon hier raus! Das ist doch ein Klacks! Sieh mal! Da vorne ist Licht!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_5": {
+      "German": "Licht? Ihr versucht euch zu beeilen, denn lange haltet ihr die Temperaturen nicht mehr aus! Zitternd und müde klettert ihr ins Trockene.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_6": {
+      "German": "Das ... Hier ist doch kein Ausgang!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_7": {
+      "German": "Wie jetzt? Du schaust hoch und tatsächlich. Das Licht kam nicht von draußen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_8": {
+      "German": "Es kam aus einer kleinen Laterne. Wieso steht hier eine Laterne? Und wieso wächst hier Gras?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_9": {
+      "German": "Was macht ihr hier in meinem Vorgarten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_10": {
+      "German": "Ein rosafarbener Grottenolm tritt euch mit einer kleinen gelben Gießkanne entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_11": {
+      "German": "Kommt jetzt erstmal mit. Ihr seid ja nass bis auf die Knochen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_12": {
+      "German": "Ihr folgt der alten Grottenolmdame in eine felsige Hütte, wo ein Feuerchen prasselt und ein heißer Kakao auf euch wartet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_13": {
+      "German": "Während ihr eure Kleider trocknet, stellt ihr euch vor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_14": {
+      "German": "Und so sind wir hierher gekommen. Zum Glück haben wir Sie gefunden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_15": {
+      "German": "Ja Mann! Hier ist es echt verwinkelt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_16": {
+      "German": "Ach, ihr Kinderlein. Ihr müsst doch nur dem gepflasterten Steinpfad folgen, dann kommt ihr auch aus der Höhle raus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_17": {
+      "German": "Das klingt äußerst simpel. Vielleicht zu simpel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_18": {
+      "German": "Ein leises Schnarchen hallt durch den Raum. Der Grottenolm ist eingeschlafen. Ihr schaut euch an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_19": {
+      "German": "Sollen wir auf sie hören?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_20": {
+      "German": "Ich weiß nicht... Sie hat die ganze Zeit mit dem Schrank geredet und den Tee in ihren Blumentopf gegossen…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_21": {
+      "German": "Besonders gut sehen kann sie nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_22": {
+      "German": "Aber vielleicht lebt sie schon ihr ganzes Leben hier und kennt den Weg noch von früher.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_23": {
+      "German": "Beide schauen dich ratlos an. Was sollt ihr tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_o1": {
+      "German": "Olchmens Rat folgen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_o2": {
+      "German": "Eurer Intuition folgen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r1_0": {
+      "German": "Nachdem eure Kleider getrocknet sind, beginnt ihr den Ausgang zu suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r1_1": {
+      "German": "Nachdem ihr euch mit einer üppigen Mahlzeit und warmem Tee gestärkt habt, verabschiedet ihr euch und der Grottenolm winkt euch noch nach.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r1_2": {
+      "German": "Ihr nehmt den gepflasterten Steinpfad und folgt diesem. Nach einiger Zeit betretet ihr eine riesige Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_0": {
+      "German": "Nachdem eure Kleider getrocknet sind, beginnt ihr den Ausgang zu suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_1": {
+      "German": "Während der Grottenolm noch entspannt in ihrem Schaukelstuhl schläft, packt ihr eure Sachen und zieht los.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_2": {
+      "German": "Schließlich wollt ihr das alte Olmchen nicht wecken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_3": {
+      "German": "Es führt eine Vielzahl von Gängen zu der Behausung von Grottenolm und die meisten sehen gleich aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_4": {
+      "German": "Wie sollt ihr euch jemals für einen entscheiden?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_5": {
+      "German": "Chad beschließt eine Münze zu werfen. Das Schicksal würde euren Weg bestimmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_6": {
+      "German": "Kopf da lang! Zahl der da drüben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d1_r1_d2_r2_d4_r2_7": {
+      "German": "Ihr folgt der Anweisung der Münze. Nach einiger Zeit betretet ihr eine riesige Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

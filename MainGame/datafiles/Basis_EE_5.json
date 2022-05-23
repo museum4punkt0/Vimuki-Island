@@ -1,0 +1,1016 @@
+{
+  "b_intro_0": {
+    "German":"Das Camp ist ein Ort der Freizeitmöglichkeiten und Aktivitäten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_1": {
+    "German":"Es gleicht im ersten Moment einem Ferienparadies, welches die einheimischen Affen mit handwerklichem Können errichtet haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_2": {
+    "German":"Es gibt viel zu entdecken. Hier habt ihr euer Lager aufgeschlagen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_0": {
+    "German":"Nach einem üppigen Frühstück am Büffet geht ihr los, um die verschiedenen Attraktionen der Affen zu erkunden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_1": {
+    "German":"Von Bananenball bis hin zu einer aufregenden Wasserbombenschlacht gestaltet sich der Tag äußerst ereignisreich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_2": {
+    "German":"Leider fühlst du dich am Abend nicht mehr ganz so gut und auch die Nacht verbringst du damit heftig zu Husten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_3": {
+    "German":"Das hört sich aber echt nicht gut an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_4": {
+    "German":"Du hast auch leichtes Fieber.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_5": {
+    "German":"Wir brauchen eine Ärzt:in. Wir sollten die Affen um Hilfe bitten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_6": {
+    "German":"Besorgt rufen Chad und Suzan die Affen zusammen, die sich höllische Sorgen um dich machen. Zum Glück befindet sich unter ihnen ein Arzt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_7": {
+    "German":"Na lass mich mal schauen. Dich hat es aber wirklich erwischt. Das kriegen wir aber hin. Keine Angst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_8": {
+    "German":"Der Affe kramt in seiner Tasche und holt eine große, braune Glasflasche heraus in der eine dickflüssige und schwarze Flüssigkeit schwappt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_9": {
+    "German":"Zusammen mit einem Löffel reicht er dir die Flasche.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_10": {
+    "German":"Nimm zwei Löffel und leg dich dann wieder ins Bett.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_11": {
+    "German":"Die Kräuter in dieser Tinktur helfen dir über die Nacht, sodass du am Morgen sicher wieder fit bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_12": {
+    "German":"Alle wirken erleichtert. Vor allem deinen Freund:innen ist ein Stein vom Herzen gefallen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_13": {
+    "German":"Widerwillig hältst du dich an Dr. Schales Anweisungen und nimmst die bittere Medizin.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_14": {
+    "German":"Du kuschelst dich wieder in dein warmes Bett und schließt langsam die Augen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_15": {
+    "German":"Plötzlich findest dich auf einem belebten Hafen wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_16": {
+    "German":"Wo bin ich?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_17": {
+    "German":"Wo sind wir denn hier gelandet?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_18": {
+    "German":"Auch dir ist dieser Ort fremd. Ihr beschließt euch umzuschauen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_o1": {
+    "German":"Hafen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_o2": {
+    "German":"Fähre",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_o3": {
+    "German":"Piraten",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_more": {
+    "German":"Ihr schaut euch weiter um.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r1_0": {
+    "German":"Kennt sich hier jemand von euch aus?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r1_1": {
+    "German":"Leider nein. Ich habe keine Ahnung wo wir hier sind.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r1_2": {
+    "German":"Auch dir kommt nichts oder niemand bekannt vor. Auch die Personen findet ihr merkwürdig.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r1_3": {
+    "German":"Wahrscheinlich, weil alle von ihnen Tierköpfe besitzen. Vor euch schwimmen zwei riesige Schiffe, die nur darauf warten in See zu stechen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r2_0": {
+    "German":"Ihr betrachtet das riesige Holzschiff, auf welches gerade einige Reisende einsteigen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r2_1": {
+    "German":"Die Farbe des Holzschiffes ist warm und einladend. Die großen Segel und Fahnen wehen in der aufkommenden Seeluft wild hin und her.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r3_0": {
+    "German":"Ihr betrachtet das düstere Schiff, auf welches gerade einige Reisende einsteigen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r3_1": {
+    "German":"Das Schiff ist prunkvoll verziert und auf jeder der beiden Schiffseiten schauen Kanonen aus eckigen Löchern hervor.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d1_r3_2": {
+    "German":"Die großen, weißen Segel und sogar eine einzelne schwarze Dinosaurier-Totenkopfflagge wehen in der aufkommenden Seeluft wild hin und her.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_19": {
+    "German":"Schaut mal da drüben! Da kann man Tickets für die Schiffe kaufen! Vielleicht kommen wir ja so nach Hause!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_20": {
+    "German":"Also ich weiß nicht. Andererseits ist zurzeit auch alles möglich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_21": {
+    "German":"Beeilt euch! Die Schiffe legen gleich ab!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_22": {
+    "German":"Ihr eilt zu einer kleinen Hütte, an dem ein weißes Schild hängt. Mit einer schwungvollen Schrift wurde darauf \"Ticket Stand\" geschrieben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_23": {
+    "German":"Als ihr näher kommt streckt der Ticketverkäufer seinen Kopf durch das große Fenster. Der schwarze Rabe betrachtet euch skeptisch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_24": {
+    "German":"Mit welchem Boot wollt ihr fahren?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_25": {
+    "German":"Oh. Ähm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_26": {
+    "German":"Welches nehmen wir?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_o1": {
+    "German":"Fähre",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_o2": {
+    "German":"Piratenschiff",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_0": {
+    "German":"Die Fähre bitte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_1": {
+    "German":"Selbstverständlich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_2": {
+    "German":"Der Rabe reicht euch mit seinem Flügel drei rote Tickets, mit denen ihr auf das Schiff treten dürft.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_3": {
+    "German":"Gerade als ihr das obere Deck erreicht, legt die riesige Fähre auch schon ab und lässt den Hafen schnell hinter sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_4": {
+    "German":"Du nutzt die Zeit dazu, dich auf dem Schiff umzusehen. Als erstes fällt dir die Besatzung auf, welche vollständig aus Nagetieren besteht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_5": {
+    "German":"Aus der Menge ragt eine Hasendame heraus. Du kannst an ihrer Kleidung deutlich erkennen, dass sie die Kapitänin dieser Bande ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_6": {
+    "German":"Als sie euch entdeckt, richtet sie ihr Wort an dich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_7": {
+    "German":"Willkommen auf meinem Schiff. Ich hoffe der Wellengang hat euch keine Umstände gemacht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_9": {
+    "German":"Entschuldigt bitte, aber vor uns liegt ein kleines Hindernis, dass unsere Weiterreise beeinträchtigen könnte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_10": {
+    "German":"Leider wissen wir nicht genau, was wir nun tun sollen. Ihr seht vernünftig aus vielleicht könnt ihr uns helfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_11": {
+    "German":"Natürlich könnt ihr das. Die Kapitänin erzählt euch von einem riesigen und gefährlichen Sturm, welcher sich vor euch zusammenbraut.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_12": {
+    "German":"Fährt die Fähre durch ihn hindurch, kommt sie schneller an ihrem Ziel an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_13": {
+    "German":"Und wer weiß? Vielleicht erlebt ihr ja ein kleines Abenteuer.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_14": {
+    "German":"Oder ihr geht auf Nummer sicher, kehrt zum Hafen zurück und wartet dort bis sich der Sturm verzogen hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_15": {
+    "German":"Also das Risiko ist es mir absolut nicht wert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r1_16": {
+    "German":"Und was ist wenn ein Abenteuer hinter dem Sturm auf uns wartet?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_0": {
+    "German":"Die Piraten, bitte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_1": {
+    "German":"Selbstverständlich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_2": {
+    "German":"Der Rabe reicht euch mit seinem Flügel drei rote Tickets, mit denen ihr auf das Schiff treten dürft.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_3": {
+    "German":"Gerade als ihr das obere Deck erreicht, legt das Piratenschiff auch schon ab und lässt den Hafen schnell hinter sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_4": {
+    "German":"Du nutzt die Zeit dazu, dich auf dem Schiff umzusehen. Als erstes fällt dir die Besatzung auf, welche vollständig aus Dinosauriern besteht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_5": {
+    "German":"Mitten unter ihnen ragt ein riesiger T-Rex heraus. Du kannst an seiner Kleidung deutlich erkennen, dass er der Kapitän dieser Bande ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_6": {
+    "German":"Als er euch entdeckt, richtet er sein Wort an dich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_7": {
+    "German":"Willkommen auf meinem Schiff.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_9": {
+    "German":"Macht euch gefasst, ihr Leichtmatrosen, denn ein Sturm braut sich vor uns auf! Und wir müssen uns schnell entscheiden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_10": {
+    "German":"Ihr seht mir wie standhafte Gesell:innen aus! Vielleicht könnt ihr mir mit der Entscheidung helfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_11": {
+    "German":"Natürlich könnt ihr das. Der Kapitän erzählt, dass es seiner Meinung nur zwei Möglichkeiten gibt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_12": {
+    "German":"Entweder segelt ihr mit dem Schiff durch den gefährlichen und möglicherweise tödlichen Sturm und kommt so schneller ans Ziel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_13": {
+    "German":"Oder ihr geht auf Nummer sicher und kehrt zum Hafen zurück.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_14": {
+    "German":"Also das Risiko ist es mir absolut nicht wert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d2_r2_15": {
+    "German":"Und was ist wenn ein Abenteuer hinter dem Sturm auf uns wartet?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_o1": {
+    "German":"Dem Sturm trotzen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_o2": {
+    "German":"Den Sturm umschiffen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_o3": {
+    "German":"Zurück zum Hafen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_0": {
+    "German":"Es macht für dich keinen Sinn jetzt noch einmal kehrt zu machen. So würdet ihr niemals nach Hause kommen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_1": {
+    "German":"Und vielleicht hat Chad ja Recht. Vielleicht wartet wirklich ein verwegenes Abenteuer auf euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_2": {
+    "German":"ALSO dann auf durch den Sturm!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_3": {
+    "German":"Willst du es dir nicht noch einmal überlegen? Vielleicht handelst du ja zu vorschnell.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_4": {
+    "German":"Alle schauen zu einer hochgewachsenen Gestalt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r1_5": {
+    "German":"Ihre großen Augen fixieren dich. Du musst schlucken. Irgendwie ist dir der Blick des Wesens unangenehm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_0": {
+    "German":"Es macht für dich keinen Sinn durch den gefährlichen Sturm zu fahren. Was ist, wenn ihr kentert und dabei ertrinkt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_1": {
+    "German":"So würdet ihr niemals nach Hause kommen! Da hat Suzan vollkommen Recht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_2": {
+    "German":"Es ist viel besser wieder zum Hafen zurück zu kehren und die Reise noch einmal von Neuem anzutreten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_3": {
+    "German":"Also dann. Zurück zum Hafen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_4": {
+    "German":"Willst du es dir nicht noch einmal überlegen? Vielleicht handelst du ja zu vorschnell.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_5": {
+    "German":"Alle schauen zu einer hochgewachsenen Gestalt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r3_6": {
+    "German":"Ihre großen Augen fixieren dich. Du musst schlucken. Irgendwie ist dir der Blick des Wesens unangenehm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_0": {
+    "German":"Du denkst, dass beide Recht haben. Sicher, der Sturm ist zu gefährlich um hindurch zu fahren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_1": {
+    "German":"Aber ihr könnt doch jetzt nicht einfach zurücksegeln! Dann ist der Weg, den ihr bereits hinter euch gelassen habt, doch total nutzlos gewesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_2": {
+    "German":"Du grübelst scharf nach und schlägst vor einfach einen Bogen um den Sturm zu machen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_3": {
+    "German":"Suzan und Chad schauen dich verunsichert an und auch der Kapitän kommt ins Grübeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_piraten_4": {
+    "German":"Hm. Der Grünschnabel hat Recht. Das könnte tatsächlich funktionieren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_piraten_5": {
+    "German":"Mit einer gekonnten Bewegung seiner kleinen Arme lenkt der T-Rex das Schiff von den dunklen Wolken weg.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_piraten_6": {
+    "German":"Ihr segelt um das dunkle Gewitter herum und landet wieder auf eurer geplanten Strecke.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_faehre_4": {
+    "German":"Hm. Du hast Recht. Aber könnte das tatsächlich funktionieren?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_faehre_5": {
+    "German":"Versuchen wir's!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_faehre_6": {
+    "German":"Mit einer gekonnten Bewegung ihrer kräftigen Schenkel lenkt sie das Schiff von den dunklen Wolken weg.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d3_r2_faehre_7": {
+    "German":"Ihr segelt um das dunkle Gewitter herum und landet wieder auf eurer geplanten Strecke.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_eule_0": {
+    "German":"Das Eulen-Wesen bleibt stumm und wartet auf eure Antwort. Möchtest du deine Entscheidung überdenken oder lieber weiterfahren?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_eule_d4_o1": {
+    "German":"Überdenken",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_eule_d4_o2": {
+    "German":"Weiter",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r1_0": {
+    "German":"Vielleicht hat die mysteriöse Gestalt wirklich Recht und du solltest dein Vorhaben noch einmal gründlich überdenken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r1_1": {
+    "German":"Es gibt sicher noch eine andere Möglichkeit, als durch die gefährlichen Sturmfluten zu segeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r1_2": {
+    "German":"Vielleicht konntet ihr ja den Sturm ausharren, wenn ihr die Segel einzieht und stehen bleibt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r1_3": {
+    "German":"Ihr könnt es versuchen. Im schlimmsten Notfall könnt ihr immer noch die Segel setzen und durch die schwarzen Wolken fahren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r1_0": {
+    "German":"Vielleicht hat die mysteriöse Gestalt wirklich Recht und du solltest dein Vorhaben noch einmal gründlich überdenken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r1_1": {
+    "German":"Es gibt sicher noch eine andere Möglichkeit, als komplett zum Hafen zu fahren und dort noch mehr Zeit zu verschwenden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r1_2": {
+    "German":"Vielleicht konntet ihr ja den Sturm ausharren, wenn ihr ein wenig weiter von ihm weg segelt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r1_3": {
+    "German":"Ihr könnt es versuchen. Im schlimmsten Notfall könnt ihr immer noch die Segel setzen und zurück zum Hafen fahren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r2_0": {
+    "German":"Was sollst du denn bitte noch überdenken? Deine Entscheidung steht felsenfest!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r2_1": {
+    "German":"Ab durch den Sturm!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r2_2": {
+    "German":"Wenn das deine Entscheidung ist, dann fahr los!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_sturm_r2_3": {
+    "German":"Die mysteriöse Gestalt verschwindet im Nichts und das Schiff setzt seinen Kurs auf den Sturm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r2_0": {
+    "German":"An deiner Entscheidung gibt es nichts zu rütteln. Es ist viel zu gefährlich weiter zu fahren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r2_1": {
+    "German":"Die einzige Lösung ist umzukehren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r2_2": {
+    "German":"Wenn das deine Entscheidung ist, dann fahr los.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_d4_hafen_r2_3": {
+    "German":"Die mysteriöse Gestalt verschwindet im Nichts und das Schiff setzt Kurs auf den Hafen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_perfekt_0": {
+    "German":"Durch geschickte Manöver umsegelt ihr sicher die dichten, schwarzen Wolken und lasst diese relativ schnell hinter euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_perfekt_1": {
+    "German":"Die Wellen schlagen seicht gegen das Schiff und ihr befindet euch auf dem richtigen Kurs.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_perfekt_2": {
+    "German":"Auf einmal wirst du wach. Du hast nicht einmal bemerkt, wie du in den Schlaf gesunken bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_perfekt_3": {
+    "German":"Etwas dösig richtest du dich in deinem Bett auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_0": {
+    "German":"Ihr zieht die riesigen Segel ein und verharrt in eurer Position.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_1": {
+    "German":"Die Wellen werden immer wilder und schlagen gegen das Heck des Schiffes, welches bedrohlich anfängt zu schwanken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_2": {
+    "German":"Heftige Winde und lautes Donnern gefolgt von grellen Blitzen brechen über euch herein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_3": {
+    "German":"Doch so schnell der Sturm aufgetaucht ist, so schnell ist er auch an euch vorbei gezogen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_4": {
+    "German":"Erleichtert atmet ihr aus. Das ist ja noch einmal gut gegangen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_5": {
+    "German":"Auf einmal wirst du wach. Du hast nicht einmal bemerkt, wie du in den Schlaf gesunken bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_sturm_6": {
+    "German":"Etwas dösig richtest du dich in deinem Bett auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_0": {
+    "German":"Ihr segelt ein wenig abseits der Gefahr weiter und zieht die Segel ein. Jetzt heißt es abwarten und hoffen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_1": {
+    "German":"Starke Winde und heftiger Regen kommen auf euch herab. Zum Glück ist es fernab des Sturmes ein wenig ungefährlicher.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_2": {
+    "German":"Der Wellengang beruhigt sich und der Sturm zieht relativ schnell weiter.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_3": {
+    "German":"Das lässt euch erleichtert ausatmen. Ein Glück! Das ist die richtige Entscheidung gewesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_4": {
+    "German":"Auf einmal wirst du wach. Du hast nicht einmal bemerkt, wie du in den Schlaf gesunken bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_good_hafen_5": {
+    "German":"Etwas dösig richtest du dich in deinem Bett auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_0": {
+    "German":"Ihr segelt schnurstracks auf das Gewitter zu, welches über euch hereinbricht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_1": {
+    "German":"Die Wellen schlagen gegen die Seite des Schiffes und türmen sich meterhoch auf!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_2": {
+    "German":"Heftige Winde und starker Regen kommen auf euch hinab. Hier und da flackert ein leuchtender Blitz auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_3": {
+    "German":"Der Donner grollt laut in deinen Ohren. Doch ihr müsst weiter! Ihr habt es fast geschafft!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_4": {
+    "German":"Ein Blitz schlägt heftig in den Mast des Schiffes ein und ein Feuer bricht aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_5": {
+    "German":"Die Wellen werden immer höher und bringen schlussendlich das Schiff zum kentern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_sturm_6": {
+    "German":"Schweißgebadet wachst du auf. Du hast nicht einmal bemerkt, wie du in den Schlaf gesunken bist. Außer Atem richtest du dich in deinem Bett auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_0": {
+    "German":"Ihr segelt schnurstracks zurück zum sicheren Hafen, wo das gewaltige Schiff wieder seinen Anker lichtet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_1": {
+    "German":"Erleichtert atmest du auf. Ihr seid wahrscheinlich gerade dem sicheren Tod entkommen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_2": {
+    "German":"Allerdings wirkt die Besatzung so gar nicht begeistert, schließlich müsst ihr jetzt auf eine Genehmigung warten, um noch einmal in See stechen zu dürfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_3": {
+    "German":"Das kann noch Wochen dauern! Panik bricht in dir aus. Und wie sollt ihr wieder nach Hause kommen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_4": {
+    "German":"Ihr könnt doch nicht wochenlang ohne Geld in einer fremden Stadt überleben!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_bad_hafen_5": {
+    "German":"Schweißgebadet wachst du auf. Du hast nicht einmal bemerkt, wie du in den Schlaf gesunken bist. Außer Atem richtest du dich in deinem Bett auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_more_0": {
+    "German":"Oh du bist wach. Na wie gehts dir, du alte Bazillenschleuder?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_more_1": {
+    "German":"Suzan tastet deine Stirn ab und atmet erleichtert auf. Deine Temperatur ist nicht mehr erhöht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_more_2": {
+    "German":"Du musst zugeben, du hast zwar komische Sachen geträumt, aber eigentlich geht es dir gut. Sogar viel besser als vorher!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_more_3": {
+    "German":"Du erzählst Chad und Suzan von deinem wilden Traum auf hoher See.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_piraten_more_4": {
+    "German":"Und du bist echt mit einem T-Rex in See gestochen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_piraten_more_5": {
+    "German":"Das klingt ja mal witzig, sicher sah der voll gefährlich und super cool aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_piraten_more_6": {
+    "German":"Du solltest dir den Traum mal aufmalen! Der klingt echt cool!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_piraten_more_7": {
+    "German":"Warum nicht. Du hast noch nie ein Traumtagebuch geführt, aber vielleicht fängst du ja jetzt damit an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_piraten_more_8": {
+    "German":"Freudig kritzelst du auf die erste Seite deines Notizblocks den verwegenen Kapitän Kurzarm!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_faehre_more_4": {
+    "German":"Ein Hase als Kapitänin? Du träumst aber einen Käse. Aber sicher sah sie super niedlich aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_faehre_more_5": {
+    "German":"Du solltest dir den Traum aufzeichnen. Vielleicht brauchst du ihn ja noch einmal.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_faehre_more_6": {
+    "German":"Warum nicht. Du hast noch nie ein Traumtagebuch geführt, aber vielleicht fängst du ja jetzt damit an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_end_faehre_more_7": {
+    "German":"Freudig kritzelst du auf die erste Seite deines Notizblocks die zurückhaltende Kapitänin Bommelschwanz!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_name_0": {
+    "German":"Ticketverkäufer",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_name_1": {
+    "German":"Kapitänin Bommelschwanz",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_name_2": {
+    "German":"Kapitän Kurzarm",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_5_name_3": {
+    "German":"Eule",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

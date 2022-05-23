@@ -1,0 +1,716 @@
+{
+   "f_se_2_musik_0": {
+      "German": "Ihr beschließt den Fröschen bei der Musik zu helfen, dazu stattet ihr Brekeke einen Besuch ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_1": {
+      "German": "Ihr findet den Frosch, der gerade vertieft in einige Notenblätter schaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_2": {
+      "German": "Soll ich lieber das Lied spielen? Oder doch lieber das? WAS SOLL ICH BLOß SPIELEN?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_3": {
+      "German": "Dramatisch schaut der Frosch zum Himmel hoch. Chad räuspert sich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_4": {
+      "German": "Sollen wir dir vielleicht helfen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_5": {
+      "German": "Mir ist nicht mehr zu helfen, ihr Menschlinge! Ich brauche dringend neue Ideen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_6": {
+      "German": "MOMENT! Ihr seid ja neu hier und kommt aus einer ganz anderen Gegend. Womit sorgt ihr für gute Stimmung?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_7": {
+      "German": "Ohne coole Klänge gibt es auch keine gute Feier. Doch was könnte die Frösche in die richtige Feierstimmung bringen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_8": {
+      "German": "Uuuh! Böller-harten Metall! Das belebt jeden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_9": {
+      "German": "Eigentlich belebt das nur dich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_10": {
+      "German": "Als Antwort boxt die junge Frau Chad grinsend in die Seite.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_11": {
+      "German": "Was würde denn der Herr vorschlagen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_12": {
+      "German": "Schwierig. Vielleicht würden die Frösche ja zu Techno richtig abgehen. Ich meine, das lädt ja nur so zum Hüpfen ein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_13": {
+      "German": "Du überlegst. Vielleicht wäre auch etwas Poppiges das Richtige, um eine froschige Party so richtig zu beleben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_14": {
+      "German": "Wofür entscheidest du dich?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_o1": {
+      "German": "Metal",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_o2": {
+      "German": "Techno",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_o3": {
+      "German": "Pop",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_o4": {
+      "German": "Buch",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_0": {
+      "German": "JAWOHL! Find ich klasse.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_1": {
+      "German": "Dann halt Metal, aber ich weiß ja nicht…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_2": {
+      "German": "Ach Quatsch! Das wird sicher toll!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_3": {
+      "German": "Das denkst du auch. Metal ist die einzig richtige Wahl. Aber wie wollt ihr den Fröschen die Musik beibringen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_4": {
+      "German": "Wartet mal, ich glaube ich habe hier noch eine CD meiner Lieblingsband!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_5": {
+      "German": "Echt? Die \"Smoscher Washer\"? Möchtest du nicht lieber die \"Traurigen vegetarischen Vampire\" anmachen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_6": {
+      "German": "Nee, die sind doch total heftig. Aber vielleicht fangen wir dann einfach mit ein wenig leichterer Kost an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_7": {
+      "German": "Ich habe hier noch die \"Blutrünstigen Zombietomaten\".",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_8": {
+      "German": "Du kennst diese Bands leider nicht, aber Tomaten hören sich saftig an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_9": {
+      "German": "Ihr geht zu Brekeke, der immer noch verzweifelt nach einer Idee sucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_10": {
+      "German": "Zeigt mal her. Die Blutrünstigen Zombietomaten? Was sind den Zombies? Aber ihr würdet mir ja keine schlechte Musik geben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_11": {
+      "German": "Ihr spielt die CD mit der Boombox von Chad ab und das Geräusch von heftigen Metalklängen und unerkennbaren Textzeilen erfüllt die Umgebung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r1_12": {
+      "German": "So etwas Wildes haben die Frösche noch nie gehört. Das müssten sie erstmal proben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_0": {
+      "German": "NICE! Das wird sicher gut. Das wird die Frösche hier zum Tanzen bringen! Warte!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_1": {
+      "German": "Ich hab ein paar krasse Tracks auf meinem Musik-Player gespeichert. Zieht euch das mal rein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_2": {
+      "German": "Du steckst dir mit Suzan jeweils einen Yolo-Kopfhörer in eure Ohren und ihr lauscht den harten Beats.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_3": {
+      "German": "DJ 8 BIT MASHER ist voll geil, oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_4": {
+      "German": "Naja… Ich finde den ja nicht so prickelnd.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_5": {
+      "German": "Warte! Ich habe noch… \"E-Roller\" und… Wie wäre es mit \"Industrial Industry\".",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_6": {
+      "German": "Du kennst diese Bands leider nicht, aber \"Industrial Industry\" hört sich besser an als \"E-Roller\".",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_7": {
+      "German": "Ihr geht zu Brekeke, der immer noch verzweifelt nach einer Idee sucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_8": {
+      "German": "Zeigt mal her. Industrial Industry? Das klingt ja seltsam? Aber ihr würdet mir ja keine schlechte Musik geben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_9": {
+      "German": "Ihr spielt den Fröschen die Musikstücke vor und das Geräusch von heißen Beats breitet sich aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_10": {
+      "German": "Mit funkigen Melodien und ansteckendem Rythmus verleitet es euch jetzt schon zum Tanzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r2_11": {
+      "German": "So etwas Wildes haben sie noch nie gehört. Das müssten sie erstmal proben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_0": {
+      "German": "Natürlich. Pop hat sich immer gehalten und wird auch in Zukunft eine der besten Musikrichtungen sein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_1": {
+      "German": "Warum solltet ihr dann nicht Pop wählen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_2": {
+      "German": "Na, ich weiß nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_3": {
+      "German": "Das kommt aber sehr auf die Band an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_4": {
+      "German": "Du aber hast die richtige Sängerin bereits im Kopf. Natürlich kann es niemand Anderes sein, als B.B.!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_5": {
+      "German": "Wie B.B.?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_6": {
+      "German": "Meinst du Barbara Bockwurst?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_7": {
+      "German": "Natürlich meinst du sie. Diese Sängerin ist auf WeSquare gerade total beliebt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_8": {
+      "German": "All ihre Lieder werden sofort zum größten Hit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_9": {
+      "German": "Mit Balladen wie \"Wo ist meine Wurst nur hin?\" \"Rück mir nicht auf die Pelle!\" und \"Brate mich auf einem Grill!\" begeistert sie ihre Fans.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_10": {
+      "German": "Barbara Bockwurst? Die spielt doch immer nur das Gleiche. Da ist ja Null Abwechslung in ihrer Musik.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_11": {
+      "German": "Ihr geht zu Brekeke, der immer noch verzweifelt nach einer Idee sucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_12": {
+      "German": "Zeigt mal her. Barbara Bockwurst? Das klingt ja seltsam. Aber ihr würdet mir ja keine schlechte Musik geben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_13": {
+      "German": "Ihr spielt den Fröschen die Musikstücke vor und das Geräusch einer heiseren, Raucherstimme von einer vierzigjährigen Frau hallt durch den Dorfplatz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r3_14": {
+      "German": "So etwas haben die Frösche noch nie gehört. Das müssten sie erstmal proben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_0": {
+      "German": "Du überlegst weiter. Irgendwie klingt keine der Ideen wirklich nach DER besten Musik Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_1": {
+      "German": "Da fällt dir das geheimnisvolle Buch ein, welches du von Dr. Rich Wealth als Hilfe für deine Forschungsreisen bekommen hast!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_2": {
+      "German": "Du kramst das Buch aus deinem Rucksack und blätterst in den gelblichen Seiten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_3": {
+      "German": "Tatsächlich! In diesem Buch hat Dr. Wealth seine Abenteuer auf der VIMUKI Insel aufgezeichnet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_4": {
+      "German": "Darunter befinden sich viele Kapitel über das Leben mit dem Froschvolk.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_5": {
+      "German": "Du blätterst ein paar Seiten weiter und entdeckst ein spezielles Kapitel über klassische Lieder der Frösche.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_6": {
+      "German": "Chad späht über deine Schulter auf die aufgeschlagene Seite und auch Suzan blickt neugierig in das alte Buch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_7": {
+      "German": "Oh das hat bestimmt einen schönen Klang. Das ist sehr traditionell.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_8": {
+      "German": "Ja, echt? Ich kann keine Noten lesen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_9": {
+      "German": "Auch du findest, dass es das Fest richtig bereichern würde. Ihr geht zu Brekeke, der immer noch verzweifelt nach einer Idee sucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_10": {
+      "German": "Zeigt mal her.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_11": {
+      "German": "Der alte Frosch liest über die Noten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_12": {
+      "German": "OH! Das sind ja meine Stücke! Die Noten für diese Musik sind mir abhanden gekommen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_13": {
+      "German": "Und dieses Buch! Das muss doch bestimmt das Buch von Benjamin sein. Ich glaube mit vollem Namen hieß er Benjamin Wealth.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_14": {
+      "German": "Donnerlittchen, an ihn habe ich mich schon lange nicht mehr zurückerinnert. Ich hoffe es geht ihm gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_15": {
+      "German": "Zusammen mit Brekeke beschließt ihr das traditionelle Stück für die Feier zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_16": {
+      "German": "Eifrig proben die Frösche das Lied und erfüllen das Dorf mit den zarten und sanften Lauten ihrer Blasinstrumente.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_d1_r4_17": {
+      "German": "Das war eine wunderbare Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_0": {
+      "German": "Das Proben der Musiker:innen hat auch die restlichen Frösche zu der Bühne gelockt, welche gespannt dem Rhythmus der Musik lauschen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_1": {
+      "German": "Einige fangen bereits an fröhlich hin und her zu hüpfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_2": {
+      "German": "Die spielen ja richtig gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_3": {
+      "German": "Die Musik passt auch total finde ich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_4": {
+      "German": "Er lächelte, als er die vielen hüpfenden Frösche betrachtet, die sich eine kurze Dance-Pause genommen haben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_5": {
+      "German": "Sie sehen wirklich begeistert aus und schwingen ihre grünen Hüften zu der peppigen Musik.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_good_6": {
+      "German": "Auch Brekeke ist zufrieden. Das wird die Gäste bestimmt in Feststimmung bringen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_0": {
+      "German": "Die laute Musik hat nun auch die restlichen Frösche zu der Bühne gelockt, leider nicht um ihr zu lauschen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_1": {
+      "German": "Was ist das denn für ein Krach!?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_2": {
+      "German": "Macht die Musik sofort aus! Das ist doch nicht zu ertragen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_3": {
+      "German": "Ja, optimal war das jetzt nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_4": {
+      "German": "Das liegt aber nicht an der Band, sie spielen echt verdammt gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_5": {
+      "German": "Nein, das liegt vor allem an eurer Auswahl von Songs für die Feier. Nein so würde das auf keinen Fall funktionieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_6": {
+      "German": "Die Band hört missmutig auf zu spielen und auch Brekeke schaut trübselig drein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_7": {
+      "German": "Schnell, du musst ihre Stimmung ein wenig heben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_8": {
+      "German": "Ihr braucht sofort andere Musik, du kramst in deiner Tasche und suchst auf deinem Player nach anderen Musikstücken, die du vorschlagen kannst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_o1": {
+      "German": "Schlager",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_o2": {
+      "German": "Swing",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_0": {
+      "German": "Wie wäre es den mit Schlager? Zugegeben, das wird bei vielen Feiern gespielt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_1": {
+      "German": "Dafür gibt es bestimmt auch einen guten Grund, der dir jetzt aber vor lauter Panik nicht mehr einfällt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_2": {
+      "German": "Du zeigst der Band einige Lieder von einem Album namens \"Knackige Almhütten-Beats\".",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_3": {
+      "German": "Die Frösche studieren die Songs und beginnen eines der Lieder laut zu spielen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_4": {
+      "German": "Einer der Frösche übernimmt sogar den Gesang.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_5": {
+      "German": "ALTER! Das ist ja noch schlimmer als das andere!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_6": {
+      "German": "Das ist eine Beleidigung unserer Ohren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_7": {
+      "German": "Also so schlimm ist das doch nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_8": {
+      "German": "Machst du Witze!?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_9": {
+      "German": "Die Frösche diskutieren aufgeregt und der Entschluss der Mehrheit steht fest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_10": {
+      "German": "Lieber gar keine Musik, als diese Qualen ertragen zu müssen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_11": {
+      "German": "So etwas Furchtbares haben sie noch nie gehört.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_12": {
+      "German": "Trotzdem Danke für die Hilfe, ihr Menschlinge. Aber wir spielen dann doch lieber unsere alten Lieder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r1_13": {
+      "German": "Zumindest würde es Musik auf der Feier geben, aber leider nicht die, die ihr euch gewünscht habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_0": {
+      "German": "Wie wäre es denn mit Swing? Zumindest kann man dazu auch wunderbar tanzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_1": {
+      "German": "Du zeigst der Band einige Lieder von deinem Player und die jazzigen Beats lassen die Musiker:innen sofort im Takt mitwippen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_2": {
+      "German": "Aufgeregt studieren die Frösche die Songs und beginnen eines der Lieder laut zu spielen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_3": {
+      "German": "Das ist viel besser!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_4": {
+      "German": "Aber echt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_5": {
+      "German": "Oh das mag ich sehr. Sehr schöne Musik.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_6": {
+      "German": "Meine Beine bewegen sich ja wie von selbst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_7": {
+      "German": "In der Tat, die Frösche beginnen sogar ihre kleinen grünen Hüften zu schwingen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_8": {
+      "German": "Die Musik wird die Gäste des Erntefestes bestimmt in Feierstimmung bringen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "f_se_2_musik_bad_d2_r2_9": {
+      "German": "Vielen Dank für eure Hilfe! Ohne euch hätten wir das nie geschafft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

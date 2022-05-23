@@ -1,0 +1,686 @@
+{
+  "d_intro_0": {
+    "German":"Ah, der Dschungel! Ein unberührtes Gebiet mit einer ungeheuer großen Artenvielfalt. Lianen schlängeln sich hier in vielfachen Variationen um Bäume und diverse Felsformationen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_intro_1": {
+    "German":"Einzigartige Insekten und Pflanzen sind hier an jeder Ecke anzutreffen. Aber Achtung, denn so idyllisch wie der Dschungel wirkt ist er nicht. Er beherbergt eine Vielzahl von wilden Tieren und Gefahren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_0": {
+    "German":"Da das Wetter dieses Mal mitspielt, entschließt ihr euch kurzerhand querfeldein in den Dschungel zu laufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_1": {
+    "German":"Die Vegetation ist an diesem Tag besonders grün und die meisten Pflanzen sind regelrecht aufgeblüht. Vielleicht lag das an eurer magischen Anwesenheit oder an der Tatsache, dass es die Nacht zuvor heftig gewittert hatte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_2": {
+    "German":"Ihr durchforstet den Dschungel nach spannenden Motiven und entdeckt dabei einen gigantischen Baum, der wie ein Wahrzeichen aus dem Dschungel ragt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_3": {
+    "German":"Das leichte Wehen seiner Blätter lädt euch beinahe ein auf diesem Baum Platz zu nehmen. Es steht fest: Ein Baumhaus muss her! Jedoch wisst ihr nicht recht wie ihr an die Sache herangehen wollt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_o1": {
+    "German":"Du fragst die Affen um Rat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_o2": {
+    "German":"Online - Wettbewerb für den besten Konstruktionsplan.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_o3": {
+    "German":"Unter freiem Himmel schlafen ist doch viel schöner!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r1_0": {
+    "German":"Du erinnerst dich daran, dass die Affen bereits ähnliche Konstruktionen gebaut haben. Warum nicht einfach sie fragen! Als sie von eurem Vorhaben hören sind sie hellauf begeistert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r1_1": {
+    "German":"Mit vereinten Kräften erstellt ihr einen Konstruktionsplan und setzt diesen bestmöglich in die Tat um. Alles verläuft nach Plan und jede noch so kleine Kleinigkeit wird streng unter die Lupe genommen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r1_2": {
+    "German":"Leider arbeitet ihr viel zu akribisch, weswegen das Vorhaben länger dauert, als erwartet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r1_3": {
+    "German":"Als die Sonne immer mehr hinter den Baumwipfeln verschwindet, merkt ihr, dass ihr ein Problem habt. Es ist zu wenig Licht da, um effektiv weiter zu arbeiten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_o1": {
+    "German":"Ihr benutzt das Seil.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_o2": {
+    "German":"Ihr sucht leuchtende Objekte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_o3": {
+    "German":"Ihr findet einen trockenen Stock.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r1_0": {
+    "German":"Ihr beginnt damit das Seil in Stücke zu schneiden, die ihr daraufhin an die Enden verschiedener Äste knotet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r1_1": {
+    "German":"Mit Hilfe der Affen tränkt ihr diese mit einer leicht brennbaren Substanz, die die Affen ihrerseits für ihre Laternen benutzen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r1_2": {
+    "German":"Chad zündet die Fackel an, die ein warmes und helles Licht spendet. Glückwunsch! Du hast eine Fackel gebaut, die lange hält.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r1_3": {
+    "German":"Eure Konstruktion ist ein voller Erfolg und ihr genießt mit den Affen ein kühles Getränk auf eurer neu errichtete Baumhaus-Veranda.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_0": {
+    "German":"Ihr sucht in der Umgebung nach verschiedenen leuchtenden Substanzen und stellt schnell fest, dass weder leuchtendes Moos noch leuchtende Pilze die Lösung für euer Problem sind.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_1": {
+    "German":"Deprimiert über euer Vorhaben haltet ihr mit der Konstruktion inne. Ohne genug Licht ist es zu gefährlich den Bau bei Nacht fortzusetzen! Doch da entdeckst du etwas. Ein kleiner leuchtender Punkt fliegt an dir vorbei.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_2": {
+    "German":"Was ist das denn?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_3": {
+    "German":"Wie schön… Das sind ja Glühwürmchen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_4": {
+    "German":"Glühwürmchen? Euch kommt eine Idee. Ihr beginnt damit die kleinen Käfer einzufangen und in kleine Behälter zu stecken. ENDLICH, ihr habt Licht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_5": {
+    "German":"Jedoch ist dieses Licht deutlich schwächer, als das von einer Fackel oder einer Laterne. Ihr werdet viele davon brauchen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_6": {
+    "German":"Euer Vorhaben dauert eine ganze Weile länger und erst im Morgengrauen werdet ihr mit eurem majestätischen Baumhaus fertig. Leider könnt ihr es nicht ganz genießen, denn ihr seid alle unglaublich müde.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r2_7": {
+    "German":"Ihr nutzt das Baumhaus, um euch gemeinsam von den Erlebnissen der Nacht auszuruhen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_0": {
+    "German":"Du nimmst einen trockenen Stock und zündest ihn mit deinen Streichhölzern an. Einfach und effektiv! Es kann weitergehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_1": {
+    "German":"Ihr baut eifrig weiter, allerdings nicht für lange, denn die Feuerquelle ist schnell abgebrannt. Deswegen seid ihr mehr damit beschäftigt , immer mehr Lichtquellen aufzustellen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_2": {
+    "German":"Ihr baut und baut, doch ihr kommt wegen dem Mangel an Lichtquellen einfach nicht voran.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_3": {
+    "German":"Ach das hat so keinen Sinn….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_4": {
+    "German":"Frustriert lässt sich Chad neben Suzan auf den Boden plumpsen, während sie mehr und mehr Fackeln baut. Du musst jetzt unbedingt die Stimmung retten! Wie wäre es mit einer Party mitten im Dschungel?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_5": {
+    "German":"Hier?... Aber….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_6": {
+    "German":"Auf jeden Fall!!!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d2_r3_7": {
+    "German":"Und dann steigt sie, eine richtige Affen-Sause mit Getränken, Snacks und der nötigen Tanzmusik. Ihr feiert bis tief in die Nacht und habt eine Menge Spaß.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_0": {
+    "German":"Natürlich greifst du, wie viele andere in deiner Lage auch, online auf das weltweite Wissen zurück.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_1": {
+    "German":"Boah das dauert echt lange.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_2": {
+    "German":"Ich finde zwar viel aber …. Herje, das Video dauert einfach 3 Stunden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_3": {
+    "German":"Zu lange für euer Vorhaben! Es muss einen schnelleren Weg geben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_4": {
+    "German":"EY, lass uns mal unsere Community fragen! Da sind doch sicher Leute dabei, die das schonmal gemacht haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_5": {
+    "German":"Vielleicht hat Chad recht. Vielleicht befindet sich unter ihnen eine Architekt:in? Aber warum nicht gleich aufs Ganze gehen!? Ihr veranstaltet einen Wettbewerb, bei dem die Sieger:in über Upvotes entschieden wird.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_6": {
+    "German":"Dabei werdet ihr die Konstruktion des ersten Preises in die Tat umsetzen! Die Leute werden schon alle wissen, was das beste Baumhaus ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_7": {
+    "German":"Einige Zeit vergeht und die ersten drei Plätze stehen fest. Der dritte Platz ist eine Kinderzeichnung eines Baumhauses, anscheinend von jüngeren Leuten aus eurem Umfeld.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_8": {
+    "German":"Den zweiten Platz erreicht ein ausgeklügelter Bauplan von einem hochmodernen Baumhaus, das nicht nur einfach zu konstruieren wäre, sondern auch seinen eigenen Strom durch Luft- Energie gewinnt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_9": {
+    "German":"Gespannt schaut ihr auf den ersten Platz! Da ist es!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_10": {
+    "German":"Was zum …. Was ist das?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_11": {
+    "German":"Unser Baumhaus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_12": {
+    "German":"Beide wirken etwas bedrückt, während du auf ein Foto einer fettigen Serviette starrst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_12_b": {
+    "German":"Jemand hat mit auslaufendem Kugelschreiber eine kleine, kritzelige und vor allem halbfertige Skizze eines Baumhauses gemalt. Verdammt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_13": {
+    "German":"Ihr seid soweit wie vorher und habt euch nun dazu noch diese Monstrosität ans Bein gebunden! Aber ihr dürft eure Fans nicht enttäuschen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r2_14": {
+    "German":"Ihr fangt an das \"Baumhaus\" zu bauen, jedoch wollen die Einzelteile nicht recht an ihrem Platz bleiben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_o1": {
+    "German":"Ihr benutzt das Seil.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_o2": {
+    "German":"Ihr benutzt klebriges Baumharz.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_o3": {
+    "German":"Ihr benutzt Schlamm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r1_0": {
+    "German":"Natürlich! Ein Seil! Ihr bindet die einzelnen Holzstücke zusammen und dann an den Ast unter ihnen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r1_1": {
+    "German":"Nach und nach spannt ihr die Seile weiter und es entsteht ein regelrechtes Geflecht von Seilen und einzelnen Holzbalken, die komischerweise auch der Vorlage ähneln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r1_2": {
+    "German":"Ihr blickt stolz zu eurem fertigen …. Kunstobjekt. Allerdings wisst ihr nicht genau, wie ihr in dieser Konstruktion schlafen sollt. Zumindest habt ihr eure Community glücklich gemacht und Likes generiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_0": {
+    "German":"Nach einer kleinen Suche im Netz findet Chad einen Do-it-yourself-Channel auf WeCube. Ohne viel drum herum wird eine genaue Anleitung zum Nachmachen präsentiert, wie man aus Baumharz Klebstoff herstellt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_1": {
+    "German":"Ob das wirklich wirkt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_2": {
+    "German":"Aber du siehst das doch im Video! Das is der Beweis!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_3": {
+    "German":"Stimmt das ist der Videobeweis. Ohne weitere Zeit mit Zweifeln zu verschwenden, versucht ihr den Anweisungen des Channels zu folgen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_3_b": {
+    "German":"Leider stellt ihr dabei fest, dass ihr eine Menge Harz braucht, um das Projekt zu realisieren. Zu viel für Suzan.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_4": {
+    "German":"Wir können doch nicht einfach Bäume verletzten?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_5": {
+    "German":"Wahrscheinlich müsstet ihr sehr viele Bäume dafür verletzten. Also wird das wohl nichts mit eurem riesigen Baumhaus. Suzan sieht eure enttäuschten Gesichter und überlegt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_6": {
+    "German":"Wenn es nur eine Möglichkeit gäbe, kleinere Mengen Klebstoff zu benutzen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_7": {
+    "German":"Genau! Ihr müsst einfach kleiner denken! Und so setzt ihr das Baumhaus in die Tat um, nur eben auf Vogelgröße.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_8": {
+    "German":"Während ihr das kleine Vogelhaus in die Äste eines Baumes setzt, beobachtet ihr dabei wie eine kleine Vogelfamilie bereits Interesse an eurem Baumwerk zeigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r2_9": {
+    "German":"Kurze Zeit später seht ihr das Pärchen zufrieden darin nisten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_0": {
+    "German":"Natürlich ist Schlamm die Lösung!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_1": {
+    "German":"Und wie soll uns Schlamm helfen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_2": {
+    "German":"Jetzt denk doch mal nach! Der härtet ja aus! Wenn wir nur genug Schlamm nehmen, dann hält das sicher auch!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_3": {
+    "German":"Suzan brummt nur vor sich hin. Auch dir ist klar, dass Schlamm aushärtet. Aber Chad steckt euch mit seinem Enthusiasmus an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_4": {
+    "German":"Ihr beschließt es einfach mal zu versuchen. Ihr nehmt den Schlamm, von dem ihr viel in der Umgebung findet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_5": {
+    "German":"Und tatsächlich, die Schleimklumpen verfestigen sich um die einzelnen Bauteile. Sie sind nun hart und stabil! Das scheint im ersten Moment vielleicht eine gute Idee zu sein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_6": {
+    "German":"Als ihr auf euer Grundgerüst steigt, stellt ihr fest, dass Schlamm zumindest hier wohl keine gute Alternative zu anderen Befestigungsarten bildet. Ihr beschließt die Situation zu überdenken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_7": {
+    "German":"Moment! Die benutzen hier Lehm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_8": {
+    "German":"Na das ist doch Schlamm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_9": {
+    "German":"Nein! Lehm hat eine andere Konsistenz und besteht aus anderen Sandkorngrößen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_10": {
+    "German":"Versteh ich nicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_11": {
+    "German":"Lehm hat eine andere Farbe und wird hart.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_12": {
+    "German":"Ihr sucht nach dem besagten Lehm und findet welchen in der Nähe eines Flusses und beschließt hier eine Lehmhütte zu errichten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_13": {
+    "German":"Ihr baut eine Holzkonstruktion in Form eines Iglus. Anschließend folgen Schichten um Schichten von Lehm, den ihr zuvor mit anderen Materialien wie Stroh und kleinen Ästen vermischt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d3_r3_14": {
+    "German":"Nach und nach und vor allem Dank des trockenen und sonnigen Tages errichtet ihr ein wahres Lehmhütten- Penthouse. Ihr beschließt die Nacht in eurem neugebauten Lager zu verbringen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_0": {
+    "German":"Warum eine Konstruktion bauen, wenn ihr auch sportlich aktiv sein könnt. Ein weiterer Vorteil ist, dass ihr so auch das Ökosystem hinterlasst, wie ihr es vorgefunden habt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_1": {
+    "German":"Mit vereinten Kräften klettert ihr den festen Stamm des hohen Baumes empor zu dem bunten Blätterdach.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_2": {
+    "German":"Es dauert einige Zeit, bis ihr an genügend Höhe gewonnen habt und die ersten Äste in Sichtweite kommen. Auf diesen könnt ihr euch für die Nacht ausbreiten. Ihr blickt dem Nachthimmel entgegen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_3": {
+    "German":"Chad fokussiert sich auf die Landschaft um euch herum. Nun ja, wohl eher auf sich selbst in dieser Landschaft. Er beginnt damit verschiedene Posen einzunehmen. Für ihn ist der Ausflug definitiv jetzt schon ein Erfolg.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_4": {
+    "German":"Suzan hingegen nimmt die frische Luft in sich auf, die noch sommerlich warm durch die Baumwipfel zieht und diese dabei mit einem leichten Schwung zur Seite neigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_5": {
+    "German":"Du hingegen konzentrierst dich auf deinen Muskelkater und liegst flach auf dem stabilen Blättergeflecht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_5_b": {
+    "German":"Du richtest deinen Blick hoch hinauf zu dem Sternenzelt, welches heller und deutlicher zu sehen ist als bei dir daheim.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_6": {
+    "German":"Nach einiger Zeit gesellen sich auch deine Freund:innen zu dir.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d1_r3_7": {
+    "German":"Du hast gar nicht gemerkt wie ihr eingeschlafen seid. Aber du bemerkst sehr wohl, dass ihr alle langsam vom Ast kippt! Du musst schnell etwas unternehmen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_o1": {
+    "German":"Ihr benutzt das Seil.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_o2": {
+    "German":"Du benutzt klebrigen Honig.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_o3": {
+    "German":"Runter vom Baum!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r1_0": {
+    "German":"Du greifst nach einem stabilen Seil und beginnst damit euch am Ast festzubinden. Zunächst bindest du dich selbst an einen Ast über dir, dann machst du dasselbe mit deinen Freund:innen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r1_1": {
+    "German":"Suzan wird von deinem Rumgefuchtel wach und erkennt die Lage sofort. Chad hingegen schlägt widerspenstig um sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r1_2": {
+    "German":"WAS?! Was machst du da?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r1_3": {
+    "German":"Doch du verschwendest keine Zeit damit ihm die Lage zu erklären sondern sicherst ihn zuerst. Zumindest könnt ihr jetzt nicht mehr so leicht herunterfallen, auch wenn die neue Schlafposition nicht besonders bequem ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_0": {
+    "German":"Du versuchst die Lage schnellstmöglich zu verbessern. Doch dir fehlt leider eine gute Idee. Dann bemerkst du das Summen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_1": {
+    "German":"Das Summen! Und wo es summt sind meistens Bienen. Und wo Bienen sind… da gibt es auch Honig. Und wo Honig ist… Da ist auch Klebrigkeit. Ja… So kommt alles zusammen… Denkst du jedenfalls.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_2": {
+    "German":"Du packst den großen Bienenstock und beginnst damit dich und deine Freund:innen mit Honig zu übergießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_3": {
+    "German":"Ist das ein Prank oder was?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_4": {
+    "German":"Ich fühl mich klebrig….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_5": {
+    "German":"Sie haben nichts von der Gefahr bemerkt, in der sie Dank dir nun nicht mehr sind. Du lächelst triumphierend und bist gerade dabei ihnen deinen Mut vor Augen zu führen, als du sie hörst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_6": {
+    "German":"Das bedrohliche Surren hunderter kleiner Geschöpfe, die nicht allzu begeistert von deinem Raubüberfall sind.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_7": {
+    "German":"Sie fangen an euch zu stechen und euch von ihrem Baum zu vertreiben. Panisch klettert ihr von dem Baum herunter.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r2_8": {
+    "German":"Suzan und Chad schauen dich wütend an, als ihr wieder unten am Boden ankommt. Zumindest denkst du das, denn ihre Gesichter sind durch die Stiche ein bisschen angeschwollen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r3_0": {
+    "German":"Da du nichts findest, um euch zu sichern, weckst du aufgeregt den Rest der Gruppe und machst ihnen die gefährliche Situation klar, in der ihr euch befindet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r3_1": {
+    "German":"Die Äste biegen sich mehr und mehr durch den aufkommenden Wind und ihr fallt nach unten, werdet aber zum Glück von unter euch liegenden Ästen aufgefangen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r3_2": {
+    "German":"Es bleibt euch nur eine Sache übrig! Ihr müsst so schnell wie möglich runter klettern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r3_3": {
+    "German":"Ihr klettert in Höchstgeschwindigkeit vom Baum. Müde und erschöpft lasst ihr euch im Gras auf den Rücken fallen. Warum habt ihr nicht gleich hier unten übernachtet? Es wäre sicher die ungefährlichste Idee gewesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_2_d4_r3_4": {
+    "German":"Von hier aus, wirken die Sterne noch schöner. Ihr wacht zwar am nächsten Morgen mit ein paar Rückenschmerzen auf, aber wenigsten habt ihr euch kein Bein gebrochen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

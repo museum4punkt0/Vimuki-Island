@@ -1,0 +1,680 @@
+{
+   "t_intro_0": {
+      "German": "Die Tropfsteinhöhlen befinden sich in einer Berglandschaft mit verwucherten Hängen, fernab von jeglicher Zivilisation.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_1": {
+      "German": "Diese von Menschen noch nie zuvor betretenen Höhlensysteme bieten außer einer Menge Steine vielleicht auch einige Freizeitaktivitäten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_2": {
+      "German": "Der Besuch der Höhlen ist es sicher wert den langen Fußmarsch auf euch zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_0": {
+      "German": "Du betrittst den Eingang der Tropfsteinhöhle und atmest die kühle, wenn auch etwas muffige Luft ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_0_b": {
+      "German": "Die Stalaktiten begrüßen euch steif und ihr hört das leisen Plätschern von Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_1": {
+      "German": "Doch etwas übertönt die Ruhe, eine Art Geschrei oder lautes Gröhlen. War das etwa ein verletztes Tier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_1_b": {
+      "German": "Ihr werdet hellhörig und folgt den Geräuschen tiefer in die Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_2": {
+      "German": "Sind hier noch andere Menschen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_3": {
+      "German": "Das geht gar nicht! Wir sind schließlich die Ersten hier! Wir sind quasi etwas Besonderes.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_4": {
+      "German": "Ihr hört zwei laute Stimmen, die anscheinend über eine existenziell wichtige Frage streiten:",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_5": {
+      "German": "Ich bin cooler!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_6": {
+      "German": "NEIN! Ich bin cooler!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_7": {
+      "German": "Als ihr näherkommt, entdeckt ihr die Quelle der Geräuschkulisse.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_7_b": {
+      "German": "Es handelt sich um zwei riesige und besonders haarige Wesen mit knubbeligen Nasen, die sich nur durch die Farbe ihrer Körper unterscheiden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_8": {
+      "German": "Jetzt hör auf damit! Wir beide wissen, wer der Bessere von uns beiden ist! Und das bin ich. Ich bin viel stärker als du!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_9": {
+      "German": "Bist du gar nicht! Den Stein da vorne habe ich viel weiter geworfen als du!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_10": {
+      "German": "Ja, weil der auch leichter war als meiner!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_11": {
+      "German": "Die Trolle bemerken euch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_12": {
+      "German": "Ey, ihr da! Welcher von uns ist cooler?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_13": {
+      "German": "Ja Mädchen, du entscheidest!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_14": {
+      "German": "Sie zeigen auf Suzan, die eingeschüchtert von der Situation etwas zusammensinkt. Suzan überlegt einen Moment und schlägt Kategorien für einen Wettbewerb vor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_o1": {
+      "German": "Manieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_o2": {
+      "German": "Komplimente.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_0": {
+      "German": "Ein richtig cooler Troll zeigt auch, dass er richtig gute Manieren hat!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_1": {
+      "German": "Gesagt, getan. Nach den anfänglichen, fragenden Blicken der Trolle und eurer Erklärung, was Manieren eigentlich sind, …",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_1_b": {
+      "German": "… sitzt ihr alle gemeinsam auf dem Boden und imitiert eine Teezeremonie mit Steinen. Innovativ.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_2": {
+      "German": "Unter dem strengen Blick von Suzan versuchen die Trolle ihr Verhalten zu imitieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_2_b": {
+      "German": "Sie spreizen den kleinen Finger, schlürfen bei Tisch nicht und schlucken mit geschlossenem Mund. Es läuft alles zu gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_3": {
+      "German": "Das ändert sich schlagartig, als Trollf den Mund öffnet und einen ohrenbetäubenden Rülpser loslässt. Das war nun so gar kein manierliches Benehmen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_4": {
+      "German": "Heehehehehe! Geil! Lass mich auch mal! Das kann ich sicher noch besser als du.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_5": {
+      "German": "Er bereitet sich vor wie eine Hochleistungssportler:in und spannt seinen großen Bauch an, bevor er einen genauso lauten aber fies stinkenden Rülpser zum Besten gibt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_6": {
+      "German": "Die gut gemeinte Teezeremonie endet in einem Desaster, als ein Rülpswettbewerb daraus wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_7": {
+      "German": "Aber das ist doch gar nicht der Wettbewerb gewesen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_8": {
+      "German": "Jetzt ist er es aber! Ich weiß eh nicht wozu ich Ma… MA… Maniehrön brauchen sollte!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r1_9": {
+      "German": "Hehe… Genau!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_0": {
+      "German": "Wir sollten herausfinden, wer innerlich cool ist, denn das zeichnet wahre Coolness aus! Außerdem finde ich Freundlichkeit ziemlich cool.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_1": {
+      "German": "Suzan ist Feuer und Flamme für diese Idee. Die Trolle sollen sich mit Komplimenten battlen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_1_b": {
+      "German": "So gewinnt derjenige, der die einfallsreichsten und nettesten Sachen über den anderen sagen kann.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_2": {
+      "German": "Skeptisch beäugen euch die haarigen Wesen, bevor sie sich gegenseitig tief und schweigend in die Augen schauen. Eine lange Zeit passiert nichts.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_3": {
+      "German": "Du hast eine schöne Kartoffelnase.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_4": {
+      "German": "Du auch…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_5": {
+      "German": "Deine Füße stinken so richtig geil faulig!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_6": {
+      "German": "Danke… Deine auch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_7": {
+      "German": "Das ist doch kein richtiges Kompliment! Außerdem darfst du nicht immer nur das wiederhohlen, was ich sage!!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d1_r2_8": {
+      "German": "Wir haben keine Regeln festgelegt! Ich muss dir nur Komplimente machen! Und deine Füße stinken AUCH!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_15": {
+      "German": "Der Streit artet schlimmer aus als vorher, während ihr zwischen den Stühlen steht und Suzan bedrückt zu Boden schaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_16": {
+      "German": "Zumindest hast du es versucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_17": {
+      "German": "Wir brauchen jetzt aber mal einen echten Wettbewerb!!! Nicht so einen laschen wie vorher! Du… Was sollen wir machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_18": {
+      "German": "Er deutet auf Chad, der erschrocken auf sich zeigt. Er muss jedoch nicht lange nach einer Lösung suchen und schlägt das Erstbeste vor, was ihm in den Sinn kommt:",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_o1": {
+      "German": "Rap Battle!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_o2": {
+      "German": "Eine Social Media Challenge!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_0": {
+      "German": "Die Trolle feiern diese Idee. Wahrscheinlich weil in dem Vorschlag das Wort \"Battle\" vorkommt. Doch wie schaut ein Kampf aus, der Rap beinhalten soll?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_1": {
+      "German": "Das funktioniert so: Ihr müsst gegeneinander antreten und euch volle Kanne wegdissen, alle beide!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_2": {
+      "German": "Heißt das wir dürfen gemein zueinander sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_3": {
+      "German": "Aber hallo! Ihr sollt das sogar! Wer den anderen mit Reimen am besten beleidigen kann gewinnt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_4": {
+      "German": "Er holt eine kleine Musikbox aus seiner Tasche und füllt die Höhle mit harten Beats.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_4_b": {
+      "German": "Während ihr zum Rhythmus der Musik mit dem Kopf wackelt, versuchen die Trolle sich gegenseitig in einem Rap Battle fertig zu machen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_5": {
+      "German": "Oder eher… Sie versuchen zu rappen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_6": {
+      "German": "Dein Rücken ist so haarig, das ist abartig! Deine Beine sehen aus wie meine, doch deine Zehen glänzen, dass ich weine!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_7": {
+      "German": "Uff. Das war brutal. Doch da kommt auch schon die Antwort des anderen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_8": {
+      "German": "Deine Raps sind wie plumpe Fürze, doch meine haben echte Würze!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_8_b": {
+      "German": "Deine Reime sind so schlecht, du bist echt kein Hecht. Dafür weiß ich es krass genau, ich bin der König von üblem Radau.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_9": {
+      "German": "Uff… Das war ein harter Schlag gegen dich, Alter.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_10": {
+      "German": "Du denkst du bist so hart und smart, doch wenn du dich bückst, reißt deine Hosennaht! Wenn ich jetzt will klopp ich dich, doch was uncooles schlag ich nich'!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r1_11": {
+      "German": "Die Phrasen werden immer brutaler. Sie wollen sich nicht mehr nur übertrumpfen, sondern regelrecht zerstören. Leider artet es nur wieder in richtige Beleidigungen aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_0": {
+      "German": "Wie wäre es mit dieser Steinbeißer-Challenge?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_1": {
+      "German": "Die Steinbeißer-Challenge! Du hast bereits von ihr gehört. Es geht darum, Teile eines Steins mit deinen eigenen Zähnen herauszubrechen! Die Challenge gilt als unmöglich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_2": {
+      "German": "Was? Was soll das denn für eine Herausforderung sein?! Sowas machen wir doch täglich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_3": {
+      "German": "Zum Beweis beißt Trollf genüsslich in einen handgroßen Stein. Während ihr beeindruckt auf die Bissspuren schaut, knuspert der Troll an seinen harten Mineralstoffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_4": {
+      "German": "Krass…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_5": {
+      "German": "Was denkst du warum wir so steinhart geworden sind?! Dir würde das sicher auch nicht schaden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_6": {
+      "German": "Bevor Chad sich allerdings seine Zähne an einem Stein ausbeißen kann, fordern die Trolle eine neue Challenge!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_7": {
+      "German": "Boah ey, keine Ahnung … Wie wärs wenn ihr die Steine zwischen euren Oberschenkeln zerquetscht! Beinmuskeln sind schließlich echt cool!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_8": {
+      "German": "Doch auch diese Herausforderung ist für die Trolle ein Kinderspiel! Ihre stählernen Körper machen alle Steine in der Umgebung kurz und klein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_9": {
+      "German": "Das bringt doch nichts!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_10": {
+      "German": "Du sagst das nur weil ich viel mehr Steine zertrümmert habe als du!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_11": {
+      "German": "Dafür waren meine GRÖßER!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d2_r2_12": {
+      "German": "Wieder beginnt ein hitziger Streit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_19": {
+      "German": "So werden wir nie herausfinden, wer der Coolere von uns beiden ist!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_20": {
+      "German": "Du sagst jetzt sofort wer der Coolere von uns ist!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_21": {
+      "German": "Erwartungsvoll schauen dich die Trolle an. Jetzt darfst du keinen Fehler machen, sonst riskierst du vielleicht, dass du zwischen die Streit-Fronten gerätst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_21_b": {
+      "German": "Aber du bist an der Reihe auszusuchen. Ein für allemal. Wer ist der Coolere!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_o1": {
+      "German": "Keiner",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_o2": {
+      "German": "Trollaf",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_o3": {
+      "German": "Trollf",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_o4": {
+      "German": "Du benutzt die Sonnenbrille.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_0": {
+      "German": "Du findest, dass keiner der beiden wirklich der Coolste ist. Denn sie sind beide cool, jeder auf seine eigene Art und Weise.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_0_b": {
+      "German": "Und da sie ein Duo sind, ist ihr Coolness-Faktor doppelt so hoch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_1": {
+      "German": "Außerdem kannst du nur wenig Unterschied zwischen den beiden feststellen, aber das behältst du lieber für dich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_1_b": {
+      "German": "Die Trolle überlegen einen Moment und du erkennst an ihren Gesichter, dass ihnen die Idee immer besser gefällt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_2": {
+      "German": "Damit kann ich leben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_3": {
+      "German": "Das stimmt schon, wir sind untrennbar. Zusammen machen wir alle platt, cool zum Quadrat!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_4": {
+      "German": "Du sagst es!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r1_5": {
+      "German": "Sie klopfen sich gegenseitig auf die Schultern und der Wettbewerb kommt beiden nur noch unnötig vor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r2_0": {
+      "German": "Trollaf! Keine Frage! Natürlich ist er der Coolere von den beiden! Das Auswahlkriterium bildet jedoch nicht seine Coolness, sondern die Farbe seines Fells.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r2_1": {
+      "German": "Das zarte Grün erinnert dich an einen schönen Frühlingsmorgen, bei dem das Gras nach einem langen Schlaf aufatmet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r2_2": {
+      "German": "Oder es könnte dich einfach nur an die verfaulte Toastscheibe erinnern, die du gestern versehentlich komplett gegessen hattest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r2_3": {
+      "German": "HA! DA siehst du mal. Ich bin der Coolere!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r2_4": {
+      "German": "Trollaf erhebt triumphierend sein Haupt und Trollf schaut daneben nur traurig zu Boden. Die Situation hinterlässt bei dir einen fahlen Nachgeschmack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_0": {
+      "German": "Trollf! Keine Frage! Natürlich ist er der Coolere von den beiden! Das Auswahlkriterium bildet jedoch nicht seine Coolness, sondern die Farbe seines Fells.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_1": {
+      "German": "Das tiefe Blau erinnert dich an den wunderschönen Ozean, dessen Wellen gemächlich auf den Strandabschnitt schlagen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_2": {
+      "German": "Oder es könnte dich einfach nur an die blauen Socken erinnern, die du seit dem letzten Waschgang nicht mehr gesehen hast und kläglich vermisst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_3": {
+      "German": "HA! Hier wird mal die Wahrheit gesprochen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_4": {
+      "German": "Trollf lässt seine Muskeln spielen und Trollaf schaut daneben nur frustriert zu Boden, bevor er einige Steine mit einem Kick gegen die nächste Wand befördert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r3_5": {
+      "German": "Die Situation hinterlässt bei dir einen fahlen Nachgeschmack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_0": {
+      "German": "Du ziehst eine Sonnenbrille aus deiner Tasche, die in ihren dunklen Gläsern das Licht der strahlenden Pilze reflektiert, die die Höhle erhellen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_1": {
+      "German": "Die Trolle schauen das Accessoire beeindruckt an. Würde diese Brille etwa die Sieger:in bekommen? Fehlanzeige.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_2": {
+      "German": "Du streifst dir die Brille langsam über und überstrahlst alles andere mit deiner Coolness. Geblendet von deiner Lässigkeit fallen die Trolle vor dir auf die Knie.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_3": {
+      "German": "Teach us the Way of the Cool!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_4": {
+      "German": "Ja bring uns bei so cool zu sein wie du!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_5": {
+      "German": "Suzan und Chad schauen dich mit gerunzelter Stirn an. Was sollte das denn? Jetzt siehst du doch in der Höhle rein gar nichts mehr.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_6": {
+      "German": "Zumindest streiten sie nicht mehr.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_4_d3_r4_7": {
+      "German": "Sie wirkt erleichtert. Ihr verbringt den Rest des Tages damit den Trollen deinen Weg der Coolness näher zu bringen und ihnen alle Kniffe zu zeigen, die dir einfallen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

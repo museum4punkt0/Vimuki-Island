@@ -1,0 +1,440 @@
+{
+  "f_intro_0": {
+    "German":"Du hast von einem Tempel auf der anderen Seite der Insel gehört, welcher unglaubliche Gefahren aber auch unglaublichen Spaß beherbergen soll.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_0_b": {
+    "German":"Zumindest laut der Broschüre, welche du von den Affen bekommen hast.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_1": {
+    "German":"Und so reist du durch die Gefahren des Dschungels und findest dich vor einer mächtigen Konstruktion aus festem, dicken Stein wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_2": {
+    "German":"Um euch herum ist sumpfiges Gelände mit einigen kleinen und großen Seerosenteichen, die in voller Blüte stehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_0": {
+    "German":"Diesmal beschließt ihr die Teiche um den Tempel herum zu erforschen. Hier und da entdeckt ihr fremde Tiere, die sich in dem Schilf oder unter den riesigen Seerosenblättern verstecken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_1": {
+    "German":"Ihr wundert euch für einen Moment, welche Fische wohl in diesem Gebiet heimisch sind?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_2": {
+    "German":"Kurzerhand entscheidet ihr euch dazu in der Nähe der Teiche ein kleines Picknick zu veranstalten und vielleicht eure Angelruten auszuwerfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_3": {
+    "German":"Während Suzan sich mit einem Skizzenblock auf das weiche grüne Gras setzt und wild die einzelnen neuen Pflanzen dokumentiert, wartet Chad mit dir auf das Ausschlagen eurer Angel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_4": {
+    "German":"Nach einer ganzen Weile hat immer noch nichts angebissen. Langsam zweifelst du daran, dass du überhaupt etwas Essbares fangen wirst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_5": {
+    "German":"Sind eure Köder vielleicht das Problem? Ihr beschließt einen neuen Köder zu verwenden:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_o1": {
+    "German":"Einen klassischen Wurm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_o2": {
+    "German":"Du nimmst eine Frucht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_o3": {
+    "German":"Du nimmst Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r1_0": {
+    "German":"Du entscheidest dich dazu es klassisch anzugehen. Was schon bei euren Vorfahren geklappt hat, wird auch bei euch klappen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r1_1": {
+    "German":"Ihr grabt einen schleimigen, rosa Wurm aus der Erde und bindet ihn an eure Angelrute. Mit diesem ist euch der Erfolg gewiss!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r1_1_b": {
+    "German":"Und da! Tatsächlich! Etwas hat angebissen! Du ziehst einen mittelgroßen Fisch an Land!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r1_2": {
+    "German":"Allerdings entpuppt sich der mittelgroße Fisch als alter Schuh. Euch fällt auf, dass dort viele verschiedene Sachen im Wasser herumschwimmen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r1_2_b": {
+    "German":"Wollt ihr etwas gegen diese Verschmutzung tun oder euch lieber eurer Beute widmen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_o1": {
+    "German":"Verschmutzung",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_o2": {
+    "German":"Beute",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_0": {
+    "German":"Ihr entscheidet euch dafür, den Teich zu säubern und dokumentiert die unverschämte Verschmutzung! Wer kann das bitte nur gewesen sein?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_1": {
+    "German":"Bestimmt Touristen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_2": {
+    "German":"Aber außer uns ist doch kein Tourist hier.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_3": {
+    "German":"Auch wenn ihr vollkommen sicher seid, dass außer euch niemand hier ist, eine hunderprozentige Garantie gibt es nicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_3_b": {
+    "German":"Ihr beschließt dem Problem vorzubeugen und baut aus dem herumliegenden Material eine Mülltonne.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r1_4": {
+    "German":"So wird zumindest kein Abfall mehr in den Teich geworfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r2_0": {
+    "German":"In diesem Moment findet ihr den Schuh interessanter. Wo kam er her? Wem hat er gehört? Letzten Endes beschließt ihr gemeinsam den Schuh auf Social Media zu reviewen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r2_1": {
+    "German":"Jeder soll teilhaben an \"DEM SCHUH\".",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d2_r2_2": {
+    "German":"Ihr verbringt den ganzen Tag dabei die Geheimnisse des Schuhs und seine Funktionalitäten zu erforschen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_0": {
+    "German":"HALT! Würmer sind auch Lebewesen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_1": {
+    "German":"Sie reicht euch Wasserspinat, den sie mit einer eleganten Bewegung aus dem Teiche fischt. Skeptisch wickelt ihr die grünen Blätter an den Haken und werft den Köder in das saubere Wasser des Teiches.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_2": {
+    "German":"Eine Weile bleibt das Wasser ruhig. Was habt ihr auch erwartet? Welcher Fisch würde den Spinat essen wollen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_3": {
+    "German":"Dieser Fisch! Du ziehst verwundert etwas gelbes aus dem Wasser, was sich als eine Bananenschale entpuppt. Leider doch kein Fisch. Aber zumindest der erste Fang des Tages.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_4": {
+    "German":"Was machen Bananenschalen hier? Hier gibts doch keine Bananenstauden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r2_5": {
+    "German":"Stimmt. Willst du nach der Herkunft der Bananen suchen oder willst du lieber schauen was für lustige Dinge du mit der Bananenschale machen kannst?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_o1": {
+    "German":"Du suchst nach der Quelle.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_o2": {
+    "German":"Du isst die Schale.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_0": {
+    "German":"Du suchst nach der Quelle der Bananenschalen in den Teichen und findest immer mehr und mehr gelb in den Gewässern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_0_b": {
+    "German":"Ihr folgt der Spur aus gelben Schalen in den Dschungel und findet eine Schar junger Affen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_1": {
+    "German":"Du hast sie vermutlich bei ihrem Mittagessen gestört, worauf sie prompt reagieren und dir Bananenschalen vor die Füße werfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_2": {
+    "German":"Ihr seid also die Verschmutzer:innen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_3": {
+    "German":"Ihr dürft doch nicht euren Müll überall hinschmeißen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_4": {
+    "German":"Und was wollt ihr dagegen tun!?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_5": {
+    "German":"Suzan setzt einen wütenden Blick auf, während Chad nur überlegen grinst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_6": {
+    "German":"Es euren Eltern sagen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_7": {
+    "German":"Er fuchtelt mit seiner Kamera hin und her und tut so, als ob er schon unzählige Bilder der Situation geschossen hat. Den jugendlichen Affen bleibt vor Schreck die Banane im Hals stecken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_8": {
+    "German":"Oh nein. Ihre Eltern würden ihnen sicher Baumarrest geben! Doch ihr sagt ihnen, dass sie es in der Tat wieder gut machen können, wenn sie nur ihre Bananenschalen wieder aufsammeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r1_9": {
+    "German":"Ihr verbringt den Tag damit, gemeinsam mit den jungen Affen die Umgebung um den Tempel herum von Bananenschalen zu befreien. Am Ende habt ihr euch sogar angefreundet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r2_0": {
+    "German":"Egal! Bananenschalen sind nicht der Rede wert! Sie sind ja auch natürlich und werden zu Kompost. Aber irgendwie sieht diese Bananenschale besonders lecker aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r2_1": {
+    "German":"Vielleicht treibt euch der Hunger dazu, aber ihr beschließt mehr Bananenschalen zu angeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r2_1_b": {
+    "German":"Immer mehr Beute wird gesammelt, während Suzan bereits ein kleinen Campinggrill aus ihrer Tasche auspackt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r2_2": {
+    "German":"Bald umgibt euch der Geruch von gerösteten Bananenschalen und als ihr sie probiert steht eines fest: Sie sind zwar nahrhaft aber schmecken scheußlich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d3_r2_3": {
+    "German":"Trotz allem, wollt ihr der Allgemeinheit nicht euer neu entdecktes Rezept vorenthalten. Schnell trendet euer Rezept auf den sozialen Medien!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_0": {
+    "German":"Ihr schaut euch eure Auswahl an Ködern an und beschließt, dass nichts davon einem Fisch wohl schmecken würde.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_1": {
+    "German":"Hey, ich hab voll die Idee! Wie wärs, wenn ich der Köder bin?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_2": {
+    "German":"Du überlegst einen Moment und schaust dann zu Chad. Er war sicherlich größer und schmackhafter als die restlichen Köder, die euch zur Verfügung stehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_3": {
+    "German":"Du willigst ein und umwickelst Chad mit deiner Angelschnur. Natürlich dokumentiert Chad sein Vorhaben auch auf seinem Social Media Profil.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_4": {
+    "German":"Die ersten Kommentare türmen sich. Es wird von einer neuen Challenge gesprochen! Das #BEtheBAIT geht um die halbe Welt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_5": {
+    "German":"Ihr wartet währenddessen darauf, dass ein Fisch anbeißt. Fische können wohl doch nichts essen, was größer war als sie selbst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_6": {
+    "German":"Als ihr bereits fast die Flinte ins Korn werft, geht Chad unter und die Angel fliegt dir beinahe aus der Hand. Selbst Suzan ist aufgesprungen, um dir zur Hilfe zu eilen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_7": {
+    "German":"Mühsam zieht ihr einen riesigen Fisch heraus, der sich über Chads gesamten Oberkörper gestülpt hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_7_b": {
+    "German":"Das sieht schmerzhaft aus und mit Mühe und Not befreit ihr Chad aus dem Maul des Ungetüms.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d1_r3_8": {
+    "German":"Das war krass! Vielleicht zu krass. Was willst du tun!?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_o1": {
+    "German":"Selbst ausprobieren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_o2": {
+    "German":"Zuschauer:innen warnen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r1_0": {
+    "German":"Du bist begeistert. Der Fisch ist ja gigantisch! Der reicht locker für zwei ganze Mahlzeiten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r1_1": {
+    "German":"Voller Elan bindest du dir nun selbst das Angelseil um die Hüfte und springst wild entschlossen ins Wasser. Es dauert nur wenige Momente, bis auch du von einem riesigen Fisch unter Wasser gezogen wirst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r1_2": {
+    "German":"Du bekommst allerdings nicht viel von deiner Rettungsaktion mit, weil du bis zu den Knien in einem Fisch steckst. Als dich Suzan und Chad aus dem Tier befreit haben, grinst du ihnen nur frech entgegen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r1_3": {
+    "German":"Ha! Dein Fisch war größer! Natürlich gibst du damit auf deinem Social Media Kanal an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r2_0": {
+    "German":"Das war keine gute Challenge! Du musst dringend verhindern, dass sich Leute unnötig bei so einer Aktion verletzten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r2_1": {
+    "German":"Ihr beschließt zusammen ein öffentliches Statement abzugeben, indem ihr vor den Folgen der #BEtheBAIT - Challenge warnt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r2_2": {
+    "German":"Trotzdem scheint es genug Mutige zu geben, die bereits noch größere Fische an Land gezogen haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_3_d4_r2_3": {
+    "German":"Leider könnt ihr nicht mehr verhindern, dass die Challenge weiterlebt. Zum Glück hat sich noch keiner ernsthaft dabei verletzt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

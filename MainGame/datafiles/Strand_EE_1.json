@@ -1,0 +1,488 @@
+{
+  "s_intro_0": {
+    "German":"Der Strand, mit seinen weißen Dünen und seinen seichten blauen Wellen, ist eine beliebte Location unter den vielen verschiedenen Inselbewohner:innen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_intro_1": {
+    "German":"Der saubere Strand lädt dazu ein, in der warmen Sonne zu baden, im Schatten großer Palmen Sandburgen zu bauen oder einfach nur auf Tauchexpeditionen gehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_intro_2": {
+    "German":"In der Nähe soll es sogar eine Cocktailbar geben. Also packt eure Badesachen und nichts wie los!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_0": {
+    "German":"Ihr findet euch an einem wunderschönen Strandabschnitt wieder. Er lädt zum Chillen ein. Die Sonne strahlt warm und einladend auf eure Haut.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_1": {
+    "German":"Doch anstatt den Tag zu genießen, durchforstet Chad nur seine Social Media Kanäle.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_2": {
+    "German":"Ach Mann… Zurzeit kriege ich echt viel Hate. Die schreiben doch tatsächlich, dass ich zu wenig Action auf einem Kanal poste. Die sagen, dass ich total langweilig wäre.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_3": {
+    "German":"Er wirkt richtig geknickt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_4": {
+    "German":"Ach Chad, mach dir doch nichts draus, für uns bist immer noch Action-Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_5": {
+    "German":"Chad lächelt euch an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_6": {
+    "German":"Danke Leute, ihr seid die Besten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_7": {
+    "German":"Er setzt sich auf und nimmt sein buntes Surfboard zur Hand.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_8": {
+    "German":"Ich checke mal die Wellen hier aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_9": {
+    "German":"Ok, wir bleiben hier und baden ein wenig in der Sonne.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_10": {
+    "German":"Während ihr in der Sonne chillt, seht ihr Chad beim Surfen zu. Er legt ein paar echt fesche Figuren aufs Brett und zeigt den Wellen so richtig, wer der Boss ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_11": {
+    "German":"Da bemerkst du etwas hinter ihm. Einen schwarzen, haiförmigen Schatten. Verdammt, das könnte übel ausgehen. Was willst du tun?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_o1": {
+    "German":"Du warnst Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_o2": {
+    "German":"Du guckst zu und filmst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_o3": {
+    "German":"Du holst Hilfe.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_0": {
+    "German":"Sofort springst du von deinem Platz auf und rennst zum Ufer. Deine Stimme schallt über den leeren Strand, wird aber von dem Rauschen der Wellen übertönt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_1": {
+    "German":"Chad dreht sich daraufhin um, winkt dir fröhlich zu und posiert angeberisch mit seinen Muckis.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_1_b": {
+    "German":"Er deutet deine panischen Warnrufe offenbar als begeistertes Jubeln. Suzan kommt zu dir rüber gelaufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_2": {
+    "German":"Oh nein! Was machen wir jetzt?! Warum packt der seinen Selfie-Stick aus?! HALLO!!! Da ist ein HAI!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_3": {
+    "German":"Sogar der Hai bemerkt eure Rufe. Auch er winkt euch zu und beginnt seine Muskeln zu zeigen. Anscheinend verstehen euch hier alle falsch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r1_4": {
+    "German":"Angeheizt von euren angeblichen Zurufen, fängt der Hai an noch schneller auf den ahnungslosen Chad zuzuschwimmen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_0": {
+    "German":"Du ziehst deine Kamera aus deiner Tasche und fängst an Chad zu filmen, der immer noch ahnungslos coole Posen auf seinem Surfbrett ausprobiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_1": {
+    "German":"Oh, was filmst du denn da? Achso. Chad wird sich sicher freuen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_2": {
+    "German":"Sie hat den Hai wohl noch nicht bemerkt und du willst es ihr auch nicht erzählen. Schließlich würde sie dich dann beim Filmen stören, oder sich sogar selbst in Gefahr bringen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_3": {
+    "German":"Chad befindet sich zwar immer noch in Gefahr, aber zumindest hast du ein Video von Action Chad, der nun auch richtig Action macht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_3_b": {
+    "German":"Das wird bestimmt die Hater:innen mit ihren fiesen Kommentaren zum Schweigen bringen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_4": {
+    "German":"DA IST JA EIN HAI IM WASSER! Hast du den etwa nicht gesehen?! Wie kannst du jetzt nur filmen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_5": {
+    "German":"Sie verpasst dir eine Kopfnuss.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_6": {
+    "German":"Schnell wir müssen Chad helfen, bevor der Hai ihn bekommt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r2_7": {
+    "German":"Du gibst Suzan recht, das hier könnte echt böse enden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_0": {
+    "German":"Du drehst dich zu Suzan um und erklärst ihr, was du gerade im Wasser hinter Chad gesehen hast.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_1": {
+    "German":"Was!? Wir sollten Hilfe holen! Gibt es hier eine Bademeister:in?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_2": {
+    "German":"Ihr rennt schnell den ganzen Strand auf und ab, um Hilfe zu holen. Doch du findest niemanden. Deine Gedanken kommen vor lauter Panik nicht mehr zum stoppen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_3": {
+    "German":"Vielleicht ist hier irgendwo ein Affe aus dem Camp? Die Affen wissen bestimmt, was zu tun ist. Leider seid ihr auf euch alleine gestellt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_4": {
+    "German":"Was machen wir denn jetzt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_5": {
+    "German":"Ihre Stimme klingt heller und dünner als sonst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_6": {
+    "German":"Wieso wird hier denn nicht vor Haien gewarnt? Warum ist dieser Strand nicht abgesperrt? Ich verstehe das nicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d1_r3_7": {
+    "German":"Da entdeckst du, hinter Schilf und Pflanzen verborgen, ein weißes Schild, auf dem mit roter Farbe ein Hai mit dickem Ausrufezeichen zu sehen ist. Wie konntet ihr das nur übersehen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_12": {
+    "German":"Der Hai ist Chad nun schon gefährlich nahe gekommen, der immer noch nicht weiß in welcher Gefahr er schwebt. Du musst schnell etwas unternehmen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_o1": {
+    "German":"Zu Chad schwimmen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_o2": {
+    "German":"Hai ablenken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_o3": {
+    "German":"Hai besänftigen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_0": {
+    "German":"Du nimmst Anlauf und wirfst dich waghalsig ins Wasser. Wie ein geölter Blitz schwimmst du auf Chad zu.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_1": {
+    "German":"Kurz bevor der Hai sich an deinem Freund festbeißen kann, tackelst du die Meereskreatur um und beginnst mit ihr zu wrestlen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_1_b": {
+    "German":"Während du im Gefecht immer wieder auf und ab tauchst, versuchst du Chad zu rufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_2": {
+    "German":"Ein Hai…? Hai! War der die ganze Zeit hinter mir? Na warte!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_3": {
+    "German":"Aufgebracht über den feigen Angriff, springt Chad zu dir in die Fluten. Mit vereinten Kräften nehmt ihr den zu groß geratenen Thunfisch in den Schwitzkasten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_4": {
+    "German":"WAS PASSIERT HIER?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_5": {
+    "German":"Eure waghalsige Aktion hat den Hai überrascht. Verängstigt von eurem definitiv nicht normalen Verhalten, schwimmt er schnell von euch weg.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_5_b": {
+    "German":"Er hat jetzt richtig Respekt vor dir und Chad. Den seht ihr bestimmt nie wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_6": {
+    "German":"Alter schau mal! Ich hab ein echt cooles Foto von uns gemacht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r1_7": {
+    "German":"Du fragst dich, wie er es geschafft hatte bei diesem Gerangel ein Foto zu schießen und noch dazu ein so tolles.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_0": {
+    "German":"Du suchst am Strand nach irgendetwas, um den Hai abzulenken. Aber du findest nur Muscheln, Algen und ein paar flache Steine. Naja, das muss eben reichen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_1": {
+    "German":"Du fängst an alles in Richtung des Haies zu werfen, was dir an Munition zur Verfügung steht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_2": {
+    "German":"Leider ist der Hai zu weit von der Küste entfernt und deine Projektile ziehen nicht ausreichend Aufmerksamkeit auf sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_3": {
+    "German":"Hey schau mal da! Das könnte klappen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_4": {
+    "German":"Du schaust das Ding an, auf das Suzan aufgeregt deutet. Es handelt sich dabei um einen angebissenen Fisch. Igitt, aber Haie lieben Fisch. Das könnte echt klappen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_5": {
+    "German":"Du wirfst den Fisch mit aller Kraft dem Hai entgegen. In dem Moment, in dem der Fisch auf dem Wasser aufkommt, gerät der Hai ins Stocken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_6": {
+    "German":"Der Geruch der von dem Fisch ausgeht, lässt ihm das Wasser im Maul zusammenlaufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_7": {
+    "German":"Er dreht sich sofort zu seiner neuen Beute! Es hat funktioniert. Chad schwimmt zu euch herüber und schaut euch genervt an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_8": {
+    "German":"Hey! Versucht ihr mich abzuwerfen oder was?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_9": {
+    "German":"Du hast echt keine Augen im Kopf! Da war ein Hai! Genau hinter DIR!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_10": {
+    "German":"Was echt? Och den habe ich gar nicht bemerkt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r2_11": {
+    "German":"Er lacht leise auf. Anscheinend glaubt er dir nicht. Als Beweis hälst du ihm das Foto entgegen, das du von ihm und dem Hai geschossen hast.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_0": {
+    "German":"Suzan ergreift nun die Initiative. Sie springt gekonnt mit einem Satz ins Meer und schwimmt mit einer unglaublichen Geschwindigkeit zu Chad herüber.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_0_b": {
+    "German":"Du tust es ihr gleich, wenn auch nicht ganz so schnell.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_1": {
+    "German":"Du machst dich zum Angriff bereit, der aber nie erfolgt. Überrascht schaust du Suzan dabei zu, wie sie dem Hai etwas ins Ohr flüstert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_1_b": {
+    "German":"Chad bemerkt euch im Hintergrund seiner Selfies und dreht sich irritiert um.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_2": {
+    "German":"Da ist ja ein HAI! Geht sofort weg von dem fetten Teil, der ist gefährlich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_3": {
+    "German":"Direkt nach Chads Worten fängt der Hai an zu weinen. Chad hat seine Gefühle verletzt. Fett UND gefährlich? Das war einfach zu viel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_4": {
+    "German":"Suzan bleibt Herrin der Lage und beginnt damit den Hai zu trösten. Sie wirft Chad einen vernichtenden Blick zu.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_5": {
+    "German":"Ich will doch nur ein paar Freund:innen haben! Ist das denn zu viel verlangt!? Alle schwimmen immer vor mir weg. Alle fragen nur: Ist das ein Hai? Niemand fragt jemals WIE es dem Hai geht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_6": {
+    "German":"Ihr fühlt euch ein wenig schuldig.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_7": {
+    "German":"Können wir dich irgendwie aufmuntern?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_8": {
+    "German":"Mein Lebenstraum war es schon immer, Vegetarier zu werden und mit anderen einen schönen Algensalat zu genießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_9": {
+    "German":"Im nächsten Moment taucht ihr mit dem Hai nach Seealgen und bereitet einen hübschen Salat zu.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_1_d2_r3_10": {
+    "German":"Der Hai ist begeistert, aber für euch ist der Salat etwas zu salzig. Ihr macht noch ein schönes Foto, bevor ihr euch verabschiedet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+	"s_ee_1_name_hai": {
+    "German":"Hai",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

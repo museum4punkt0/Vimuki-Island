@@ -1,0 +1,266 @@
+{
+  "b_intro_0": {
+    "German":"Das Camp ist ein Ort der Freizeitmöglichkeiten und Aktivitäten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_1": {
+    "German":"Es gleicht im ersten Moment einem Ferienparadies, welches die einheimischen Affen mit handwerklichem Können errichtet haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_2": {
+    "German":"Es gibt viel zu entdecken. Hier habt ihr euer Lager aufgeschlagen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_0": {
+    "German":"Es ist Morgen und ihr beginnt mit euren üblichen Ritualen. Ihr putzt euch die Zähne und wascht euer Gesicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_1": {
+    "German":"Doch als ihr gemeinsam den Gang zu eurem morgendlichen Toilettenbesuch an die solide gebauten Holz-Klohäuschen antreten wollt, stockt ihr.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_2": {
+    "German":"Deine Augen weiten sich entsetzt, als du das kleine Schildchen bemerkst mit dem noch kleineren Aufdruck: [font=fnt_roboto_italic]Außer Betrieb![/font] Verdammt…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_3": {
+    "German":"Das bedeutet, dass ihr eine Latrine ausheben müsst. Aber… [pause=0.5]wie macht man sowas überhaupt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_o1": {
+    "German":"Auf Vimoogel suchen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_o2": {
+    "German":"Selber bauen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_o3": {
+    "German":"Ihr fragt die Einheimischen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_0": {
+    "German":"Suzan nimmt ihr Handy zu Hilfe und findet mit wenigen Klicks schon die passenden Materialien für eine Latrine.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_1": {
+    "German":"Mal sehen… [pause=0.5]Wir brauchen Schaufeln, Holzdielen… [pause=0.5]Blätter… [pause=0.5]aber wie baut man das jetzt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_2": {
+    "German":"Sie sucht weiter und gelangt nach einiger Zeit auf einen Survival-Channel, in dem ein Typ in einem Fellkostüm euch alles haargenau erklärt. Verrückt, was es so alles gibt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_3": {
+    "German":"Chad meldet sich sofort dafür die Materialien zu suchen und dir bleibt nichts anderes übrig, als mit einer handgemachten Schaufel die Latrine auszuheben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_4": {
+    "German":"[font=fnt_roboto_big]NEIN![/font] Der macht das mit den Händen! Das ist umweltfreundlicher!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r1_5": {
+    "German":"Du wunderst dich, warum das umweltfreundlicher sein soll als die Schaufel, diskutierst aber nicht länger. Diese mühevolle umweltbewusste Haltung verdient doch ein Foto!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r2_0": {
+    "German":"Wer braucht schon eine Anleitung, wenn man MUSKELN hat! Angetrieben von dem unaufhörlichen Drang danach einen Toilettengang zu verrichten, stürzt ihr euch in das Errichten einer Latrine.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r2_1": {
+    "German":"Als ihr fertig seid, bestaunt ihr stolz euer baufälliges Meisterwerk… [pause=0.5]Zumindest habt ihr jetzt eine Toilette, die ihr halbwegs benutzen könnt. Auch wenn euch nun nur Blätter als Klopapier bleiben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r3_0": {
+    "German":"Ihr geht nochmal zurück ins Lager, um euch einen Rat von den Affen zu holen. Diese leben schließlich schon so lange hier und konnten in dieser Zeit sogar voll funktionsfähige Toiletten in eurem Camp errichten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r3_1": {
+    "German":"Ach das geht doch ganz leicht, hier nehmt diese Werkzeuge. Wichtig ist, dass ihr das Loch trocken haltet und immer wieder Stroh beifügt. Dann stinkt es auch nicht so viel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r3_2": {
+    "German":"Der Affe zwinkert euch zu.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d1_r3_3": {
+    "German":"Ihr geht zurück und macht euch an die Arbeit.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_4": {
+    "German":"Endlich könnt ihr nach den ganzen Strapazen einen Toilettengang wagen. Die Erleichterung bringt euch, neben dem unangenehmen Geruch, allerdings auch eine Schar von Insekten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_5": {
+    "German":"Sie beginnen euch zu stechen und das unheimliche Surren wird mit jedem weiteren Insekt immer lauter und lauter. Der Lockduft hält sie hartnäckig in der Umgebung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_6": {
+    "German":"Egal was ihr versucht, ihr könnt nicht gegen eine ganze Armee kleiner Blutsauger gewinnen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_7": {
+    "German":"Und wie soll ich jetzt auf die Toilette kommen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_8": {
+    "German":"Eine gute Frage! Wie wollt ihr das anstellen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_o1": {
+    "German":"Ihr benutzt das Insektenspray",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_o2": {
+    "German":"Ihr lasst euch beraten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_o3": {
+    "German":"Ihr baut eine weitere Latrine.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r1_0": {
+    "German":"Du kramst ein Insektenschutzmittel aus der Tasche und sprühst es der wildgewordenen Meute an Insekten entgegen. Der feine Geruch von Mango und Zitronenblüte entfaltet sich um euch herum.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r1_1": {
+    "German":"Ihr wundert euch einen Moment. Was war das für ein komisches Insektenspray? Aber anscheinend wirkt es! Die Insekten mögen wohl keine Zitronenblüte, denn sie verziehen sich aufgebracht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r2_0": {
+    "German":"Die Bewohner:innen dieser Gegend haben bestimmt natürliche und vor allem einfachere Mittel, um diese Plagegeister leichter loszuwerden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r2_1": {
+    "German":"Chad ist zwar ziemlich enttäuscht darüber, dass er die Insekten nicht einfach einzeln wegklatschen darf, doch Suzan und du seid euch einig, dass das keine besonders gute Idee ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r2_2": {
+    "German":"Um Zeit und Nerven zu sparen, bittet ihr den Affen um Hilfe. Er rät euch die Insekten einfach wegzulocken, damit ihr in Ruhe euer Geschäft verrichten könnt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r2_3": {
+    "German":"Ah! Da habe ich die passende IDEE! Ich selbst werde schließlich auch nur von der Aussicht auf richtig gute Ferien aus meiner Umgebung gelockt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r2_4": {
+    "German":"Ihr schaut Chad verwirrt an, aber die Idee wird mit jedem Moment schmackhafter. Ihr beginnt damit ein Insektenhotel aus Holz, Bambus und Steinen zu errichten, um die Insekten umzusiedeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_0": {
+    "German":"Was kann in dieser Situation anderes helfen, als noch eine Latrine! Schließlich hat dann jeder ein eigenes Klohäuschen, ihr und die Insekten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_1": {
+    "German":"Ihr beginnt mit dem Graben und nach kürzester Zeit könnt ihr euer neu gebautes Klo einweihen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_2": {
+    "German":"Leider hat diese Latrine dasselbe Geruchsproblem wie die Alte und zieht ihrerseits nun eine weitere Welle Insekten an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_3": {
+    "German":"Und jetzt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_4": {
+    "German":"Da kann nur eine WEITERE LATRINE helfen! Euer Plan ist schließlich bombensicher! Immer mehr und mehr Latrinen schießen aus dem Boden und werden kurz darauf von Insekten für sich beansprucht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_5": {
+    "German":"Das wiederum scheint den einheimischen Affen so gar nicht zu gefallen. Sie sprechen ein Verbot aus! Keine weiteren Latrinen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_2_d2_r3_6": {
+    "German":"So müsst ihr euch die restlichen wohl mit den Insekten teilen. Verdammt…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

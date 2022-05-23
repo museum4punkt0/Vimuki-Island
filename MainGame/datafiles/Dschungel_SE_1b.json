@@ -1,0 +1,1801 @@
+{
+   "d_se_1_d2_r1_d3_o1": {
+      "Sprecher": "",
+      "German": "Wer bist du?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_o2": {
+      "Sprecher": "",
+      "German": "Was machst du hier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_o3": {
+      "Sprecher": "",
+      "German": "Warum bin ich gefangen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_0": {
+      "Sprecher": "Martin",
+      "German": "Ich bin Martin! Martin der großartigste und berühmteste Künstler, der auf dieser Insel jemals gelebt hat und jemals leben wird!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_1": {
+      "Sprecher": "Martin",
+      "German": "Ihr habt sicher schon von mir gehört.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_2": {
+      "Sprecher": "",
+      "German": "Ihr betrachtet Martin mit einem fragenden Blick.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_3": {
+      "Sprecher": "Chad",
+      "German": "Wer?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_4": {
+      "Sprecher": "Martin",
+      "German": "Natürlich! Natürlich…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_5": {
+      "Sprecher": "Martin",
+      "German": "Ihr beiden seid sprachlos wegen der Berühmtheit welche vor euch steht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r1_6": {
+      "Sprecher": "Martin",
+      "German": "Du Junge, hast wohl keine Ahnung was große Kunst überhaupt bedeutet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r2_0": {
+      "Sprecher": "Martin",
+      "German": "Was ich hier mache? Was macht ihr den überhaupt so tief im Dschungel außer euch in meine Fallen zu verlaufen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r2_1": {
+      "Sprecher": "Martin",
+      "German": "Die ist doch eindeutig für etwas anderes bestimmt sind!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r2_2": {
+      "Sprecher": "Suzan",
+      "German": "Du darfst doch hier nicht einfach Fallen aufstellen? Dazu hast du sicherlich keine Genehmigung!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r2_3": {
+      "Sprecher": "Martin",
+      "German": "Ha! Genehmigungen! Regeln! Das hindert mich nur an meiner kreativen Schaffenskraft!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r2_4": {
+      "Sprecher": "Martin",
+      "German": "Ich brauche diese Fallen! Ohne Sie kann ich mein Meisterwerk nicht vollenden! Das Biest ist schließlich scharfsinnig wie ein Luchs!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r3_0": {
+      "Sprecher": "Martin",
+      "German": "Weil du in meine Falle getappt bist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r3_1": {
+      "Sprecher": "",
+      "German": "Er schaut dich an. Was für eine dumme Frage.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d2_r1_d3_r3_2": {
+      "Sprecher": "Martin",
+      "German": "Zugegeben, ihr seid nicht gerade das, worauf ich gehofft hab!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_uebergang_mit_hilfe": {
+      "Sprecher": "",
+      "German": "Martin beobachtet euch nachdenklich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_15_a": {
+      "Sprecher": "Chad",
+      "German": "Kannst du uns bitte losmachen?! Mein Blut läuft mir langsam in den Kopf, Mensch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_15_b": {
+      "Sprecher": "",
+      "German": "Lass mich sofort frei!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_16": {
+      "Sprecher": "",
+      "German": "Der Künstler geht zu euch herüber, um euch zu befreien. Plötzlich hält er inne.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_17": {
+      "Sprecher": "Martin",
+      "German": "Wenn ich es mir recht überlege. Wie wäre es mit einer Abmachung? Ich helfe euch und ihr helft mir. Was haltet ihr den davon?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_18": {
+      "Sprecher": "Chad",
+      "German": "Das ist doch voll die Erpressung!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_19": {
+      "Sprecher": "Martin",
+      "German": "Wenn ihr auf meinen Deal eingeht, lass ich euch raus. Außerdem seht ihr aus wie tüchtige Kunstkenner:innen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_20": {
+      "Sprecher": "Martin",
+      "German": "Zumindest zwei von euch! Ihr werdet mir sicher gerne helfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_21": {
+      "Sprecher": "Suzan",
+      "German": "Wobei denn? Etwa noch mehr Fallen auszuheben?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_22": {
+      "Sprecher": "",
+      "German": "Martin erzählt euch, dass tief in den Wäldern eine gefährliche Kreatur lebt, die seinen Vorfahren ein großartiges Geschenk bereitet hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_23": {
+      "Sprecher": "",
+      "German": "Nämlich eine einzigartig leuchtende Farbe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_24": {
+      "Sprecher": "",
+      "German": "Damit hat seine Familie seit jeher große Kunstwerke geschaffen. Leider sind die Vorräte der Farbe zur Neige gegangen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_25": {
+      "Sprecher": "",
+      "German": "Darum muss dringend Nachschub her!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_26": {
+      "Sprecher": "",
+      "German": "Ihr schaut Martin skeptisch an. Was sollte das für ein komisches Tier sein, das jemandem Farbe schenkt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_27": {
+      "Sprecher": "",
+      "German": "Aber ohne Martins Hilfe kommt ihr wohl nicht vom Fleck. Darum stimmt ihr missmutig zu, ihm bei seinem Vorhaben zu helfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_28": {
+      "Sprecher": "",
+      "German": "Martin befreit euch wie versprochen aus seiner hochprofessionellen Falle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_29": {
+      "Sprecher": "Martin",
+      "German": "Da bin ich aber erleichtert, dass ihr mir helft! Ja ja! Ihr erweist mir einen unglaublichen Dienst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_30": {
+      "Sprecher": "Suzan",
+      "German": "Gibt es irgendwas, was wir über das Tier wissen sollten?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_31": {
+      "Sprecher": "",
+      "German": "Martin überlegt einen Moment, während er nachdenlich mit der Zunge schnalzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_32": {
+      "Sprecher": "Martin",
+      "German": "Es handelt sich um eines der gewieftesten, schlausten und gefährlichsten Tiere des ganzen Dschungels!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_33": {
+      "Sprecher": "Martin",
+      "German": "Wahrscheinlich sogar der ganzen Welt! Es handelt sich um den gemeinen Borkenbläuling!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_34": {
+      "Sprecher": "Chad",
+      "German": "Was soll das denn sein? Irgendwas Blaues bestimmt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_35": {
+      "Sprecher": "Martin",
+      "German": "Korrekt! Es handelt sich um ein blaues Insekt! Leider sind die Überlieferungen meiner Vorfahren unvollständig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_36": {
+      "Sprecher": "Martin",
+      "German": "Ich weiß nur, dass es hier in der Umgebung leben soll.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_37": {
+      "Sprecher": "",
+      "German": "Waren die Fallen dafür nicht ein wenig zu groß? Schließlich kann das kleine Insekt ohne viel Mühe aus den Fallen entkommen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_38": {
+      "Sprecher": "",
+      "German": "Zumindest wisst ihr nun wonach ihr suchen sollt. Doch wo sucht man am besten nach solch einem Insekt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_o1": {
+      "Sprecher": "",
+      "German": "Im Unterholz",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_o2": {
+      "Sprecher": "",
+      "German": "In Spinnennetzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_0": {
+      "Sprecher": "",
+      "German": "Da Insekten ja besonders viel über den Boden umherkrabbeln, solltet ihr auch dort als erstes suchen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_1": {
+      "Sprecher": "",
+      "German": "Suzan und Chad stimmen deiner fehlerfreien Logik zu und auch Martin nickt beeindruckt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_2": {
+      "Sprecher": "Martin",
+      "German": "Wunderbar! Wir dürfen nicht noch länger warten! Mein Publikum soll nicht auf ein neues Meisterwerk verzichten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_3": {
+      "Sprecher": "",
+      "German": "Auf allen Vieren krabbelt ihr über den dreckigen Dschungelboden und sucht systematisch die Erde nach dem Käfer ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_4": {
+      "Sprecher": "",
+      "German": "Es dauert einige Stunden, bis der erfreute Aufschrei von Martin durch den Dschungel schallt und eure Aufmerksamkeit auf ihn lenkt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_5": {
+      "Sprecher": "Martin",
+      "German": "DA IST ER! TATSÄCHLICH! Das ist mein Käfer! Der Borkenbläuling! Ihr seid einfach genial!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_6": {
+      "Sprecher": "Martin",
+      "German": "Und ich bin genial weil ich euch um Hilfe gebeten habe! Da ist er! Ein Prachtstück obendrein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_7": {
+      "Sprecher": "",
+      "German": "Martin hatte den Käfer unter einem flachen Stein entdeckt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_8": {
+      "Sprecher": "",
+      "German": "Wobei das nicht so schwierig war, denn der Käfer ist so groß, dass der Stein unter dem er sich versteckt hatte, wackelig auf seinem Rücken liegt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_9": {
+      "Sprecher": "",
+      "German": "Er hat den Käfer überhaupt nicht verdeckt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_10": {
+      "Sprecher": "Suzan",
+      "German": "Das ist aber ein ziemlich großer Käfer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_11": {
+      "Sprecher": "Martin",
+      "German": "Was hattet ihr denn erwartet! Dass ich diese riesigen Fallen zum Spaß baue?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_12": {
+      "Sprecher": "",
+      "German": "Der bläulich gepanzerte Käfer verharrt regungslos, während Martin ihm freudestrahlend um den Hals fällt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_13": {
+      "Sprecher": "",
+      "German": "Doch wie bekommt ihr jetzt nur die mysteriöse Farbe?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_o1": {
+      "Sprecher": "",
+      "German": "Einfach Fragen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_o2": {
+      "Sprecher": "",
+      "German": "Verhandeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_o3": {
+      "Sprecher": "",
+      "German": "Benutz das Multitool!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_0": {
+      "Sprecher": "",
+      "German": "Warum nicht? Wenn Martins Vorfahren mit diesem Ungetüm kommunizieren konnten, dann kann er es vielleicht auch. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_1": {
+      "Sprecher": "Chad",
+      "German": "Wie siehts aus? Denkst du, dass du weißt, wie man mit dem Käfer redet? ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_2": {
+      "Sprecher": "Martin",
+      "German": "Natürlich weiß ich, wie ich mit diesem Prachtstück reden muss!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_3": {
+      "Sprecher": "",
+      "German": "Er räuspert sich. Bleibt aber nur still stehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_4": {
+      "Sprecher": "",
+      "German": "Hat er etwa Lampenfieber? Oder ist er vielleicht der Käfersprache doch nicht so mächtig, wie er gedacht hat?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_5": {
+      "Sprecher": "",
+      "German": "Martin dreht sich niedergeschlagen zu euch um.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_6": {
+      "Sprecher": "Martin",
+      "German": "Ich weiß nicht, ob ich den richtigen Tonfall treffen kann.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_7": {
+      "Sprecher": "Chad",
+      "German": "Dicker, warum sagst du nicht, dass du das einfach nicht kannst. Das ist doch echt nicht so schlimm?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_8": {
+      "Sprecher": "Martin",
+      "German": "Und ob ich das kann! Ich bin sicher nur ein wenig eingerostet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_9": {
+      "Sprecher": "",
+      "German": "Er läuft rot an und dreht sich entschlossen zu dem Käfer, der vor ihm sitzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_10": {
+      "Sprecher": "",
+      "German": "Immer wieder stampft der Künstler mit seinem Fuß in einem gleichmäßigen Takt auf den Boden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_11": {
+      "Sprecher": "",
+      "German": "Der Käfer ist jedenfalls genauso wenig beeindruckt von dem Rumgetrampel wie ihr es seid.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_12": {
+      "Sprecher": "Suzan",
+      "German": "Was machst du denn da?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_13": {
+      "Sprecher": "Martin",
+      "German": "Ich unterhalte mich! Jawohl, genau das tue ich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_14": {
+      "Sprecher": "Chad",
+      "German": "Dann bist du aber echt langweilig. Der Käfer ist so null interessiert an dir. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_15": {
+      "Sprecher": "",
+      "German": "Der wütende Künstler dreht eingeschnappt seinen Kopf weg und gestikuliert erbost mit seinen Gliedmaßen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_16": {
+      "Sprecher": "",
+      "German": "Euch fällt auf, dass der Käfer beginnt sich während Martins Anfall zu regen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_17": {
+      "Sprecher": "",
+      "German": "Er reagiert wohl auf die wütenden Gesten des Künstlers. Neugierig richtet er die Fühler auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_18": {
+      "Sprecher": "Suzan",
+      "German": "Ich glaube der Käfer reagiert auf Zeichensprache! Schnell Martin, tu so, als ob du malen würdest!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_19": {
+      "Sprecher": "",
+      "German": "Martin hält inne und fängt an mit einem imaginären Pinsel in die Luft zu malen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_20": {
+      "Sprecher": "",
+      "German": "Das Insekt betrachtet den Künstler mit seinen großen, schwarzen Augen. Seine Fühler schlagen aus und imitieren Martins Bewegungen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_21": {
+      "Sprecher": "",
+      "German": "Der Käfer hat euch wohl verstanden. Seine kleinen Kiefer beginnen zu klappern und er reicht euch eine große, blaue Beere.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_22": {
+      "Sprecher": "",
+      "German": "Sollte der Käfer euch nicht eigentlich Farbe schenken?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_23": {
+      "Sprecher": "",
+      "German": "Zugegeben, die Beere ist schon ziemlich cool, denn sie leuchtete in einem bläulichen Licht. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_24": {
+      "Sprecher": "",
+      "German": "Ihr wendet euch zu Martin, der jedoch vor lauter Freude völlig erstarrt ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_25": {
+      "Sprecher": "",
+      "German": "Der Künstler blinzelt einige Freudentränen weg und nimmt das kostbare Objekt an sich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_26": {
+      "Sprecher": "Martin",
+      "German": "Oh, erhabene Käferlichkeit! Vielen Dank für euer Geschenk! Endlich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_27": {
+      "Sprecher": "Martin",
+      "German": "Daraus werde ich eine Farbe herstellen, die meinen künstlerischen Fähigkeiten würdig ist!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_28": {
+      "Sprecher": "",
+      "German": "Ihr schaut Martin verdattert an. Danach habt ihr also die ganze Zeit gesucht!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_29": {
+      "Sprecher": "",
+      "German": "Zumindest freut sich der Käfer, dass er Martin eine Freude machen konnte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r1_30": {
+      "Sprecher": "",
+      "German": "Fröhlich krabbelt er weiter in die Tiefen des Dschungels.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_0": {
+      "Sprecher": "",
+      "German": "Vielleicht lässt der Käfer ja mit sich verhandeln? Du schaust den Rest deines Trupps fragend an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_1": {
+      "Sprecher": "",
+      "German": "Was könntet ihr dem Käfer anbieten?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_2": {
+      "Sprecher": "Suzan",
+      "German": "Ich habe diese coole Handcreme dabei! Die riecht nach Orange und ist sogar noch halb voll. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_3": {
+      "Sprecher": "Chad",
+      "German": "Was soll denn der Käfer mit Handcreme. Er hat doch keine Hände.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_4": {
+      "Sprecher": "Chad",
+      "German": "Ich habe hier noch alte Verpackungen und einen Teebeutel. Tee mag doch jeder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_5": {
+      "Sprecher": "Suzan",
+      "German": "Das ist doch Abfall. Damit können wir doch nicht verhandeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_6": {
+      "Sprecher": "",
+      "German": "Auch du wühlst in deinem Rucksack herum. Fehlanzeige! Du hast nichts Brauchbares.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_7": {
+      "Sprecher": "Martin",
+      "German": "HA! Amateure! Sehet her!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_8": {
+      "Sprecher": "",
+      "German": "Martin holt aus seiner Tasche einige kleine Bildchen heraus und hält sie triumphierend nach oben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_9": {
+      "Sprecher": "Martin",
+      "German": "GLITZERNDE SAMMELSTICKER!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_10": {
+      "Sprecher": "",
+      "German": "Ihr schaut die kleinen Bilder mit lustigen Katzen an. Das könnte vielleicht wirklich klappen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_11": {
+      "Sprecher": "",
+      "German": "Möglicherweise mag der Käfer ja Katzen. Schließlich mag doch jeder Katzen, nicht wahr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_12": {
+      "Sprecher": "",
+      "German": "Martin präsentiert dem übergroßen Käfer dramatisch seine Sammelbilder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_13": {
+      "Sprecher": "",
+      "German": "Der Künstler wirkt überzeugt von seinem Vorhaben. Das Insekt hingegen bleibt unbeeindruckt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_14": {
+      "Sprecher": "",
+      "German": "Entrüstet schaut Martin das Insekt an. Wie kann der Käfer nur keine Katzen mögen?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_15": {
+      "Sprecher": "",
+      "German": "Am Boden zerstört dreht er sich zu euch um.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_16": {
+      "Sprecher": "Chad",
+      "German": "Na komm.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_17": {
+      "Sprecher": "",
+      "German": "Er klopft Martin auf den Rücken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_18": {
+      "Sprecher": "Chad",
+      "German": "Das ist doch kein Grund sich so hängen zu lassen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_19": {
+      "Sprecher": "Martin",
+      "German": "Ich habe als Künstler versagt! Wie soll ich es denn jetzt meinen vielen Fans recht machen?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_20": {
+      "Sprecher": "Martin",
+      "German": "Die Leute dürstet es nach einem neuen Kunstwerk!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_21": {
+      "Sprecher": "Suzan",
+      "German": "Manchmal hilft es sich etwas mehr Zeit zu nehmen und nochmal sein Vorhaben zu überdenken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_22": {
+      "Sprecher": "Suzan",
+      "German": "Sicher verstehen deine Fans es, wenn du ein wenig länger für deine Bilder brauchst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_23": {
+      "Sprecher": "Martin",
+      "German": "Meinst du?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_24": {
+      "Sprecher": "Suzan",
+      "German": "Ganz bestimmt. Denn Qualität braucht einfach Zeit. Vielleicht kannst du auch etwas anderes an Stelle der Farbe verwenden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r2_25": {
+      "Sprecher": "Martin",
+      "German": "Du hast RECHT! Aber was nehm ich denn jetzt als Ersatz für die wundervolle Farbe?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d7_o1": {
+      "Sprecher": "",
+      "German": "Selbst eine geheimnisvolle Farbe herstellen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d7_o2": {
+      "Sprecher": "",
+      "German": "Einfach ein anderes Material nehmen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_0": {
+      "Sprecher": "",
+      "German": "Du überlegst einen Moment. Martins Vorfahren sind doch alle Künstler:innen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_1": {
+      "Sprecher": "",
+      "German": "Vielleicht mussten sie sich ja als würdig erweisen, um die Farbe des Käfers zu bekommen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_2": {
+      "Sprecher": "Martin",
+      "German": "Möglicherweise hast du recht. Aber wie soll ich mich denn beweisen? ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_3": {
+      "Sprecher": "Chad",
+      "German": "Mit krasser Action!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_4": {
+      "Sprecher": "Suzan",
+      "German": "ODER vielleicht mit einem Bild? Oder einer Skulptur?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_5": {
+      "Sprecher": "Martin",
+      "German": "EINEM MEISTERWERK ALSO! Aber...ich habe gar keine Pinsel dabei. Oder Farbe. Oder Papier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_6": {
+      "Sprecher": "Suzan",
+      "German": "Kein Problem, du kannst meinen Zeichenblock benutzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_7": {
+      "Sprecher": "Chad",
+      "German": "Dann fehlt uns ja nur noch etwas womit du zeichnen kannst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_8": {
+      "Sprecher": "",
+      "German": "Ihr könntet doch das Multitool benutzen!!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_9": {
+      "Sprecher": "",
+      "German": "Es sieht zwar aus wie ein überdimensionales Taschenmesser, aber du warst dir sicher, dass es einen integrierten Bleistift hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_10": {
+      "Sprecher": "",
+      "German": "Du schaltest das Tool an und mit ein paar geschickten Handgriffen kommt das Zeichenutensil zum Vorschein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_11": {
+      "Sprecher": "Martin",
+      "German": "HEUREKA!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_12": {
+      "Sprecher": "",
+      "German": "Er greift nach dem Multitool und beginnt in das Notizbuch zu zeichnen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_13": {
+      "Sprecher": "",
+      "German": "Der Künstler malt in einem rasenden Tempo ein Bild nach dem anderen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_14": {
+      "Sprecher": "",
+      "German": "Gespannt wartet ihr auf die Reaktion des Käfers.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_15": {
+      "Sprecher": "",
+      "German": "Das Insekt hebt schwerfällig seinen Kopf und betrachtet das Bild interessiert. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_16": {
+      "Sprecher": "",
+      "German": "Er scheint sich wirklich über das Bild zu freuen. Vielleicht dachte er aber auch, dass es sich hierbei um ein Geschenk für ihn handelt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_17": {
+      "Sprecher": "",
+      "German": "Egal! Ihr habt den Käfer zufriedengestellt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_18": {
+      "Sprecher": "",
+      "German": "Als Belohnung für Martins Kunstwerk, oder als Gegenleistung für ein Geschenk, überreicht der Käfer dem Künstler eine handgroße Beere.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_19": {
+      "Sprecher": "",
+      "German": "Diese funkelt in einem mysteriösen Blauton und taucht die Umgebung um sie herum in ein magisches Licht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_20": {
+      "Sprecher": "",
+      "German": "So viel Mühe nur für eine Beere? Im Gegensatz zu euch ist Martin komplett aus dem Häuschen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_21": {
+      "Sprecher": "Martin",
+      "German": "DAS IST SIE! Daraus kann ich meine Farbe herstellen! Vielen, vielen Dank, eure erhabene Käferheit!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_22": {
+      "Sprecher": "",
+      "German": "Geschmeichelt von den Danksagungen und den Lobpreisungen des Künstlers, trappelt das Insekt fröhlich mit seinen Beinen auf und ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r1_d5_r3_23": {
+      "Sprecher": "",
+      "German": "Ihr verabschiedet euch von dem blauen Käfer, der langsam und gemächlich im wilden Dickicht des Dschungels verschwindet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_0": {
+      "Sprecher": "",
+      "German": "Da Spinnen ja bekanntlich Insekten fressen und das gesuchte ''unbekannte, magische Wesen\" ja nur ein oller Käfer ist, solltet ihr zuerst in Spinnennetzen suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_1": {
+      "Sprecher": "",
+      "German": "Suzan und Chad stimmen deiner fehlerfreien Logik zu und auch Martin nickt beeindruckt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_2": {
+      "Sprecher": "Martin",
+      "German": "Wunderbar! Meine Fans dürfen nicht noch länger auf wahre Kunst warten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_3": {
+      "Sprecher": "",
+      "German": "Ihr sucht verschiedene kleine und große Spinnennetze ab. Es kann ja nicht so schwer sein einen blauen Käfer zu finden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_4": {
+      "Sprecher": "",
+      "German": "Nach einigen Stunden zahlt sich eure Mühe aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_5": {
+      "Sprecher": "Martin",
+      "German": "TATSÄCHLICH! Ihr seid einfach genial! Und ich bin genial, weil ich euch um Hilfe gebeten habe! Da ist das Prachtstück!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_6": {
+      "Sprecher": "Chad",
+      "German": "Was machst du denn für einen Radau! Das ist doch nur ein Käfer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_7": {
+      "Sprecher": "",
+      "German": "Chads Lachen bleibt ihm regelrecht im Halse stecken, als er das riesige Ungetüm von Insekt sieht. Es steckt in einem gigantischen Spinnennetz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_8": {
+      "Sprecher": "Suzan",
+      "German": "Das ist aber ein ziemlich großer Käfer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_9": {
+      "Sprecher": "Martin",
+      "German": "Was hattet ihr denn erwartet! Dass ich diese riesigen Fallen zum Spaß baue?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_10": {
+      "Sprecher": "Suzan",
+      "German": "Nun ich habe...nicht erwartet, dass er SO groß ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_11": {
+      "Sprecher": "Martin",
+      "German": "Vergiss den Käfer! Was ist das für ein riesiges Netz!?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_12": {
+      "Sprecher": "",
+      "German": "Es konnte nur zwei Erklärungen für dieses Netz geben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_13": {
+      "Sprecher": "",
+      "German": "Entweder war es eine unglaublich fleißige Spinne, oder das riesige Netz hat eine ebenfalls riesige Spinne errichtet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_14": {
+      "Sprecher": "",
+      "German": "Es ist Fingerspitzengefühl gefragt, um den Käfer erfolgreich zu befreien. Was möchtest du tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_o1": {
+      "Sprecher": "",
+      "German": "Käfer motivieren",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_o2": {
+      "Sprecher": "",
+      "German": "Käfer herausziehen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_o3": {
+      "Sprecher": "",
+      "German": "Das Multitool benutzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_0": {
+      "Sprecher": "",
+      "German": "Du willst den Käfer motivieren sich selbstständig aus dem Spinnennetz zu befreien!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_1": {
+      "Sprecher": "",
+      "German": "Doch leider reagiert der schwerfällige und gemütliche Geselle kein bisschen auf deine Zurufe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_2": {
+      "Sprecher": "Suzan",
+      "German": "Vielleicht reagiert er ja auf eine andere Art von Motivation. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_3": {
+      "Sprecher": "Chad",
+      "German": "Und auf was zum Beispiel?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_4": {
+      "Sprecher": "Suzan",
+      "German": "Lass mich nachdenken. Ich habe mal gelesen, dass Käfer auf bestimmte Gerüche reagieren können.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_5": {
+      "Sprecher": "Martin",
+      "German": "Aber auf welche Gerüche könnte so ein prunkvolles Wesen reagieren? ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_6": {
+      "Sprecher": "Chad",
+      "German": "OH! Ich hab da was!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_7": {
+      "Sprecher": "",
+      "German": "Chad wühlt in seiner Tasche, um eine kleine Kristallflasche herauszuhohlen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_8": {
+      "Sprecher": "",
+      "German": "Du kannst in ihr eine rosafarbene Flüssigkeit erkennen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_9": {
+      "Sprecher": "",
+      "German": "Die Flasche wurde mit einem goldenen Schriftzug verziert: L' eau de Chad.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_10": {
+      "Sprecher": "",
+      "German": "Er zögert nicht lange und sprüht sich mit einem duftenden rosa Nebel ein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_11": {
+      "Sprecher": "",
+      "German": "Der Geruch des Parfüms verbreitet sich. Und tatsächlich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_12": {
+      "Sprecher": "",
+      "German": "Der Käfer reagiert. Du bemerkst, wie seine großen Fühler ein kleines Herzchen formen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_13": {
+      "Sprecher": "",
+      "German": "Vielleicht wirkt der Geruch etwas zu gut! ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_14": {
+      "Sprecher": "",
+      "German": "Der Käfer zieht seinen bläulichen Körper aus dem Netz heraus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_15": {
+      "Sprecher": "",
+      "German": "Träge schleppt er sich zu Chad und beginnt mit ihm zu schmusen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_16": {
+      "Sprecher": "",
+      "German": "Der liebestolle Käfer kniet sich auf einmal vor Chad hin und überreicht ihm mit seinen Fühlern eine blaue Beere.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_17": {
+      "Sprecher": "",
+      "German": "Die handgroße Beere funkelt und glitzert in einem mysteriösen Licht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_18": {
+      "Sprecher": "Chad",
+      "German": "Und was soll ich jetzt machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_19": {
+      "Sprecher": "Martin",
+      "German": "Nimm sie! Das muss es sein! Die seltene Farbe wird sicher aus dieser Beere gewonnen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_20": {
+      "Sprecher": "",
+      "German": "Mit schwitzigen Fingern nimmt Chad die blaue Beere entgegen und lächelt dem Käfer nervös zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_21": {
+      "Sprecher": "Chad",
+      "German": "Ja cool, Insektenbro. Vielen... Dank?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r1_22": {
+      "Sprecher": "",
+      "German": "Der Käfer trappelt fröhlich mit seinen Füßen hin und her, bevor er aufgeregt das Weite sucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_0": {
+      "Sprecher": "",
+      "German": "Das naheliegendste wäre doch den Käfer einfach aus dem Netz zu ziehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_1": {
+      "Sprecher": "Chad",
+      "German": "Wir sollten uns beeilen! Die Spinne hat uns noch nicht entdeckt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_2": {
+      "Sprecher": "Martin",
+      "German": "Dann packen wir es an!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_3": {
+      "Sprecher": "",
+      "German": "Mit vereinten Kräften versucht ihr das Tier aus dem Netz zu ziehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_4": {
+      "Sprecher": "",
+      "German": "Leider habt ihr nicht mit dem gewaltigen Gewicht des Insektes gerechnet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_5": {
+      "Sprecher": "",
+      "German": "Egal wie viel ihr drückt und schiebt, der große Käfer bewegt sich leider nicht von der Stelle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_6": {
+      "Sprecher": "Martin",
+      "German": "Das wird wohl heute nichts. Dabei brauche ich doch dringend diese Farbe! Jetzt werde ich sicher alle enttäuschen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_7": {
+      "Sprecher": "Chad",
+      "German": "Wieso würdest du die Leute denn enttäuschen?? Du brauchst doch keine seltene Farbe, um ein Bild zu machen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_8": {
+      "Sprecher": "Suzan",
+      "German": "Das stimmt! Du hast doch sicher auch andere Möglichkeiten, um deine Idee umzusetzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_9": {
+      "Sprecher": "",
+      "German": "Martin schaut trübsinnig vor sich hin.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r2_10": {
+      "Sprecher": "Martin",
+      "German": "Und was soll ich jetzt als Ersatz für die geheimnisvolle Farbe nehmen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_0": {
+      "Sprecher": "",
+      "German": "Da fällt es dir wie Schuppen von den Augen. Wie konntest du nur das Multitool vergessen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_1": {
+      "Sprecher": "",
+      "German": "Es wurde zwar noch nicht für Gefahrensituationen getestet, aber dennoch bist du von diesem einzigartigen Gerät überzeugt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_2": {
+      "Sprecher": "",
+      "German": "Du schaltest das Multitool an und es beginnt mit einem surrenden Geräusch die Umgebung zu scannen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_3": {
+      "Sprecher": "",
+      "German": "In wenigen Momenten analysiert das Gerät eure Situation.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_4": {
+      "Sprecher": "",
+      "German": "Aus der Vorrichtung springt genau das Werkzeug aus dem Tool heraus, das am besten dafür geeignet ist den Käfer aus dem Netz zu befreien: DER GÖFFEL!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_5": {
+      "Sprecher": "",
+      "German": "Wie soll dir denn jetzt ein Göffel helfen? Doch Martin weiß wohl genau was zu tun ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_6": {
+      "Sprecher": "",
+      "German": "Mit grazilen Sprüngen und der Eleganz einer Ballerina wickelt er die Spinnweben auf den Göffel bis er eine riesige Zuckerwatte formt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_7": {
+      "Sprecher": "",
+      "German": "Zuckerwatte? Das findet der Käfer interessant. Er geht neugierig auf die Watte zu und nagt an der klebrigen Substanz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_8": {
+      "Sprecher": "",
+      "German": "Sie scheint ihm wohl zu schmecken, denn der Käfer wirkt sehr erfreut über diesen Snack.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_9": {
+      "Sprecher": "",
+      "German": "Während seine Kauwerkzeuge genüsslich in die \"Zuckerwatte\" beißen, schaut euch das Insekt erwartungsvoll an. Wollt ihr denn nichts essen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_10": {
+      "Sprecher": "Suzan",
+      "German": "Oh, nein nein das ist alles für dich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_11": {
+      "Sprecher": "",
+      "German": "Der Käfer wackelt aufgeregt mit den Fühlern. Er reicht euch eine handgroße Beere, die ein geheimnisvolles blaues Licht ausstrahlt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_12": {
+      "Sprecher": "",
+      "German": "Während ihr fasziniert die Beere betrachtet, greift Martin mit Ehrfurcht das Objekt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_13": {
+      "Sprecher": "Martin",
+      "German": "Kann es sein?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_14": {
+      "Sprecher": "Martin",
+      "German": "POTZBLITZ! Das ist sie wirklich! Daraus wird bestimmt die sagenumwobene Farbe gewonnen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_d4_r2_d6_r3_15": {
+      "Sprecher": "Martin",
+      "German": "Ein Glück. Oh ich danke dir, du erhabener Käfer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_0": {
+      "Sprecher": "",
+      "German": "Du schlägst vor einfach selbst eine exklusive Farbe herzustellen. Martin wirkt skeptisch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_1": {
+      "Sprecher": "",
+      "German": "Wie soll denn eine andere Farbe so einzigartig sein wie die des Käfers?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_2": {
+      "Sprecher": "",
+      "German": "Aber euch fehlen andere Optionen und die Zeit drängt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_3": {
+      "Sprecher": "Martin",
+      "German": "Und du denkst, dass wir das gemeinsam schaffen? Ach! NATÜRLICH schaffen wir das, schließlich bin ich der beste Künstler auf dieser Insel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_4": {
+      "Sprecher": "",
+      "German": "Wahrscheinlich auch der Einzige, aber diese Vermutung behältst du lieber für dich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_5": {
+      "Sprecher": "",
+      "German": "Gemeinsam verbringt ihr die nächsten Stunden damit Materialien zu beschaffen, aus denen sich vielleicht Farbe herstellen lässt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_6": {
+      "Sprecher": "",
+      "German": "Bunte Steine, Blumen, Blätter. Jetzt müsst ihr nur noch Farbe aus ihnen gewinnen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_7": {
+      "Sprecher": "",
+      "German": "Ihr mahlt, trocknet und zerstößt die Farbpigmente. Leider kommt am Ende dieses anstrengenden Prozesses nur ein eklig brauner Ton zustande.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_8": {
+      "Sprecher": "",
+      "German": "Aber hey. Zumindest ist das etwas? Oder?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_9": {
+      "Sprecher": "",
+      "German": "Martin starrt entrüstet auf die Farbe. Was sollte er denn damit anfangen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_10": {
+      "Sprecher": "",
+      "German": "Sie hatte weder etwas Schönes, noch etwas Mysteriöses an sich. Zumindest seiner Meinung nach.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_11": {
+      "Sprecher": "",
+      "German": "Lustlos und demotiviert stochert der Künstler mit einem Stock in der bräunlichen Farbe herum.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_12": {
+      "Sprecher": "",
+      "German": "Zumindest für eine kurze Zeit, denn die klebrige, braune Masse beginnt sich zu verfestigen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_13": {
+      "Sprecher": "Chad",
+      "German": "Krass. Das kann man jetzt wohl als Backstein verwenden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_14": {
+      "Sprecher": "",
+      "German": "Martin verschränkt die Arme vor der Brust.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_15": {
+      "Sprecher": "",
+      "German": "Er ist nicht sehr begeistert von diesem Produkt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_16": {
+      "Sprecher": "",
+      "German": "Entmutigt und enttäuscht von den Ereignissen des Tages verabschiedet ihr euch voneinander.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_17": {
+      "Sprecher": "Martin",
+      "German": "Nun ja. Zumindest habt ihr alles gegeben, dafür möchte ich euch meinen tiefsten Dank aussprechen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_gehfarbe_18": {
+      "Sprecher": "Martin",
+      "German": "Besucht mich doch noch einmal. Meine Kunst wird euren Geist sicher beflügeln!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_0": {
+      "Sprecher": "Martin",
+      "German": "Und du meinst, das könnte funktionieren?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_1": {
+      "Sprecher": "",
+      "German": "Er wirkt ein wenig skeptisch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_2": {
+      "Sprecher": "Martin",
+      "German": "Natürlich wird es funktionieren! Schließlich bin ich ja der beste Künstler auf dieser Insel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_3": {
+      "Sprecher": "",
+      "German": "Du fragst dich im ersten Moment, ob Martin vielleicht auch der einzige Künstler auf dieser Insel ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_4": {
+      "Sprecher": "",
+      "German": "Aber du willst ihn nicht unbedingt danach fragen. Stattdessen nickst du ihm zustimmend zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_5": {
+      "Sprecher": "Chad",
+      "German": "Aber dann muss es ein Material sein, das andere Künstler:innen nur selten benutzt haben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_6": {
+      "Sprecher": "Suzan",
+      "German": "Wie wäre es mit Lianen?! Die gibt es nur hier im Dschungel!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_7": {
+      "Sprecher": "Martin",
+      "German": "Natürlich! Aktionskunst! Etwas Temporäres schaffen, was mit dem nächsten Regen wieder verschwunden ist. Exklusivität! Das ist genial!!!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_8": {
+      "Sprecher": "",
+      "German": "Begeistert von eurer neuen Idee schreitet Martin sogleich zur Tat!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_9": {
+      "Sprecher": "",
+      "German": "Mit seinen kunstvoll bemalten Lianen kreiert er Skulpturen aus schwungvollen Mustern und Formen. ",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_10": {
+      "Sprecher": "",
+      "German": "Begeistert schaut ihr dem Künstler bei der Arbeit zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_11": {
+      "Sprecher": "Martin",
+      "German": "Wenn ihr davon schon beeindruckt seid, dann besucht mich doch morgen wieder! Ich werde euch wahre Kunst zeigen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_12": {
+      "Sprecher": "",
+      "German": "Selbstbewusst streckt er seinen Kopf nach oben und grinst euch freundlich an. Warum nicht?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_13": {
+      "Sprecher": "",
+      "German": "Vielleicht würdet ihr Martin morgen noch einmal einen Besuch abstatten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_material_14": {
+      "Sprecher": "",
+      "German": "Den Rest dieses Tages aber verbringt ihr damit Martin Gesellschaft zu leisten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_0": {
+      "Sprecher": "",
+      "German": "Du hast jetzt die Beere! Aber... Wie wird denn nun Farbe daraus?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_1": {
+      "Sprecher": "Martin",
+      "German": "Ach! Das ist einfach! Ich brauche nur ihren Saft! Ihre Schale ist jedoch dick. Ich brauche jemanden mit viel Kraft!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_2": {
+      "Sprecher": "Chad",
+      "German": "Aye!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_3": {
+      "Sprecher": "",
+      "German": "Natürlich lässt Chad keine Gelegenheit aus seine Muskeln spielen zu lassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_4": {
+      "Sprecher": "",
+      "German": "Er nimmt die Beere in beide Hände und presst sie mit aller Kraft zusammen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_5": {
+      "Sprecher": "",
+      "German": "Aus der Beere fließt blauer, dickflüssiger Saft, welchen Martin sogleich in einem Gefäß auffängt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_6": {
+      "Sprecher": "",
+      "German": "Dir fällt ein Funkeln und Glitzern auf! Die Farbe erinnert dich an einen Nachthimmel. Sie ist wirklich atemberaubend!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_7": {
+      "Sprecher": "Martin",
+      "German": "Damit werde ich morgen sogleich zur Tat schreiten! Besucht mich doch, dann könnt ihr Zeuge meiner Genialität werden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "d_se_1_end_good_8": {
+      "Sprecher": "",
+      "German": "Martin wirkt selbstsicher. Gemeinsam verbringt ihr den restlichen Tag damit Martins Fallen aus dem Dschungel zu entfernen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

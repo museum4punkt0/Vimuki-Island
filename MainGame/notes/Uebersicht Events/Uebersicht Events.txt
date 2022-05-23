@@ -1,0 +1,37 @@
+Rooms						Events
+
+Basis_EE_1					Lagerfeuer & Gruselgeschichten
+Basis_EE_2					Latrine ausheben
+Basis_EE_3					Nahrungssuche
+Basis_EE_4					KosmetiqueDiskussion
+Basis_EE_5					Fiebertraum	
+
+Dschungel_EE_1				Blumenwiese
+Dschungel_EE_2				Baumhaus
+Dschungel_EE_3				Labyrinth
+Dschungel_EE_4				Stein-Chad
+Dschungel_SE_1				Martin und der Käfer
+Dschungel_SE_2				Martin und die Kunst 
+
+Froschtempel_EE_1			Bunjee Jumping
+Froschtempel_EE_2			Hieroglyphen
+Froschtempel_EE_3			Angeln
+Froschtempel_EE_4			Seerosen-Wasserbahn
+Froschtempel_SE_1			Frosch helfen
+Froschtempel_SE_2			Erntedankfest
+
+Strand_EE_1					Hai
+Strand_EE_2					Möwenangriff
+Strand_EE_3					Sandburg
+Strand_EE_4					Unterwasserbilder
+Strand_SE_1					Das Unterwasserdorf
+Strand_SE_2					Scholles Hochzeit
+Strand_SE_2					Chad und Suzans Date
+
+
+Tropfsteinhoehle_EE_1		Heiße Quellen
+Tropfsteinhoehle_EE_2		Kratzhund
+Tropfsteinhoehle_EE_3		Moos
+Tropfsteinhoehle_EE_4		Trolle
+Tropfsteinhoehle_SE_1		Erkundung
+Tropfsteinhoehle_SE_2		Der Säbelzahnbär

@@ -1,0 +1,818 @@
+{
+  "d_intro_0": {
+    "German":"Ah, der Dschungel! Ein unberührtes Gebiet mit einer ungeheuer großen Artenvielfalt. Lianen schlängeln sich hier in vielfachen Variationen um Bäume und diverse Felsformationen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_intro_1": {
+    "German":"Einzigartige Insekten und Pflanzen sind hier an jeder Ecke anzutreffen. Aber Achtung, denn so idyllisch, wie der Dschungel wirkt, ist er nicht. Er beherbergt eine Vielzahl von wilden Tieren und Gefahren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_0": {
+    "German":"Eure Füße tragen euch tief in das Herz des Dschungels. Die Orientierung fällt euch schwer und als ihr meint an demselben Strauch schon viermal vorbeigelaufen zu sein, lichtet sich das Gestrüpp vor euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_1": {
+    "German":"Ihr entdeckt eine freiliegende Blumenwiese mitten im tiefsten Dschungel. Während Chad mit dir die Schönheit des Ortes verarbeitet, quietscht Suzan vor Freude plötzlich los.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_2": {
+    "German":"Hellauf begeistert eilt sie in die vor sich liegenden Blumenfelder, um die einzelnen Blüten genau zu inspizieren. Sie scheint sich aber nicht recht entscheiden zu können, welche sie zuerst anschauen möchte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_3": {
+    "German":"Das sind ja echt viele.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_4": {
+    "German":"JA! Welche sehen wir uns zuerst an?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_5": {
+    "German":"Viele Blumen strahlen im Sonnenlicht, doch dir fallen ein paar besonders ausgefallene Arten sofort ins Auge:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_o1": {
+    "German":"eine schöne Paradiesvogelblume",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_o2": {
+    "German":"ein hardcore Kaktus",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_o3": {
+    "German":"ein dubioser Farn",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r1_0": {
+    "German":"Ihr entscheidet euch gemeinsam zuerst die schöne Paradiesvogelblume anzusehen und einige Bilder von ihr zu machen. Sie ist schließlich am auffälligsten und das werden eure Bilder dann bestimmt auch!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r1_1": {
+    "German":"Suzan beugt sich herunter, um an ihr zu riechen. Doch entgegen eurer Erwartung, dreht sich das Pflänzchen plötzlich zu euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r1_2": {
+    "German":"Ey hallo!? Geht's noch? Begrüßt man so etwa jemanden, den man noch nicht kennt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r1_3": {
+    "German":"Chads Augen weiten sich. Ihm ist die Pflanze so gar nicht geheuer. Suzan wiederum empfindet die Situation als äußerst spannend! Du teilst beide Meinungen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r1_4": {
+    "German":"Du teilst beide Meinungen. Es handelt sich bei dieser Pflanze wohl um eine intelligente Spezies. Ihr versucht also die Situation zu beruhigen, indem ihr...",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_o1": {
+    "German":"… euer Handeln erklärt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_o2": {
+    "German":"...viele Fotos macht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_o3": {
+    "German":"...euch entschuldigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r1_0": {
+    "German":"Ihr erklärt der beleidigten Pflanze, dass dies für euch Menschen eine ganz normale Art ist sich zu begrüßen. Die Blume knistert skeptisch mit ihren Blättern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r1_1": {
+    "German":"Sie überlegt einen Moment und nickt euch zu. Menschen sind schließlich komische Wesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r1_2": {
+    "German":"Dann sollte ich mich wohl auch gebührend vorstellen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r1_3": {
+    "German":"Ihr nickt der bunten Pflanze zu und schickt eurerseits nun Suzan nach vorne, welche als erstes von der Blume ausgiebig beschnuppert wird. Sie lacht als die weichen Blütenblätter der Pflanze ihre Wange berühren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r1_4": {
+    "German":"Nun will nicht nur die Paradiesblume die Begrüßung zurückgeben, sondern auch die anderen Pflanzen, die in der Nähe wachsen. Ihr verbringt den Tag damit, euch gegenseitig zu beschnuppern",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_0": {
+    "German":"Ihr starrt sprachlos die sprechende Pflanze an. Also normal ist das ja nicht, sowas hat bisher bestimmt keiner gesehen, geschweige denn dokumentiert!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_1": {
+    "German":"Hallo?! Warum antwortet ihr nicht? HEY!!!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_2": {
+    "German":"Doch ihr seid noch nicht fertig mit eurem Staunen. Statt ihr zu antworten zückt ihr die Kamera und fangt an möglichst viele Fotos von diesem seltsamen Wesen zu schießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_3": {
+    "German":"Das findet die Pflanze allerdings gar nicht toll.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_4": {
+    "German":"Zuerst belästigt ihr mich mit eurem Geschnüffel und jetzt noch diese komischen Blitze?! Seid ihr irre?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r2_5": {
+    "German":"Aufgewühlt raschelt sie mit ihren Blättern und verschwindet prompt im Erdboden. Zurück bleibt nur ein kleiner Krater, der an einen Maulwurfshügel erinnert. Damit habt ihr so gar nicht gerechnet!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_0": {
+    "German":"Sorry… Wir wollten dich nicht so grob begrüßen, da wo wir herkommen stört es die Pflanzen glaube ich nicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_1": {
+    "German":"Die Pflanze lehnt sich leicht zurück, um euch näher zu mustern. Ihr stellt euch noch einmal vor, diesmal durchaus höflich. Neugierig betrachtet ihr euch gegenseitig.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_2": {
+    "German":"Verzeiht mir meine unhöfliche Frage aber… Was für Pflanzen seid ihr denn überhaupt? Ihr habt so komische Wurzeln? Wie nehmt ihr überhaupt Wasser auf?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_3": {
+    "German":"Ihr erklärt der Pflanze, dass ihr eure Flüssigkeit wie jeder andere Mensch durch den Mund konsumiert. Diese ist davon mehr als irritiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_4": {
+    "German":"Das kann doch nicht gesund sein!!! Zeigt mir eure Wurzeln!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_5": {
+    "German":"Ihr zeigt der Pflanze eure Füße.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_6": {
+    "German":"Die sind ja komplett bleich und gar nicht von Erde bedeckt!! Dagegen müssen wir sofort etwas tun!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_7": {
+    "German":"Die Pflanze beugt sich zu euren Füßen und beginnt damit euch eine Wurzelbehandlung zu geben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d2_r3_8": {
+    "German":"Was sich im Pflanzenreich als nichts anderes als eine Pediküre entpuppt. Eure Füße haben niemals besser ausgesehen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_0": {
+    "German":"Ihr entscheidet euch gemeinsam zum Kaktus zu gehen, der ganz weit oben auf dem Hügel zu finden ist. Ihr bemerkt, dass der Kaktus ziemlich süß und pummelig aussieht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_1": {
+    "German":"Wären da nicht die riesigen weißen Stacheln, die in alle Richtungen ragen. Sie geben dem Kaktus eine bedrohliche Wirkung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_2": {
+    "German":"Der is ja richtig krass!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_3": {
+    "German":"Der ist ja mal richtig metal.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_4": {
+    "German":"Ihr würdet dem Kaktus am liebsten ein High-Five geben, doch dann würdet ihr euch wahrscheinlich verletzten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_5": {
+    "German":"Der Kaktus dreht sich zu euch um und stößt ein langgezogenes Seufzen aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_6": {
+    "German":"Ich bin so deprimiert….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_7": {
+    "German":"Er lässt den Kopf hängen und wackelt leicht mit seinen kleinen Armen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_7_b": {
+    "German":"Die Tatsache, dass der Kaktus sprechen kann ist für euch weniger von Bedeutung. Schließlich scheint es dem Armen nicht gut zu gehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r2_8": {
+    "German":"Ihr entscheidet euch dazu den Kaktus aufzumuntern! Doch wie wollt ihr das anstellen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_o1": {
+    "German":"Fröhlich singen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_o2": {
+    "German":"Gießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_o3": {
+    "German":"Umarmen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_0": {
+    "German":"Du kannst dich noch dunkel an einen Artikel erinnern, dass Pflanzen auf Musik reagieren. Diese soll sogar in manchen Fällen eine wachstumsfördernde Wirkung auf sie haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_1": {
+    "German":"Au ja! Dann nehmen wir am besten meine Musik! Hip-Hop hat die besten Beats! Oder vielleicht spanische Volksmusik?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_2": {
+    "German":"Du wunderst dich einen Moment wie Chad auf diese zwei Musikrichtungen kommt. Suzan hingegen weiß genau was sie zu tun hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_3": {
+    "German":"Sie schaltet die Musik auf ihrem Handy an und kurz darauf ertönen harte Gitarrenriffe und laute Schlagzeugmusik!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_3_b": {
+    "German":"Ihr fühlt den Beat und bewegt eure Köpfe dazu. Suzan hingegen fängt an zu singen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_4": {
+    "German":"Eine grölende, tiefe Stimme kommt aus dem Mund der sonst so zierlichen Gestalt. Sie beginnt ihren Kopf hin und her zu bewegen und ihre Haare fliegen wild in alle Richtung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_5": {
+    "German":"Und der Kaktus? Der macht ja einfach mit!!! Schüchtern, aber nicht mehr so zurückhaltend schwingt er seinen Oberkörper im Takt der Musik.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_6": {
+    "German":"Wer hätte das gedacht…. Dem Kaktus gefällt die Musik ja richtig! Er ist nun vollkommen METAL! You do you, Kaktus!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_7": {
+    "German":"Die Musik lockt langsam die restlichen Pflanzen in der Umgebung an, die neugierig Suzan und den Kaktus beobachten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_8": {
+    "German":"Einige von ihnen machen sogar mit! Um euch herum bildet sich eine Schar von tanzenden Blumen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r1_9": {
+    "German":"Vielleicht war der Kaktus traurig, weil er so alleine war, was er jetzt definitv nicht mehr ist!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_0": {
+    "German":"Wasser und Pflanzen sind die perfekte Kombination! Das wird den Kaktus doch sicherlich aufheitern! Doch wie viel Wasser braucht ein Kaktus denn überhaupt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_1": {
+    "German":"Du beginnst bereits mit Suzan eifrig im Netz nach den 10 wichtigsten Fakten über Kakteen zu suchen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_2": {
+    "German":"Chad ist in der Zwischenzeit damit beschäftigt in seinem Rucksack nach dem passenden Utensil zu kramen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_3": {
+    "German":"Nur wenige Momente später zieht er eine rosa Plastikgießkanne heraus, die mit vielen kleinen und großen Hundestickern verziert ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_4": {
+    "German":"Nach dem Durchforsten mehrerer Seiten und Quellen, findest du zusammen mit Suzan auch die richtige Antwort auf eure Frage: Einen Kaktus darf man nur sehr selten gießen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_5": {
+    "German":"Vielleicht einmal im Monat. Da müsst ihr euch wohl etwas anderes einfallen lassen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_6": {
+    "German":"Ihr dreht euch um, um Chad von euren Erkenntnissen zu berichten, jedoch hat Chad wohl die Zeit genutzt um den Kaktus ausgiebig zu gießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_7": {
+    "German":"Stop! Hör auf, du ertränkst den Armen doch!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r2_8": {
+    "German":"Chad hält sofort inne. Dass der Kaktus dabei immer mehr und mehr angeschwollen ist, scheint Chad nicht einmal bemerkt zu haben!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_0": {
+    "German":"Was hilft besser gegen Traurigkeit, als eine ausgiebige und warme Umarmung!? Allerdings zögert ihr. Was ist mit den Stacheln?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_0_b": {
+    "German":"Der Kaktus bemerkt euer Zögern und lässt noch enttäuschter den Kopf hängen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_1": {
+    "German":"Jetzt müsst ihr es wirklich tun!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_2": {
+    "German":"Augen zu und durch!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_3": {
+    "German":"Ihr umarmt den Kaktus gemeinsam, welcher sich überrascht aufrichtet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_4": {
+    "German":"Tut euch das nicht weh?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_5": {
+    "German":"Sehr sogar. Das Vorhaben gestaltet sich schmerzhafter, als ihr gedacht habt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_6": {
+    "German":"Die, wenn auch nur sporadisch vorhandenen Stacheln pieksen euch überall hin.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_7": {
+    "German":"Doch dafür ist der Kaktus überglücklich. Er weiß euer Handeln zu schätzen! Er blüht in eurer Umarmung sogar richtig auf! Und das im wörtlichen Sinne.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_8": {
+    "German":"Ihm wächst eine große und schöne Blume auf dem Kopf, die einen lieblichen Duft verbreitet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_9": {
+    "German":"Dem Kaktus scheint es allem Anschein nach besser zu gehen, denn er wippt fröhlich im warmen Luftzug hin und her.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d3_r3_10": {
+    "German":"Die Piekser, die ihr dafür einstecken musstet, waren es euch vollkommen wert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_0": {
+    "German":"Ihr entschließt euch gemeinsam dazu den dubiosen Farn aufzusuchen, der im Schatten der Bäume besonders zwielichtig aussieht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_0_b": {
+    "German":"Als ihr euch nähert, funkelt euch das Schattengewächs nur misstrauisch an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_1": {
+    "German":"Und das auch noch ohne wirkliche Augen. Doch dann winkt es euch mit seinen Blättern zu sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_2": {
+    "German":"Ey… Psst… Wollt ihr vielleicht etwas Kaufen? Ich habe hier den frischesten Dünger und das beste Wasser überhaupt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_3": {
+    "German":"Ein sprechender Farn. Sowas habt ihr bestimmt noch nie gesehen… Doch jetzt geht es um hartes Verhandeln!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_3_b": {
+    "German":"Suzan sieht dich schon von der Seite etwas missmutig an, während Chad jetzt schon ein Pokerface aufsetzt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_4": {
+    "German":"Der Farn dagegen bleibt weiterhin auffällig zurückhaltend und mysteriös.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_5": {
+    "German":"Wo hast du denn den Dünger? Ich sehe hier keine Waren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_6": {
+    "German":"Die bekomme ich schon noch, Püppchen! Ich habe Kontakte und viele Freund:innen und sogar eine Gang! Ich beschaffe euch jeden Dünger den ihr haben wollt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d1_r3_7": {
+    "German":"Er will euch definitiv mit seinen unschlagbaren Dünger-Angeboten locken. Was tut ihr?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_o1": {
+    "German":"Wir sind im Geschäft!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_o2": {
+    "German":"Lass uns um die Beute spielen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_o3": {
+    "German":"Ihr misstraut dem Farn.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_0": {
+    "German":"Diese unschlagbaren Argumente und die niedrigen Preise verleiten euch dazu den Handel mit dem Nachtschattengewächs einzugehen. Dieser kichert daraufhin amüsiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_1": {
+    "German":"Mein Name ist Farnikus, der Seltsame. Und meine Preise sind unschlagbar.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_2": {
+    "German":"Aus dem Boden schießen verschiedene kleine und große Säckchen, die er euch mit seinen dürren Wurzeln entgegen hält.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_3": {
+    "German":"Mit diesem Zeug erreicht ihr unglaubliches Wachstum. Und das bloß für ein Glas Wasser.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_3_b": {
+    "German":"Ein Hammerpreis, findet ihr nicht auch?! Das würde vor allem euch sicher helfen. Ihr seid ja gar nicht Grün im Gesicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_4": {
+    "German":"Stimmt. Es war ein unschlagbarer Preis.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_5": {
+    "German":"Wachstum! Geil! Das muss ich ausprobieren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_6": {
+    "German":"Sofort tauscht er ein Glas Wasser gegen eine Ration Dünger und beginnt diese auf seiner Haut und seinen Haaren aufzutragen. Schließlich soll ja alles wachsen, was wachsen kann.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_7": {
+    "German":"Suzan und du beobachtet Chad dabei. Hoffentlich gibt es keine Nebenwirkungen, denn Farnikus war trotz allem ein höchst seltsamer Geselle.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_8": {
+    "German":"Eure schlimmsten Befürchtungen werden allerdings wahr, als langsam das versprochene Wachstum kommt. Nur anders, als Chad es womöglich erwartet hätte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_9": {
+    "German":"Statt seiner Gliedmaßen wachsen jetzt nur die Haare, und das überall! Nach einigen Momenten ist sein Körper vollkommen mit dichtem Haar übersät.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_10": {
+    "German":"Umtausch ausgeschlossen! Ich habe euer Wasser bereits getrunken!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_11": {
+    "German":"Das Gewächs lacht hämisch und verschwindet mit einer schnellen Bewegung in der Erde. Oje… Zumindest wirkt Chad durch die Haare wirklich ein wenig größer.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r1_12": {
+    "German":"Allerdings ist er mit seinem neuen Bigfoot-Look wenig zufrieden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_0": {
+    "German":"Lass uns um den Dünger spielen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_1": {
+    "German":"Bist du dir sicher, dass du mir gewachsen bist?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_2": {
+    "German":"Suzan nickt nur zustimmend, bereit für jede Herausforderung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_3": {
+    "German":"Das Spiel meiner Wahl ist….. Mensch ärgere dich nicht! Aber nicht ohne Einsätze versteht sich. Der Mindesteinsatz beträgt ein Glas Wasser!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_4": {
+    "German":"Ein hoher Preis, den ihr nur widerwillig zahlt. Ihr sitzt nun alle in einer Runde. Ihr drei gegen den Farn, der sich als erstaunlich guter Würfler herausstellt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_5": {
+    "German":"Doch auch Suzan ist nicht ohne, schließlich hat sie das Spiel bereits in ihrer Kindheit gemeistert!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_6": {
+    "German":"Wurf um Wurf bildet sich ein Kopf-an-Kopf-Rennen zwischen Farn und Suzan. Und beim letzten Wurf passiert es. Der Farn würfelt und gewinnt. Zumindest seiner Meinung nach.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_7": {
+    "German":"Was? Du hast doch nur eine eins gewürfelt!? Da darfst du nicht einfach 6 Felder vor. Das ist gegen die Regeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_8": {
+    "German":"Für Pflanzen gelten eben Sonderregeln!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_9": {
+    "German":"Das werde ich jetzt nachlesen! Das kann doch nicht stimmen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_10": {
+    "German":"Ihr durchforstet gemeinsam das Netz nach einem Regelwerk für Mensch-ärgere-dich-nicht, aber eine Pflanzen-Version lässt sich nicht finden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r2_11": {
+    "German":"Hat euch der Farn doch letzten Endes angeflunkert und sogar hier und da neue Regeln dazu erfunden? Ihr würdet ihn ja gerne fragen, jedoch hat er sich bereits mit seinem Gewinn aus dem Staub gemacht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_0": {
+    "German":"Der Farn hat euch nur in eine Falle gelockt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_1": {
+    "German":"Das ist mein Revier ihr Junggemüse! Und jetzt werde ich euch zeigen, dass man sich mit Farnikus dem Seltsamen nicht anlegen darf!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_2": {
+    "German":"Er schüttelt wie wild seine Blätter und versucht sie bedrohlich wirken zu lassen, was für euch nur so wirkt, als würde der Wind durch einen Busch rauschen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_2_b": {
+    "German":"Ihr seht euch an. Hat der Farn euch etwa gerade zum Kampf aufgefordert?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_3": {
+    "German":"Ha! Ihr seid so beeindruckt von mir, dass ihr regelrecht erstarrt seid, ihr feigen Rüben! Kämpft sage ich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_4": {
+    "German":"Gefühlt fallen euch auch tausend Möglichkeiten ein, die Pflanze zur Strecke zu bringen, doch ihr beschließt seine einzigartig harmlose Kampfkunst zu imitieren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_5": {
+    "German":"Und so kommt es zu einem Duell des Nichttuns und der Photosynthese, aus dem am Ende keiner als Sieger:in hervorgeht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_6": {
+    "German":"Ihr seid ja gar nicht so übel! Leute wie euch könnte ich immer gut gebrauchen! Leute auf die Verlass ist und die nicht vor dem Anblick einer wahren Bedrohung im Erdboden versinken!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_7": {
+    "German":"War das ein Job-Angebot? Anscheinend, denn ob ihr wollt oder nicht, ihr werdet nun als Mitglieder der \"Farntastischen Setzlinge\" ausgewählt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_d4_r3_8": {
+    "German":"Eine Gruppe so exklusiv, dass ihr die einzigen Mitglieder:innen seid. Zumindest habt ihr geile Teamtrikots bekommen, das ist doch mal ein Foto wert!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "d_ee_1_name_0": {
+    "German":"Paradiesvogelblume",
+    "English":"",
+    "French":"",
+    "Spain":""
+    },
+  "d_ee_1_name_1": {
+    "German":"Farn",
+    "English":"",
+    "French":"",
+    "Spain":""
+    },
+  "d_ee_1_name_2": {
+    "German":"Kaktus",
+    "English":"",
+    "French":"",
+    "Spain":""
+    }
+}

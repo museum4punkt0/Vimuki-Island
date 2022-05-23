@@ -1,0 +1,464 @@
+{
+   "t_intro_0": {
+      "German": "Die Tropfsteinhöhlen befinden sich in einer Berglandschaft mit verwucherten Hängen, fernab von jeglicher Zivilisation.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_1": {
+      "German": "Diese von Menschen noch nie zuvor betretenen Höhlensysteme bieten außer einer Menge Steine vielleicht auch einige Freizeitaktivitäten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_intro_2": {
+      "German": "Der Besuch der Höhlen ist es sicher wert den langen Fußmarsch auf euch zu nehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_0": {
+      "German": "Anstatt in die Höhle einzudringen, beschließt ihr euch lieber am Höhleneingang umzuschauen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_1": {
+      "German": "Suzan schaut sich interessiert die einzelnen Gesteinsformationen an, während Chad mit dir darüber philosophiert, welches Wesen wohl den Eingang mit seinen Fäusten in den Stein gehauen hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_2": {
+      "German": "Während eurer hitzigen Diskussion bemerkt ihr nicht, wie Suzan sich direkt vor einem großen Felsen im dunklen Bereich des Höhleneingangs gesetzt hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_3": {
+      "German": "Warum sitzt du nur rum?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_4": {
+      "German": "Ich sitze nicht, ich beobachte!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_5": {
+      "German": "Sie wirkt fröhlich und betrachtet weiter die grünliche Oberfläche des Steins. Grün? Das konnte dann wohl nur Moos sein! Aber was ist daran so interessant?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_6": {
+      "German": "Schaut mal!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_7": {
+      "German": "Sie dunkelt einen Bereich des Mooses ab, welches nun in einem kühlen, grünlichen Licht aufleuchtet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_8": {
+      "German": "Wenn wir dieses Moos erforschen, können wir daraus vielleicht Lampen herstellen, die komplett ohne Strom funktionieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_9": {
+      "German": "Sie grinst über beide Ohren. Auch wenn ihr nicht wirklich versteht, wie sie ihre Idee in die Tat umsetzen will, reicht ihr strahlendes Lächeln aus, um euch zu überzeugen ihr zu helfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_10": {
+      "German": "Das Moos scheint regelrecht am Stein festzukleben. Ihr müsst eine andere Möglichkeit finden, um es zu lösen. Ihr versucht es mit...",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_o1": {
+      "German": "...den Händen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_o2": {
+      "German": "...einer Nagelschere.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_o3": {
+      "German": "Ihr lasst es in Ruhe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_0": {
+      "German": "Du willst das Moos mit den Händen pflücken, doch da streckt dir Suzan bereits ihre Gartenhandschuhe entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_1": {
+      "German": "Wir wissen nicht, ob es vielleicht giftig ist! Vorsicht ist besser als Nachsicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_2": {
+      "German": "Sie reicht Chad ein weiteres Paar und bereitet einen Behälter für den Transport vor. Zumindest können die Pflanzen so weder dich, noch Chad verletzten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_3": {
+      "German": "Zusammen hebt ihr das Moos langsam, wie eine Decke vom Stein ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_3_b": {
+      "German": "Doch als ihr es beinahe geschafft habt, bröselt das Grün zwischen deinen Fingern und zerfällt in kleine Einzelteile, die dir… die Hände hochklettern!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_4": {
+      "German": "Du spürst das Trappeln von vielen, kleinen Beinchen. Vollkommen entsetzt streifen Chad und Suzan das Moos von deinen Armen, das mit einem knisternden Geräusch zu Boden fällt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r1_4_b": {
+      "German": "Du bist im ersten Moment wie erstarrt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_0": {
+      "German": "Chad zuckt sein Maniküre-Set und reicht euch allen jeweils eine seiner blank polierten Stahl-Nagelscheren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_0_b": {
+      "German": "Du beugst dich zum Moos herunter und beginnst, kleine Brocken der Pflanze von dem kühlen Stein zu schneiden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_1": {
+      "German": "Nach und nach sammeln sich auf dem Boden kleine Mooshäufchen. Nach einiger Zeit seid ihr euch sicher, dass ihr nun genug Proben gesammelt habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_2": {
+      "German": "Siegessicher blickt ihr zu eurer Beute, die auf einmal ja gar nicht mehr da ist. Wurde sie vielleicht vom Wind in die nahegelegenen Büsche geweht?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_3": {
+      "German": "Nein, dafür weht er nicht kräftig genug. Das Moos bleibt wie vom Erdboden verschluckt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_4": {
+      "German": "Als ihr euch nach eurer ergebnislosen Suche erneut zum Stein dreht, bedeckt das Moos ihn wieder vollständig. So, als ob es niemals vom Stein entfernt worden wäre. Das ist ja paranormal!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_5": {
+      "German": "Verwirrt schaut ihr auf den grünen Pflanzenteppich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_6": {
+      "German": "Das ist sicher eine Zeitachsenverschiebung!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r2_7": {
+      "German": "Du untersuchst das Moos genauer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_0": {
+      "German": "Ihr seid gerade dabei das Moos mit einem scharfkantigen Stein vom Felsen zu lösen, als Suzan euch aufhält.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_1": {
+      "German": "Wisst ihr was, vielleicht ist das doch keine so gute Idee.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_2": {
+      "German": "Sie erklärt euch, dass sie eigentlich nicht in das Ökosystem eingreifen möchte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_2_b": {
+      "German": "Schließlich ist es verboten, einfach Pflanzen von ihrem natürlichen Lebensraum zu entfernen, selbst wenn es sich dabei um Forschungszwecke handelt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_3": {
+      "German": "Mir ist es lieber das vorher mit den Einheimischen abzusprechen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_4": {
+      "German": "Sie wirkt enttäuscht, aber es ist wohl die vernünftigste Lösung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_5": {
+      "German": "Du willst den Stein gerade aus der Hand legen, als du neben dir etwas bemerkst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d1_r3_6": {
+      "German": "Das Moos fängt an sich zu bewegen und hebt sich in kleinen Brocken vom Felsen ab. Ein ekliges, schrilles Surren ertönt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_11": {
+      "German": "Das ist gar kein Moos! Das ist eine ganze Käfer-Kolonie! Was willst du jetzt tun?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_o1": {
+      "German": "Sie abwehren",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_o2": {
+      "German": "Verstecken",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_o3": {
+      "German": "Dem Schicksal ergeben",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_0": {
+      "German": "Es werden auf einmal so viele, dass sie den kompletten Boden um euch herum bedecken. Ihr versucht nach hinten auszuweichen. Vergebens. Ihr seid eingekesselt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_1": {
+      "German": "Komischerweise kommen die Insekten aber nicht näher. Sie gehen nicht ins Licht, welches durch die Löcher im Gestein direkt auf euch fällt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_2": {
+      "German": "Licht! Licht ist ihre Schwachstelle! Sie mögen Helligkeit nicht und wohnen deswegen in den Höhlen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_3": {
+      "German": "Ihr beginnt damit in euren Rucksäcken nach etwas Brauchbarem zu suchen. Nichts. Keine Taschenlampe. Kein Feuerzeug. Ihr habt das alles im Camp zurück gelassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_4": {
+      "German": "Auf einmal schießt ein gebündelter Lichtstrahl an euch vorbei in die Käfermenge, die entsetzt davor zurückspringen. Doch woher kam er?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_5": {
+      "German": "Du blickst verwundert hinter dich und siehst Chad!? Er checkt sein Gesicht in einem kleinen Handspiegel, den er immer für style-technische Notfälle bei sich trägt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_6": {
+      "German": "Was denn? Wenn ich sterbe will ich zumindest schön sterben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_7": {
+      "German": "Moment, der Spiegel hat das Licht von oben reflektiert! Du reißt ihn ihm aus der Hand und versuchst euch mit einem Lichtstrahl zu befreien.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_8": {
+      "German": "Und tatsächlich, die Insekten weichen vor dem Licht zurück. Ihr bewegt euch langsam durch die Menge der klackernden Wesen und entkommt so wohl eurem sicheren Tod.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r1_9": {
+      "German": "Zum Glück ist Chad immer auf solche Notfälle vorbereitet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_0": {
+      "German": "Während ihr vor Schreck bewegungsunfähig seid, ergreift Suzan die Initiative und zieht euch weg vom Höhleneingang und rein ins Gebüsch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_0_b": {
+      "German": "Ihr lauft so schnell durch den Dschungel, dass du die Orientierung verlierst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_1": {
+      "German": "Haben wir sie abgehängt!?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_2": {
+      "German": "Suzan antwortet nicht darauf, sie ist mehr damit beschäftigt Luft in ihre Lunge zu pumpen. Auch du bist außer Atem.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_3": {
+      "German": "Ich … ich denke schon?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_4": {
+      "German": "Für einen kurzen Moment seid ihr erleichtert, doch der bewölkte Himmel verdunkelt die Umgebung zunehmend. Alles sieht im dunklen Dschungel gleich aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_5": {
+      "German": "Hört ihr das auch?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_6": {
+      "German": "Und tatsächlich, ein ohrenbetäubendes Quietschen ertönt und der Boden fängt an zu vibrieren. Die Geräuschkulisse wächst an und wird immer lauter. Oh nein. Es sind die Insekten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_7": {
+      "German": "Und jetzt? Wohin?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_8": {
+      "German": "EGAL! Nehmt die Beine in die Hand!!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_9": {
+      "German": "Ihr rennt Chad nach, der orientierungslos tiefer in das Dickicht läuft. Die Insekten folgen euch in erschreckender Geschwindigkeit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_9_b": {
+      "German": "Dabei fressen sie sich durch das dichte Unterholz und reißen eine tiefe Narbe in die Landschaft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_10": {
+      "German": "Nach einer kleinen Weile hört ihr sie nicht mehr. Sie haben sich an dem Holz der Bäume satt gefressen. Ihr habt wohl den Lebensraum vieler Tiere gefährdet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r2_11": {
+      "German": "Mehrere Hektar Dschungel sind durch eure Schuld vollständig vom Erdboden verschwunden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_0": {
+      "German": "Während die Insekten sich zu einem gewaltigen Schwarm formen, versucht ihr Schutz zu suchen. Zumindest ein Teil von euch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_1": {
+      "German": "Während Suzan und Chad dir panisch zurufen, bleibst du wie ein Fels in der Brandung vor der Gefahr stehen. Mutig. Selbstlos.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_2": {
+      "German": "Unfähig dich zu bewegen, da deine Beine dir nicht mehr gehorchen, nimmst du dein Schicksal in Kauf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_3": {
+      "German": "Mit deinem letzten Atemzug, willst du deine letzten Momente auf Erden mit deiner Kamera festhalten und beginnst zu filmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_4": {
+      "German": "Du spürst kleine Beinchen, welche wild an deinen Hosenbeinen hochklettern. Sie bedecken bald deinen kompletten Körper. Die klappernden Laute ihrer Kiefer dringen dir in Mark und Bein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_5": {
+      "German": "Während du vor dich hin murmelst und die Kamera direkt auf die Meute von Insekten richtest, bemerkst du etwas Ungewöhnliches.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_6": {
+      "German": "Sie beißen dich ja gar nicht. Nach einem kurzen Moment, der sich für dich jedoch wie eine Ewigkeit anfühlt, klettern die Insekten von dir herunter. Sie kehren schlecht gelaunt wieder zur Höhle zurück.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_ee_3_d2_r3_7": {
+      "German": "Die Insekten scheinen dich nicht als Nahrungsquelle identifiziert zu haben. Da hast du ja nochmal Schwein gehabt! Du speicherst das Video für die Nachwelt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

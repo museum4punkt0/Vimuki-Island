@@ -1,0 +1,3 @@
+isInSchrankArea = true;
+
+isInKofferArea = false;

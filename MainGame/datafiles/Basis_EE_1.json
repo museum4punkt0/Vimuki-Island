@@ -1,0 +1,686 @@
+{
+  "b_intro_0": {
+    "German":"Das Camp ist ein Ort der Freizeitmöglichkeiten und Aktivitäten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_1": {
+    "German":"Es gleicht im ersten Moment einem Ferienparadies, welches die einheimischen Affen mit handwerklichem Können errichtet haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_2": {
+    "German":"Es gibt viel zu entdecken. Hier habt ihr euer Lager aufgeschlagen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_0": {
+    "German":"Es beginnt bereits zu dämmern, als du dich im Camp wiederfindest. Der heutige Tag war von verschiedenen eintönigen Aufgaben durchzogen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_1": {
+    "German":"Deswegen habt ihr kurzerhand beschlossen zusammen einen gemütlichen Abend am Lagerfeuer zu verbringen, mit Snacks und spannenden Geschichten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_2": {
+    "German":"Ihr sucht euch eine gemütliche Ecke und einige Momente später wird sie in das warme Licht des Feuers getaucht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_3": {
+    "German":"Das Feuer knistert, während die Nacht über euch hereinbricht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_4": {
+    "German":"Die perfekte Zeit für Gruselgeschichten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_5": {
+    "German":"Nacheinander erzählt ihr euch die erschreckendsten Sachen: von ekligen Pickeln bis hin zu schrecklichen Monstern!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_6": {
+    "German":"Jetzt bist du an der Reihe eine Geschichte zu erzählen:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_o1": {
+    "German":"Verhexte Haarpflegeprodukte",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r1_0": {
+    "German":"Du fängst an eine Geschichte über ein verfluchtes Haargel zu erzählen, das die Haare im ersten Moment wunderschön macht, diese jedoch schließlich ausfallen lässt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r1_1": {
+    "German":"Suzan findet die Geschichte etwas weit hergeholt, aber Chad ist ein wenig nervös.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_o2": {
+    "German":"Eine klassische Monstergeschichte",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r2_0": {
+    "German":"Du breitest die Hände bedrohlich aus und erzählst die Geschichte von Herbert dem blutrünstigen Vampir, welcher in einem Bürogebäude vor sich hinvegetiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r2_1": {
+    "German":"Suzan schmunzelt nur bei deiner Geschichte, während Chad ein kleiner Schauer über den Rücken läuft.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_o3": {
+    "German":"Eine Gruselgeschichte mit realem Kern",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r3_0": {
+    "German":"Du erzählst von einem Hacker aus dem Jenseits, der den Account von unschuldigen Influencer:innen bedroht: [pause=0.5]und zwar durch Bilder, die nicht zu ihrem Image passen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d1_r3_1": {
+    "German":"Suzan hat dir bei deiner Geschichte an den Lippen gehangen, während Chad versucht seine Angst hinter einem extrem männlichen Auftreten zu verstecken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_7": {
+    "German":"Es vergehen einige Momente bis, Suzan sich zu dir herüberbeugt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_8": {
+    "German":"Merkst du wie nervös Chad ist? Wäre es nicht lustig ihn zu erschrecken?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_9": {
+    "German":"Du findest in der Tat, dass es eine lustige Idee wäre. Du schleichst dich mit Suzan weg vom Lagerfeuer, um euren Plan in die Tat umzusetzen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_0": {
+    "German":"Doch wie wollt ihr das bewerkstelligen? Die Geschichte hat ihm kaum Angst eingejagt. Ihr debattiert lange über einen perfekten Plan.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_1": {
+    "German":"Zu lange. Ein leises Schnarchen dringt an eure Ohren. Chad ist wohl eingeschlafen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_2": {
+    "German":"Ihr schaut nach ihm. Er schläft wirklich wie ein Stein. Auf euren Gesichtern erscheint ein schelmisches Lächeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_3": {
+    "German":"Ich hole meine Schminksachen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_4": {
+    "German":"Ihr beginnt damit Chad zu verschönern und betont seine markanten Züge mit buntem Make up.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_5": {
+    "German":"Du schießt ein Foto.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_6": {
+    "German":"Chad wird dabei wach und schaut sich entsetzt im Spiegel an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r1_7": {
+    "German":"Das ist wirklich voll uncool!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_0": {
+    "German":"Doch wie stellt ihr das an? Die Geschichte hat ihm nicht unbedingt das Blut in den Adern gefrieren lassen… [pause=0.5]aber zumindest ist Chad ein wenig nervöser und ängstlicher als sonst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_1": {
+    "German":"Ihr schaut euch in den Büschen hinter eurem Feuer nach Materialien um.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_2": {
+    "German":"Moment! Ich glaube ich hab was! Einen Zombie-Chad! Das wird ihm so richtig Angst machen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_3": {
+    "German":"Suzan hat definitiv zu viele Kunstbücher gelesen…[pause=0.5] Da du aber selbst keinen besseren Vorschlag hast, setzt ihr diesen in die Tat um.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_4": {
+    "German":"Suzan beschmiert dich mit Dreck und Schlamm, wodurch du eine kränkliche grüne Farbe annimmst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_5": {
+    "German":"Sie modelliert aus Stöcken, Steinen und Ästen ein fast perfektes Abbild von Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_6": {
+    "German":"Du stolperst stöhnend auf den nichtsahnenden Chad zu, der sich mit blankem Entsetzen umdreht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_7": {
+    "German":"Doch kurz bevor er aufspringen will, erkennt er dich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_8": {
+    "German":"Wie siehst du denn aus?! Das ist ja mal gar nicht deine Farbe!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r2_9": {
+    "German":"Ihr müsst alle drei über den Vorfall lachen. Du schießt ein Foto.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_0": {
+    "German":"Doch wie geht ihr das an? Da fällt es dir wie Schuppen von den Augen! Deine Geschichte hat ihm so viel Angst eingejagt! Natürlich muss sich einer von euch als Hacker:in verkleiden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_1": {
+    "German":"Da es deine Idee war bereitest du das Kostüm für Suzan vor. Sie sieht jetzt aus wie eine bedrohliche Hacker:in aus einem Actionfilm.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_2": {
+    "German":"Die schwarze Mütze hängt ihr tief im Gesicht, sie hält Chads Laptop in der Hand.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_3": {
+    "German":"Du wartest versteckt im Busch, während Suzan sich lautlos an Chad heranschleicht und ihm ihre Hand auf die Schulter legt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_4": {
+    "German":"Ich werde Bilder von DIR ins INTERNET STELLEN!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_5": {
+    "German":"Chad wird leichenblaß, bevor er anfängt schrill zu schreien und in die entgegengesetzte Richtung zu laufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_6": {
+    "German":"Du hast ein Foto von der Situation geschossen und lachst mit Suzan schadenfroh.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_7": {
+    "German":"Ihr findet Chad nach einer kurzen Suche in einer Baumkrone, wo er sich zitternd zusammengekauert hat und euch vor bedrohlichen Geister-Hacker:innen aus dem Jenseits warnt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_8": {
+    "German":"Als er jedoch Suzans Kleidung bemerkt, ist er beleidigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_9": {
+    "German":"Sehr witzig….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_i1_d1_r3_10": {
+    "German":"Ihr habt es wohl ein kleines bisschen übertrieben. Wieder am Lagerfeuer hat sich die Stimmung nicht verbessert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_o1": {
+    "German":"Erdnussbutter benutzen um S'mores zu machen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_o2": {
+    "German":"Erdnussbutter aufsparen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r1_0": {
+    "German":"Zum Glück kannst du den wütenden Chad mit etwas überaus Köstlichem besänftigen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r1_1": {
+    "German":"Du packst die Erdnussbutter aus deinem Rucksack und schmierst sie zwischen zwei Kekse und eine dicke Schokoladentafel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r1_2": {
+    "German":"Als krönenden Abschluss platzierst du einen gerösteten Marshmallow in die Mitte. Eine wahre Köstlichkeit! Ihr esst einen S'more nach dem anderen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r1_0": {
+    "German":"Chad hat sich in eine warme Decke gewickelt und schmollt vor sich hin, besonders weil das Make-up nur schwer von seinem Gesicht gewaschen werden kann.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r1_1": {
+    "German":"Er wirkt ziemlich sauer.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r2_0": {
+    "German":"Ihr beschließt euren schönen Abend mit viel Süßem zu beenden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r2_1": {
+    "German":"Du packst die Erdnussbutter aus deinem Rucksack und schmierst sie zwischen zwei Kekse und eine dicke Schokoladentafel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r2_2": {
+    "German":"Als krönenden Abschluss platzierst du einen gerösteten Marshmallow in die Mitte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r2_3": {
+    "German":"Eine wahre Köstlichkeit! Ihr esst einen S'more nach dem anderen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r2_0": {
+    "German":"Chad und Suzan helfen dabei den Schlamm von dir und deinen Kleidern abzuwaschen, was schließlich in einer riesigen Wasserschlacht endet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r2_1": {
+    "German":"Als sie endet, sitzt ihr alle nass und dreckig, aber fröhlich wieder vor dem warmen Feuer.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r3_0": {
+    "German":"Du schaust zu Suzan, die schuldbewusst den Kopf hängen lässt. Aber zum Glück kannst du die Situation entschärfen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r3_1": {
+    "German":"Natürlich mit einem SNACK!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r3_2": {
+    "German":"Du packst die Erdnussbutter aus deinem Rucksack und schmierst sie zwischen zwei Kekse und eine dicke Schokoladentafel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r1_d1_r3_3": {
+    "German":"Als krönenden Abschluss platzierst du einen gerösteten Marshmallow in die Mitte. Eine wahre Köstlichkeit! Ihr esst einen S'more nach dem anderen. Chad wirkt etwas entspannter.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r3_0": {
+    "German":"Du schaust zu Suzan, die schuldbewusst den Kopf hängen lässt. Du versuchst die Situation besser zu machen indem du ein kleines Lagerfeuer-Lied anstimmst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r3_1": {
+    "German":"Auch wenn Chad und Suzan nicht von Anfang an mitsingen, werden sie von den griffigen Texten und den bezaubernden Klängen deiner Blockflöte dazu ermuntert mitzusingen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d2_r2_d1_r3_2": {
+    "German":"Nach einigen Momenten scheint wieder alles in Ordnung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_10": {
+    "German":"Du schaust dir das Bild an, das du von Chad geschossen hast. Es gefällt dir und du würdest es gerne online posten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_o1": {
+    "German":"Online posten",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_o2": {
+    "German":"Freund:innen fragen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_o3": {
+    "German":"Weiter betrachten",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_0": {
+    "German":"Du postest das Bild einfach auf deinen Kanälen und siehst zu, wie die Likes nur so hochspringen! Allerdings schauen auch Chad und Suzan auf ihre Handys und entdecken das Bild.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_1": {
+    "German":"Hey das finde ich aber richtig blöd von dir!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_2": {
+    "German":"Das geht echt gar nicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_3": {
+    "German":"Du schaust sie fragend an, während ihre Gesichter immer aufgebrachter werden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_4": {
+    "German":"Ich sehe hier ja total gemein aus!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_5": {
+    "German":"Suzan klingt traurig, während sie durch die Kommentare des Bildes scrollt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_6": {
+    "German":"Und ich sehe aus wie ein totales Weichei! Das bin absolut nicht ich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r1_7": {
+    "German":"Aber das waren sie doch! Du hast es hier schwarz auf bunt! Sie sollen sich nicht so anstellen, das ist doch ein tolles Bild geworden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_0": {
+    "German":"Du postest das Bild einfach auf deinen Kanälen und siehst zu, wie die Likes nur so hochspringen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_1": {
+    "German":"Allerdings schauen auch Chad und Suzan auf ihre Handys und entdecken das Bild.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_2": {
+    "German":"Warum hast du uns vorher nicht gefragt?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_3": {
+    "German":"Das ist echt nicht schön von dir. Das macht man nicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_4": {
+    "German":"Du schaust sie fragend an, während sie sich enttäuscht abwenden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_5": {
+    "German":"Ich seh hier ja total gemein aus! So bin ich doch gar nicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_6": {
+    "German":"Suzan klingt traurig, während sie durch die Kommentare des Bildes scrollt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_7": {
+    "German":"Und ich sehe aus wie ein totales Weichei! Das bin absolut nicht ich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_8": {
+    "German":"Auch Chad ist damit beschäftigt zu schauen, ob sich jemand über ihn lustig macht. Du fühlst dich ein wenig schlecht und fragst, ob du es wieder runternehmen sollst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r1_d2_r2_9": {
+    "German":"Doch Chad und Suzan schütteln nur den Kopf. Dafür ist es ein wenig zu spät.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_0": {
+    "German":"Chad und Suzan wirken unsicher. Das geht gegen Chads Image und Suzans übliche Blogposts.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_1": {
+    "German":"Du hingegen munterst sie auf. Es war ein Spaß unter Freund:innen. Beide beruhigen sich wieder und stimmen dir zu.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_2": {
+    "German":"Du postest es privat. Suzan und Chad schauen dich unsicher an… [pause=0.5]Ob das eine gute Idee ist? Sie schauen mit dir auf das Bild.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_3": {
+    "German":"Ich weiß nicht…[pause=0.5] Sehe ich darauf nicht...[pause=0.5] doof aus?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_4": {
+    "German":"Ach nein tust du nicht….",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_5": {
+    "German":"Er schaute bei seinen Worten an sich herab, um zu überprüfen, ob er selbst komisch wirkt. Aber zumindest seid ihr alle drei auf diesem Bild drauf und das gibt euch Mut.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r2_6": {
+    "German":"Sie entscheiden sich dafür zuzustimmen und ihr verbringt den Abend damit euch die Kommentare durchzulesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r1_0": {
+    "German":"Suzan und Chad schauen dich unsicher an… [pause=0.5]Ob das eine gute Idee ist? Natürlich ist es eine gute IDEE! Aber nicht ohne noch mehr Bildmaterial!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r1_1": {
+    "German":"Ihr schießt Foto um Foto, welche ihr dann ebenfalls auf all euren Kanälen postet und überflutet eure komplette Plattform damit.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r1_2": {
+    "German":"Diese wird daraufhin für einen kurzen Moment vom Netz genommen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r2_d2_r1_3": {
+    "German":"Ihr habt es ein wenig mit den Bilder übertrieben, aber zumindest hattet ihr Spaß dabei. Ihr redet den Rest des Abends über nichts anderes mehr und die gute Laune bleibt erhalten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r2_0": {
+    "German":"Du schaust dir das Bild genauer an und entdeckst versteckte Details in den Bildern, die du sogleich deinen Freund:innen zeigst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r2_1": {
+    "German":"Ihr entdeckt immer mehr und mehr versteckte Strukturen und Botschaften in euren Bildern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r2_2": {
+    "German":"Das gibt es ja nicht!? Da ist ja noch eine!!!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r2_3": {
+    "German":"Es hört einfach nicht auf!!!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r2_4": {
+    "German":"Ihr verbringt den Abend damit auch noch eure Umgebung nach versteckten Hinweisen abzusuchen. Ist deine Kamera letzten Endes doch verflucht?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r1_0": {
+    "German":"Ihr verschlingt immer mehr S'mores, während ihr euch über eure eigenen Bilder lustig macht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r1_1": {
+    "German":"Schau dir mal an, was ich hier für ein Gesicht ziehe! Das ist ja mal super fies.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r1_2": {
+    "German":"Ja, du bist eine echte Hexe!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_d3_r3_d2_r1_3": {
+    "German":"Suzan stößt ihren Ellenbogen in Chads Seite, während er lauthals anfängt zu lachen. Sie scheinen sich mehr und mehr zu entspannen. Es tut gut einfach auch mal über sich selbst zu lachen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_1_11": {
+    "German":"Der Abend vergeht und ihr macht euch bettfertig. Morgen wird sicher ein anstrengender Tag.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

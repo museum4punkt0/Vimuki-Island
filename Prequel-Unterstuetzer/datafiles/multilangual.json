@@ -1,0 +1,530 @@
+{
+   "inv_0": {
+      "German": "Es wurde eine neue Insel mitten im Ozean entdeckt. Ein Paradies für viele Tiere und Pflanzen. Niemand hatte bis jetzt die Chance sie zu bereisen. (Klicke für weiter!)",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_1": {
+      "German": "Das ist deine Gelegenheit! Dazu hast du dich mit den berühmtesten Unternehmer:innen deines Landes verabredet. Schließlich kostet eine solche Reise sehr viel Geld...",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_2": {
+      "German": "Jetzt musst du nur noch eine der Personen überzeugen und dein Abenteuer kann losgehen!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_3": {
+      "German": "Deine Schritte hallen in den riesigen Räumen der Galerie wider, als du zügig zu deinem Termin eilst.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_4": {
+      "German": "Du bleibst vor der Tür stehen, welche dich von den Unternehmer:innen trennt.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q1": {
+      "German": "Du siehst dich noch einmal im großen Wandspiegel des Flurs an… (Wähle eine Option!)",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q1_o1": {
+      "German": "Schlichte, aber ordentliche Kleidung",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q1_o2": {
+      "German": "Markenklamotten und schicke Frisur",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q1_o3": {
+      "German": "Arbeitskleider aus dem Atelier",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q1_o4": {
+      "German": "Du bist im Matsch ausgerutscht",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q2": {
+      "German": "Du trittst ein, während die Blicke deiner möglichen Unterstützer:innen auf dir liegen. Du wirkst...",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q2_o1": {
+      "German": "...selbstsicher.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q2_o2": {
+      "German": "...nervös.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q2_r1": {
+      "German": "Du trittst mit erhobenem Kopf und festem Schritt in den Raum und blickst den Unternehmer:innen in die Augen. ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q2_r2": {
+      "German": "Du trittst unsicher in den Raum und meidest den Blick der Unternehmer:innen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q3": {
+      "German": "Erzähl etwas über dich, Grünschnabel!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q3_o1": {
+      "German": "Ich bin gut organisiert und bereit für jede Hürde!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q3_o2": {
+      "German": "Ich höre immer auf mein Bauchgefühl!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q3_o3": {
+      "German": "Ich stehe mit beiden Beinen fest im Leben! ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q3_o4": {
+      "German": "Ich will stets etwas Neues auszuprobieren!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q4": {
+      "German": "Was versprichst du dir von dieser Reise? ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q4_o1": {
+      "German": "Groß rauskommen!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q4_o2": {
+      "German": "Die Welt sehen! ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q4_o3": {
+      "German": "Fremde Kulturen kennenlernen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q4_o4": {
+      "German": "Inspirationen finden.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q5": {
+      "German": "Und wie bereitest du dich auf die Reise vor?",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q5_o1": {
+      "German": "Ich habe mir viele Survival-Videos angeschaut!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q5_o2": {
+      "German": "Ich springe einfach ins kalte Wasser! ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q5_o3": {
+      "German": "Ich habe mich monatelang auf diese Reise vorbereitet!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q5_o4": {
+      "German": "Ich habe mich vorbereitet, aber es kann immer Probleme geben!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q6": {
+      "German": "Worauf legst du am meisten Wert?",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7": {
+      "German": "Jetzt mal etwas ganz anderes... [pause=0.5]Für welchen von uns würdest du dich denn entscheiden wollen?",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r1": {
+      "German": "Schmeichelhaft... [pause=0.5]Natürlich würdest du das sagen... ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r2": {
+      "German": "[font=fnt_standard_bigitalic]HA! HA! HA![/font] Das hört man gerne, du Grünschnabel!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1": {
+      "German": "Warum denkst du, dass ich deine Bilder brauche?",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_o1": {
+      "German": "Weil es tolle Bilder sind, die etwas noch nie Dagewesenes zeigen!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_o2": {
+      "German": "Weil ich mit meiner Kunst etwas bewirken will!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_o3": {
+      "German": "Sie erzählen die Geschichte der Insel! Es ist ein tolles Abenteuer!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r1_1": {
+      "German": "Wie oft glaubst du habe ich das schon gehört? ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r1_2": {
+      "German": "Er sieht nicht besonders überzeugt aus.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r2_1": {
+      "German": "Wenn du etwas bewirken willst, brauchst du mehr als nur Bilder...",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r2_2": {
+      "German": "Verschwende nicht meine Zeit...",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r3_1": {
+      "German": "Abenteuer sagst du...[pause=0.5] Soso…",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r3_q1_r3_2": {
+      "German": "Der Mann lehnt sich in seinem Rollstuhl zurück und scheint in Erinnerungen zu schwelgen. Auf seinem Gesicht erscheint ein Lächeln. ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r4_1": {
+      "German": "[font=fnt_standard_bigitalic]Ha!...[/font][pause=0.5] Na was sagst du dazu?",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_q7_r4_2": {
+      "German": "Der Jungspund mag wohl Innovationen, Bruder!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_5": {
+      "German": "Die Unterstützer:inenn schauen dich abschätzend an.  ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_6": {
+      "German": "Nach einer kurzen Überlegung heben die interessierten Personen die Hand. Such dir deine Unterstützer:in aus! ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_1": {
+      "German": "Ich freu mich darauf, dich kennenzulernen. Du klingst unglaublich vielversprechend!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_2": {
+      "German": "Ich werde dich finanzieren, aber natürlich nur zu meinen Konditionen. Wie du sicher weißt, ist die Marke [color=#400080][font=fnt_standard_big]RusH[/font][/color] ein Modelabel für die besten Kleidungsstücke, denn wir alle sind Einzelstücke. ",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_3": {
+      "German": "Mir ist es egal wovon du Bilder machst... Aber ich möchte, dass du wie [color=#400080][font=fnt_standard_big]RusH[/font][/color] lebst!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_4": {
+      "German": "Wie [color=#400080][font=fnt_standard_big]RusH[/font][/color] atmest!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_5": {
+      "German": "Dass du... [pause=0.5] [color=#400080][font=fnt_standard_big]RusH[/font][/color] bist!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_6": {
+      "German": "Deswegen hier ein Stück aus meiner neuen Kollektion!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_7": {
+      "German": "Sie reicht dir ein Paket mit einer wetterfesten Jacke im modischen Schnitt. Sie wirkt unhandlich, jedoch ziemlich cool.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_rush_8": {
+      "German": "Wie findest du sie? Ein Kunstwertk nicht wahr? Und hier...[pause=0.5] natürlich die Reisetickets. Also beeil dich lieber. Ich bin auf meine Fotos gespannt.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_scholle_1": {
+      "German": "[font=fnt_standard_bigitalic]OI![/font] Ich wusste, dass etwas in dir steckt, Grünschabel! Das wird ein tolles Geschäft!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_scholle_2": {
+      "German": "Er reibt sich die Hände.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_scholle_3": {
+      "German": "Scholle steht für Effektivität, Haltbarkeit und Effizienz! Deswegen möchte ich dir etwas mitgeben, das dir zur Erfoschung des Gebietes sicher nützlich sein wird!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_scholle_4": {
+      "German": "Er übergibt dir ein reißfestes Netz.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_scholle_5": {
+      "German": "Das Scholle RV7-Karbonnetz! Viel Spaß auf deiner Reise! Und bring dem alten Scholle etwas mit, ne?!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_1": {
+      "German": "Ich muss sagen, Jungspund... [pause=0.5]du hast mich tatsächlich dazu gebracht, dir auf deinem Weg zu helfen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_2": {
+      "German": "Reise auf die Insel und sieh zu, dass du ordentliche Fotos machst! Vor allem, damit ich deine Reise bis ins Detail nachverfolgen kann...",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_3": {
+      "German": "Er wirkt freundlicher.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_4": {
+      "German": "Ich hoffe, du wirst genauso viel Spaß haben wie ich damals. Denn ob du's glaubst oder nicht...[pause=0.5] in diesen alten Knochen steckt immer noch Abenteuergeist!!!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_5": {
+      "German": "Außerdem möchte ich dir etwas sehr Wichtiges anvertrauen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_6": {
+      "German": "Er reicht dir ein altes ledernes Buch. Auf dem Einband kann man eine Fliege erkennen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_7": {
+      "German": "Du wirst auf dieser Insel vielen Gefahren ins Auge sehen, aber auch viele neue Freunde kennenlernen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_8": {
+      "German": "Dies hier wird dir helfen, dich nicht komplett zu verlieren.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_wealth_9": {
+      "German": "Ich wünsche dir viel Erfolg bei deiner Reise.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_1": {
+      "German": "Bei uns bist du richtig! Schließlich ist Erfolg unser größtes Ziel.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_2": {
+      "German": "Genauso wie es die Innovation ist! Es freut uns, bei deinem Vorhaben einzusteigen.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_3": {
+      "German": "Du solltest dich trotzdem gut vorbereiten.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_4": {
+      "German": "Um dir deine Reise zu erleichtern, möchten wir dir das hier mit auf den Weg geben. Ein neues Projekt der [font=fnt_standard_bigitalic][color=#006600]Crowd & Funding Gesellschaft[/color][/font]!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_5": {
+      "German": "Es steckt noch in den Kinderschuhen, deswegen ist es noch nicht auf dem Markt.",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_6": {
+      "German": "Der Prototyp ist sehr empfindlich, aber er ist der Beste!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_7": {
+      "German": "Sie reichen dir eine Apparatur, die dich stark an ein Taschenmesser erinnert. [pause=0.5]Nur größer... [pause=0.5][font=fnt_standard_big]sehr viel größer...[/font]",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_8": {
+      "German": "Ein Multi-Survivaltool!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_9": {
+      "German": "Bevor wir es vergessen: hier hast du noch deine Tickets!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_crowd_10": {
+      "German": "Wir freuen uns auf deinen Fortschritt!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "inv_7": {
+      "German": "Dein Investor reicht dir die Schiffstickets. Vergiss nicht, dir den Speichercode [color=#0000FF]aufzuschreiben[/font]!",
+      "Englisch": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "notfall_0": {
+      "German": "Leider hast du etwas lange gebraucht. Du musst zurück zur Führung. ",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_rush": {
+      "German": "Deine Unterstützerin Ravina Rush gibt dir noch schnell ihre modische Outdoorjacke und dein Schiffsticket. ",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_scholle": {
+      "German": "Dein Unterstützer Leutnant Scholle gibt dir noch schnell sein reissfestes Netz und dein Schiffsticket. ",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_rich": {
+      "German": "Dein Unterstützer Mr. Rich Wealth gibt dir noch schnell dein Schiffsticket.",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_crowd": {
+      "German": "Deine Unterstützer Geschwister Crowd & Funding geben dir noch schnell ihr Multitool und dein Schiffsticket. ",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_none": {
+      "German": "Aber die Geschwister Crowd & Funding sind so von dir überzeugt, dass sie dich unterstützen möchten. Sie geben dir ihr Multitool und dein Schiffsticket. ",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   },
+   "notfall_1": {
+      "German": "Vergiss nicht, dir den Speichercode [color=#0000FF]aufzuschreiben[/font]!",
+      "Englisch": "",
+      "French": "",
+      "Spain": ""
+   }
+}

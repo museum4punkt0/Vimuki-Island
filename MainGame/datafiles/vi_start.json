@@ -1,0 +1,626 @@
+{
+  "vi_spon_0": {
+    "German":"Du hast es geschafft. Die Mühe hat sich gelohnt, du konntest",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_spon_1": {
+    "German":"von dir überzeugen. So hast du dir und deinen Freund:innen Chad und Suzan die Reise zur Vimuki Insel ermöglicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_scholle_0": {
+    "German":"Du stehst mit festen Füßen an Deck des riesigen Trawlers, einem Schiff, welches vor allem für die Hochseefischerei eingesetzt wird.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_scholle_1": {
+    "German":"Jedoch ist Scholles Schiff für die Forschung umkonstruiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_scholle_2": {
+    "German":"Um dich herum befinden sich viele Fischer:innen und Meeresbiolog:innen, die bereits in den frühen Morgenstunden ihre Arbeit aufgenommen haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_scholle_3": {
+    "German":"Natürlich hat es sich Scholle selbst nicht nehmen lassen dich auf deiner Reise zu begleiten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_scholle_4": {
+    "German":"Der Leutnant steht bereits wach an Deck und raucht genüsslich seine morgendliche Pfeife.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rush_0": {
+    "German":"Du befindest dich auf einer Privatjacht, die zur Ausstattung der Modeagentur RusH gehört.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rush_1": {
+    "German":"Ravina hat darauf bestanden, dass ihre Kleidung trocken und natürlich in einem Stück auf der Insel ankommt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rush_2": {
+    "German":"Das Deck ist extravagant gestaltet und mit zahlreichen Zierpflanzen geschmückt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rush_3": {
+    "German":"Der Wind weht dir ins Gesicht und du lächelst selbstsicher deinem Abenteuer auf der VIMUKI-Insel entgegen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_crowd_0": {
+    "German":"Um dich herum stehen viele verschiedenfarbige Container, welche auf dem Deck des riesigen Frachtschiffes gestapelt sind.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_crowd_1": {
+    "German":"Durch deine Unterstützer:innen Mrs. Crowd und Mr. Funding standen dir verschiedene Frachtschiffe und Routen zur Verfügung, welche du zusammen mit der teuren Fracht begleitest.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_crowd_2": {
+    "German":"Dadurch verzögert sich deine Anreise um einige Tage, da das Schiff davor mehrere Stationen und Häfen anfahren muss.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_crowd_3": {
+    "German":"Erst dann, kann der riesige Frachter die VIMUKI-Insel erreichen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_0": {
+    "German":"Dr. Wealth hat dafür gesorgt, dass du zusammen mit deinen Freund:innen auf einer der fortschrittlichsten Fähren unterkommst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_1": {
+    "German":"Die Besatzung bereitet bereits das Frühstück für die wenigen Reiseteilnehmer:innen vor.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_2": {
+    "German":"Die Schiffsroute verläuft über den ganzen Erdball.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_3": {
+    "German":"Ihr seid auf einem abenteuerlichen Kreuzfahrtschiff gelandet. Doch das ist kein Problem, denn das Schiff macht auf seiner Route an der VIMUKI-Insel halt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_4": {
+    "German":"Nur für euch drei soll das Schiff auf seiner Fahrt für wenige Augenblicke gestoppt werden, damit ihr von Board auf die Insel gelangt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_wo_rich_5": {
+    "German":"Dr. Wealth hat besonders viel Wert darauf gelegt, dass so wenig Menschen wie möglich das unberührte Paradies der Insel stören.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_spon_2": {
+    "German":"Du hast beschlossen jetzt schon einige Bilder von dem Schiff zu schießen auf dem du unterwegs bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_0": {
+    "German":"Im Ozean wurde fernab von jeglicher Zivilisation eine neue Insel entdeckt, die noch nie von einem Menschen betreten wurde.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_1": {
+    "German":"Schon in frühen Zeitungsberichten wurde sie als ein Paradies für viele Tiere, Pflanzen und junge Abenteurer:innen beschrieben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_2": {
+    "German":"Auch wenn noch keiner die Gelegenheit hatte sie zu bereisen, ist die Vimuki-Insel bereits in aller Munde.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_3": {
+    "German":"Doch um sie zu bereisen, fehlt Vielen das nötige Kleingeld.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_4": {
+    "German":"Deswegen hast du dich mit deinen Freund:innen Suzan und Chad zusammengeschlossen und viele Monate geschuftet, Geld beiseite gelegt und an jeder Ecke gespart.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_5": {
+    "German":"Chad hat sogar alleine dafür auf seine teuren Designer-Jacken verzichtet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_6": {
+    "German":"Mit Mühe und Not hast du deinen Koffer gepackt und dabei beinahe deine Fähre verpasst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_7": {
+    "German":"Diese legt bereits in aller Frühe vom Hafen ab.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_8": {
+    "German":"Deine Freund:innen sind in der Kajüte geblieben um noch etwas Schlaf nachzuholen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_9": {
+    "German":"Du hingegen bist zu aufgeregt dafür.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_10": {
+    "German":"Du hast beschlossen schon jetzt einige Bilder von dem Kutter zu schießen, auf dem du unterwegs bist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_11": {
+    "German":"Schließlich ist die Reise nicht nur zu Urlaubszwecken angedacht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_alone_12": {
+    "German":"Man könnte sagen, du bist auf Geschäftsreise, oder zumindest so ähnlich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_task_0": {
+    "German":"Zu dritt habt ihr eine Woche Zeit, um genügend Fotografien von der Insel zu schießen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_task_1": {
+    "German":"Schließlich müsst ihr eure Fotos in eurer gemeinsamen Ausstellung vor einem großen, interessierten und vor allem erwartungsvollen Publikum präsentieren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_task_2": {
+    "German":"Du schluckst schwer bei diesem Gedanken, aber das ist eure große Chance!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_task_3": {
+    "German":"Schließlich hast du die Fotografie zu deiner persönlichen Kunstform weiterentwickelt und du hoffst deine eigene Handschrift auf der Reise zu finden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_task_4": {
+    "German":"Nach einiger Zeit auf Deck kehrst du zu deinen Freund:innen in die Kabine zurück.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_0": {
+    "German":"Dein Weg führt dich ins Schiffsinnere. Die Gänge sind eng und von der Besatzung quasi überflutet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_1": {
+    "German":"Du kommst vor deiner Kabinentür zum stehen und betrittst den kleinen Bereich den ihr zu Dritt als Schlafplatz nutzen dürft.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_2": {
+    "German":"Der Raum, in dem ihr untergebracht wurdet, ist eigentlich groß genug für euch drei.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_3": {
+    "German":"Jedoch hat Scholle den Raum so sehr mit verschiedenen Kartons und technischen Geräten zugestellt, dass ihr euch um die Sachen herum einrichten müsst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_4": {
+    "German":"Ein Hochbett mit zwei frisch gemachten Betten ist euch zur Verfügung gestellt worden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_5": {
+    "German":"Als Ausgleich für den Mangel an Betten hat man ein altes, aber noch kräftiges Fischernetz zu einer Hängematte umfunktioniert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_6": {
+    "German":"Chad lässt sich seit einigen Tagen genüsslich von den Wellen hin und her schaukeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_7": {
+    "German":"Suzan besetzt den oberen Teil des Etagenbettes und hat in der kleinen Zeit ihr eigenes Reich aufgebaut.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_8": {
+    "German":"Überall liegen Bücher und Notizhefte herum, genauso wie einige Abzüge ihrer Fotos, die sie zu einer Collage zusammengebastelt hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_scholle_9": {
+    "German":"Du gesellst dich zu ihnen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_0": {
+    "German":"Du gehst unter Deck und findest dich in dem vornehm und gemütlich eingerichteten Inneren der Yacht wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_1": {
+    "German":"Die Gänge sind auf Hochglanz poliert und die Wände wurden in einem leuchtenden Weißton gestrichen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_2": {
+    "German":"Es dauert nicht lange, bis du zu deiner Kabine gelangst, die beinahe die Größe einer eigenen kleinen Wohnung hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_3": {
+    "German":"Du öffnest die Tür und trittst ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_4": {
+    "German":"Im Inneren eures Reiches befinden sich drei Einzelzimmer, welche in einem kleinen Gemeinschaftsraum münden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_5": {
+    "German":"Hier ist sogar genug Platz für einen Tisch und mehrere Sitzgelegenheiten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_6": {
+    "German":"Ein großes Fenster lässt Licht in den Raum fallen und bietet einen Ausblick auf die ruhige See.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rush_7": {
+    "German":"Chad und Suzan haben sich zu einem Kartenspiel an den Tisch gesetzt, unterbrechen dieses aber, als sie dich sehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_0": {
+    "German":"Im Schiffsinneren machst du dich auf die Suche nach der Kabine mit der Nummer 512.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_1": {
+    "German":"Die Ähnlichkeit der Türen erschwert dir leider die Suche, weshalb du nicht nur einmal am falschen Zimmer klopfst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_2": {
+    "German":"Zum Glück haben dir freundliche Schiffsarbeiter:innen den Weg zu deinem Zimmer gezeigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_3": {
+    "German":"Du atmest erleichtert aus, als du die Kabinentür öffnest und eintrittst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_4": {
+    "German":"In der kleinen Kabine stehen zwei Hochbetten, die ihr besetzt habt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_5": {
+    "German":"Du nimmst auf dem Bett zu deiner linken Platz, welches für einige Zeit dein Schlafplatz geworden ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_6": {
+    "German":"Suzan hat sich das Bett über dir genommen, um am Abend besser lesen zu können, da die Beleuchtung in eurem Zimmer oft sehr schwach gewesen ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_7": {
+    "German":"Auf der anderen Seite des Zimmers hat sich Chad seinen 'Chad-Wohlfühl-Bereich' errichtet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_8": {
+    "German":"Er läuft über vor weichen Decken und Kissen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_crowd_9": {
+    "German":"Über ihm besetzen eure Koffer und eure Ausrüstung das einzige andere freie Bett.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_0": {
+    "German":"Du schlenderst an der Reling entlang und beobachtest die Wellen, während du den Rückweg zu deiner Kabine suchst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_1": {
+    "German":"Zwischen den vielen Türen suchst du nach der richtigen Nummer deiner Kabine.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_2": {
+    "German":"Du bleibst vor einer dunklen Tür mit einer kleinen bronzenen Plakette stehen, welche die Nummer 606 zeigt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_3": {
+    "German":"Du öffnest die schwere Tür und betrittst eine kleine Wohnung, die extra für euch drei eingerichtet wurde.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_4": {
+    "German":"Die Kabine ist luxuriös eingerichtet und verfügt über ein Schlafzimmer mit drei einzelnen Betten und einen kleinen Wohn- und Essbereich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_5": {
+    "German":"Diesen habt ihr bereits für Spieleabende und mitternächtliche Snackpausen genutzt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_6": {
+    "German":"Als du eintrittst, schauen deine Freund:innen auf und begrüßen dich mit einem Lächeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_rich_7": {
+    "German":"Das Radio im Raum spielt entspannende Musik und das Sonnenlicht scheint durch die dünnen Vorhänge in den Raum hinein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_0": {
+    "German":"Du gehst ins Innere des Schiffes, vorbei an den Kabinen der Reisenden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_1": {
+    "German":"Leider hat euer Budget nur für einen kleinen Raum im Bauch des Schiffes gereicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_2": {
+    "German":"Du brauchst einige Zeit, um durch den verwinkelten Gang zu einer kleinen schwarzen Tür zu kommen, welche gerade mal so breit ist wie du selbst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_3": {
+    "German":"Du öffnest die schwere Eisentür und trittst in einen kleinen Raum ein, in dem nur euer Gepäck und ein einzelnes Etagenbett passt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_4": {
+    "German":"Trotzdem seid ihr froh, dass ihr die Reise mit eurer eigenen harten Arbeit organisieren konntet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_5": {
+    "German":"Du quetschst dich durch die Tür in den kleinen, vollen Raum, während du fast über Chads Füße stolperst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_6": {
+    "German":"Dieser hat sich auf euren Koffern einen kleinen Schlafplatz eingerichtet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_7": {
+    "German":"Da es in diesem Abteil nur zwei Betten gibt, habt ihr es von Anfang an diplomatisch geregelt, wer auf dem Boden schlafen muss.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_8": {
+    "German":"Selbstverständlich habt ihr dafür ein Schnick-Schnack-Schnuck Spiel gewählt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_9": {
+    "German":"Da jeder von euch weiß, dass Chad nur Stein als Option nimmt, ist die Auswahl nicht besonders schwer gewesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_10": {
+    "German":"Suzan hat sich das obere Etagenbett genommen, während du dich mit dem unteren Bett zufrieden gegeben hast.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_11": {
+    "German":"Suzan hat gerade darauf Platz genommen und säubert die Linse ihrer Kamera.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_way_alone_12": {
+    "German":"Du gesellst dich zu ihnen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_0": {
+    "German":"Du betrachtest deine Freund:innen und Arbeitskolleg:innen mit einem glücklichen Lächeln.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_1": {
+    "German":"Chad - oder Action-Chad wie er sich nennt - ist ein fabelhafter Künstler mit einer nicht unbeachtlichen Menge an Follower:innen und Unterstützer:innen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_2": {
+    "German":"Seine Fotos sind in allen Netzwerken der totale Hit und dafür legt er sich auch gewaltig ins Zeug.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_3": {
+    "German":"Keine Idee ist zu dumm und kein Plan ist zu gefährlich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_4": {
+    "German":"Suzan dagegen ist wie du findest ein Geheimtipp, den nur wenige wirklich wahrgenommen haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_5": {
+    "German":"Ihre Naturfotografien haben eine gewisse Leichtigkeit und du wunderst dich manchmal, warum sie nicht mehr Leute damit auf sich aufmerksam machen kann.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_6": {
+    "German":"Ihr habt euch bereits in der Schule kennengelernt und relativ schnell angefreundet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_7": {
+    "German":"Auch wenn es ab und an Uneinigkeiten gibt, ist eure Wohngemeinschaft eine wahre Bereicherung für euch alle.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_8": {
+    "German":"Na, genug Luft geschnappt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_9": {
+    "German":"Wir haben überlegt, ob wir dich suchen sollen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_10": {
+    "German":"Du nimmst neben den beiden Platz.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_11": {
+    "German":"Die Besatzung meinte, dass wir heute bei der VIMUKI-Insel ankommen werden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_12": {
+    "German":"Ein Glück, ey... Mein Magen verträgt dieses Geschaukel nicht…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_13": {
+    "German":"Fast wie aufs Stichwort ertönt eine laute Ansage durch das gesamte Schiff.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "vi_all_14": {
+    "German":"Eine nasale Stimme informiert euch darüber, dass das Schiff nun an der VIMUKI-Insel angekommen ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

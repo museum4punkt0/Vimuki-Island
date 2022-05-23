@@ -1,0 +1,536 @@
+{
+   "t_se_1_9": {
+      "German": "Ihr bemerkt sofort, dass hier die Temperatur etwas wärmer wird. Das bedeutet, der Ausgang kann nicht weit entfernt sein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_10": {
+      "German": "Allerdings hält eure Freude nicht lange an, denn im hinteren Teil der Höhle bemerkt ihr eine kurze Bewegung. Sofort verstummt ihr.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_11": {
+      "German": "Ein langgezogenes, tiefes Ausatmen gefolgt von mehreren kurzen Schnarchern schallt durch den Raum. Verdammt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_12": {
+      "German": "Was war das denn für ein Ding?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_13": {
+      "German": "Ist das ein Bär?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_14": {
+      "German": "Das sieht irgendwie aus wie ein Säbelzahntiger!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_15": {
+      "German": "Plötzlich weht euch ein kleiner Lufthauch entgegen und ihr könnt entfernt das Zwitschern von Vögeln vernehmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_16": {
+      "German": "Dort! Direkt hinter dem Bären. Das muss der Ausgang sein!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_17": {
+      "German": "Aber dafür müsstet ihr an der gewaltigen Bestie vorbei. Wie wollt ihr das anstellen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_o1": {
+      "German": "Auf Zehenspitzen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_o2": {
+      "German": "Kriechend",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_o3": {
+      "German": "Gegen die Wand drücken",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_0": {
+      "German": "Auf Zehenspitzen, Leute!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_1": {
+      "German": "Überzeugt folgst du Chad auf Zehenspitzen durch den Raum. Ihr beide strebt den kürzesten Weg an, direkt am Bären vorbei!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_2": {
+      "German": "Suzan dagegen traut sich nicht richtig. Sie macht einen großen Bogen um das schlafende Tier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_3": {
+      "German": "Allerdings habt ihr eine Sache nicht in eurem lückenlosen Plan bedacht, nämlich die Geräusche, die ihr dabei macht!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_4": {
+      "German": "Jedes Knirschen der Steine unter euren Füßen und Knacken des Laubes, mit denen sich der Bär hier seinen Schlafplatz errichtet hat, könnte euch verraten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_5": {
+      "German": "Ihr werdet langsamer und vorsichtiger!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_6": {
+      "German": "Nervös kommt ihr nach Suzan auf der anderen Seite der Höhle an. Es ist geschafft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_7": {
+      "German": "DAS ist doch nochmal gut gegangen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r1_8": {
+      "German": "Er atmet geräuschvoll aus, der Druck fällt von ihm ab. Doch hinter euch regt sich etwas. Der Bär ist aufgewacht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_0": {
+      "German": "Natürlich! Ihr müsst an dem Bären nur vorbeikriechen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_1": {
+      "German": "Wenn er wach wird, wird er euch sicher auf dem dunklen Steinboden nicht entdecken können!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_2": {
+      "German": "Genialer Plan. Nacheinander beginnt ihr über den dreckigen Boden zu kriechen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_3": {
+      "German": "Vorsichtig kriechst du an dem schlafenden Gesicht des Tieres vorbei, welches sich gerade zu dir gedreht hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_4": {
+      "German": "Du kannst den warmen Atem in deinem Gesicht spüren. Plötzlich erstarrst du.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_5": {
+      "German": "Die Nase des Säbelzahnbären beginnt sich zu regen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_6": {
+      "German": "Er schnüffelt während seine Augen sich langsam öffnen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_7": {
+      "German": "Du gerätst innerlich in Panik und versteifst dich. Vielleicht, wenn du ganz still liegst, kann er dich nicht sehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_8": {
+      "German": "Aber ein Bär ist kein Dinosaurier. Und das funktioniert nur in Filmen. Der Bär entdeckt euch und brummt missmutig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r2_9": {
+      "German": "Erschrocken springt ihr von ihm weg.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_0": {
+      "German": "Lasst uns an der Wand entlang gehen! Je weiter wir von dem Tier weg sind, desto besser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_1": {
+      "German": "Ihr nickt Suzan zu und drängt euch mit dem Rücken an die Wand, während ihr langsam an ihr die Höhle durchquert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_2": {
+      "German": "Möglichst geräuschlos schiebt ihr euch weiter an der kühlen Wand entlang.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_3": {
+      "German": "Es klappt! Es klappt fantastisch.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_4": {
+      "German": "Ihr werdet immer mutiger mit euren Schritten und kommt immer schneller voran. Der Bär hingegen atmet nur gemächlich ein und aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_5": {
+      "German": "Ihr werdet unvorsichtiger, was dazu führt dass ihr über eure eigenen Beine stolpert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_6": {
+      "German": "Mit einem lauten Aufprall findet ihr euch auf dem erdigen Boden wieder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d8_r3_7": {
+      "German": "Verdammt! Geschockt schaut ihr zum Säbelzahnbären hinauf, der aus seinem Traum gerissen wurde und euch nun direkt entgegenblickt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_18": {
+      "German": "Die gewaltige Bestie schaut euch mit blutunterlaufenen, müden Augen an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_19": {
+      "German": "Gereizt verzieht der Bär das Gesicht bevor er ungehalten anfängt zu knurren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_20": {
+      "German": "Er ist so gar nicht davon begeistert, dass ihr ihn geweckt habt. Er richtet sich auf und hebt seine Pranken in die Luft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_21": {
+      "German": "Ihr müsst schnell auf diese Situation reagieren! Was tut ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_o1": {
+      "German": "Reden",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_o2": {
+      "German": "Verteidigen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_o3": {
+      "German": "Weglaufen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_0": {
+      "German": "Ihr versucht eine Konversation mit dem Bären zu führen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_1": {
+      "German": "Hören Sie ... Herr oder Frau Bär, wir wollten sie sicherlich nicht wecken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_2": {
+      "German": "Ja Dicker! Du liegst direkt vor dem Ausgang und versperrst den Weg.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_3": {
+      "German": "Wie sollen wir denn sonst an dir vorbei? Such dir doch ein besseres Schlafzimmer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_4": {
+      "German": "Suzan schaut Chad strafend an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_5": {
+      "German": "Was denn? Ich hab keinen Bock mehr auf diese Höhle! Wir irren schon seit Stunden rum! Ich will ein Bad nehmen und dann schlafen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_6": {
+      "German": "Was CHAD sagen will ist, dass wir uns verlaufen haben. Ist das der richtige Weg aus der Höhle?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_7": {
+      "German": "Der Bär schaut euch angefressen an und verzieht die Lefzen. Und da fällt es dir wie Schuppen von den Augen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_8": {
+      "German": "Der Bär... er spricht ja gar nicht eure Sprache! Verdammt, kein Wunder, dass er nichts sagt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_9": {
+      "German": "Du fängst an Bärengeräusche zu machen und ihm die Lage zu erklären!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_10": {
+      "German": "Offensichtlich versteht er euch aber und zeigt genervt mit seiner Pranke auf den Ausgang!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_11": {
+      "German": "Verschwindet von hier!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_12": {
+      "German": "Ihr geht verunsichert seiner Handgeste nach und findet schnell den Weg aus der Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_13": {
+      "German": "Seltsam, der war ja gar nicht aggressiv und bösartig. Der Bär wollte wohl nur seine Ruhe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_14": {
+      "German": "Zum Glück habt ihr dieses Abenteuer überlebt! Dabei findet ihr heraus, dass ihr direkt neben dem Gang herauskommt, an dem ihr ursprünglich gestartet seid!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r1_15": {
+      "German": "Suzan markiert diesen mit einem Bärensymbol! Schließlich wollt ihr den Bären nicht erneut bei eurer nächsten Höhlenerforschung wecken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_0": {
+      "German": "Ein Angriff! Ihr bereitet euch darauf vor, euch verteidigen zu müssen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_1": {
+      "German": "Na komm nur her, du Fellball! Mit dir nehme ich es doch locker zweimal auf!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_2": {
+      "German": "Der Bär schaut Chad nur unbeeindruckt entgegen und nähert sich langsam seinem Gesicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_3": {
+      "German": "Chad hält die Fäuste vor sich und fängt an wie ein Profiboxer hin und her zu springen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_4": {
+      "German": "Suzan weicht mit dir ein wenig zurück. Was würde jetzt passieren? Würde der Bär euch anfallen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_5": {
+      "German": "Für einen kurzen Moment klappt der Bär sein riesiges Maul auf und fängt an euch laut entgegenzubrüllen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_6": {
+      "German": "Ein warmer Luftschwall und der Geruch von stinkendem Atem weht euch entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_7": {
+      "German": "Jeder von euch blickt bleich der Gefahr entgegen. Ihr müsst weg von hier! Sofort!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_8": {
+      "German": "Alter hast du noch nie etwas von Zähneputzen gehört?! Das ist ja abartig, Junge!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_9": {
+      "German": "Bevor Chad den Bären noch weiter provozieren kann, packst du ihn am Kragen und ziehst ihn mit eiligen Schritten zum Ausgang.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_10": {
+      "German": "Suzan ruft dem Bären noch ein letztes Mal etwas zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_11": {
+      "German": "TUT UNS LEID!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_12": {
+      "German": "Draußen angekommen müsst euch für einen Moment setzen. Der Schreck steckt euch noch immer in den Knochen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_13": {
+      "German": "Ihr seid mit dem Leben davongekommen. Zumindest dieses Mal! Rückblickend betrachtet, müsst ihr zugeben, dass der Bär eigentlich ganz und gar nicht aggressiv war.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_14": {
+      "German": "Er war nur ein wenig ungehalten darüber, dass ihr ihn aus seinen Träumen gerissen habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_15": {
+      "German": "Gut. Wo seid ihr jetzt? Ihr stellt fest, dass ihr direkt neben dem Gang herauskommt, an dem ihr ursprünglich gestartet seid!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r2_16": {
+      "German": "Suzan markiert diesen mit einem Bärensymbol! Schließlich wollt ihr den Bären nicht erneut bei eurer nächsten Höhlenerforschung wecken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_0": {
+      "German": "Ihr fangt an zu laufen und gebt dem Bären keine Zeit zu reagieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_1": {
+      "German": "Eure Füße tragen euch instinktiv Weg von der Gefahr!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_2": {
+      "German": "Der Bär schaut euch verdattert nach. Was sollte das denn jetzt? Erst einen wecken und dann nur weglaufen?! Das ist furchtbar unhöflich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_3": {
+      "German": "Eure Schreie verklingen, je näher ihr dem Ausgang der Höhle kommt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_4": {
+      "German": "Draußen angekommen atmet ihr gestresst ein und aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_5": {
+      "German": "Ihr seid wohl gerade so dem sicheren Tod entkommen! Zum Glück habt ihr dieses Abenteuer überlebt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_6": {
+      "German": "Ihr schaut euch am Ausgang um, schließlich müsst ihr euch orientieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_7": {
+      "German": "Dabei findet ihr heraus, dass ihr direkt neben dem Gang herauskommt, an dem ihr ursprünglich gestartet seid!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_d9_r3_8": {
+      "German": "Suzan markiert diesen mit einem Bärensymbol! Schließlich wollt ihr den Bären nicht erneut bei eurer nächsten Höhlenerforschung wecken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_1_bear": {
+      "German": "Säbelzahnbär",
+      "English": "",
+      "French": "",
+      "Spain": ""
+   }
+}

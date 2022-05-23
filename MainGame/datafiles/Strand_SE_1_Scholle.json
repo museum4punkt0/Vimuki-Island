@@ -1,0 +1,860 @@
+{
+   "s_se_1_teil3_0": {
+      "German": "Wacht auf, ihr Torfnasen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_1": {
+      "German": "Träge und angeschlagen öffnest du deine Augen. Was ist passiert?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_2": {
+      "German": "Du erinnerst dich dunkel daran, dass du von einer Kreatur in die Tiefe gezogen wurdest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_3": {
+      "German": "Moment. Du bist doch unter Wasser?! Du schnappst erschrocken nach Luft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_4": {
+      "German": "Aber aus irgendeinem Grund ertrinkst du nicht? Vielleicht bewirkt eine Art Zauber ja,dass du jetzt unter Wasser atmen kannst?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_5": {
+      "German": "Aber die viel wichtigere Frage ist: WAS macht Lieutenant Scholle hier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_6": {
+      "German": "Auch Chad und Suzan kommen neben dir langsam zu sich.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_7": {
+      "German": "Leutnant Scholle, was machen sie denn hier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_8": {
+      "German": "Ha! Ich will meine Liebste erobern! Und ihr scheint das ja auch zu wollen. Sonst wärt ihr ja nicht hier!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_9": {
+      "German": "Seine Liebste? Ihr schaut ihn perplex an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_10": {
+      "German": "Wie? Ich meine damit meine süße Flosse, meine seichte Welle! Meine Meernixen Prinzessin.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_11": {
+      "German": "Alter, ich hab keine Ahnung wovon du redest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_12": {
+      "German": "Ihr seid wirklich nur zufällig hier?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_13": {
+      "German": "Scholle erklärt euch, dass ihr euch in einer Arena befindet, die mitten in der Stadt der Meermenschen errichtet wurde.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_14": {
+      "German": "Natürlich will sich Scholle für seine Angebetete beweisen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_15": {
+      "German": "Beim heutigen Arenakampf, werde ich ihr Herz erobern!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_16": {
+      "German": "Einen Kampf?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_17": {
+      "German": "Der jährliche Wettkampf der Landmenschen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_18": {
+      "German": "Seid ihr deshalb hier? Eine hektisch anschwimmende Wache reißt dich aus deinen Gedanken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_19": {
+      "German": "Huch es geht ja schon los! Viel Glück ihr Grünschnäbel!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_20": {
+      "German": "Die Wache zieht euch in Ketten in die Richtung der Arena. Du versuchst mit ihr zu reden, aber leider wirst du eiskalt ignoriert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_21": {
+      "German": "Nach einem langen und stillen Gang durch die Flure des Gefängnisses, wirst du letztendlich in die Arena geworfen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_22": {
+      "German": "Du schaust dich um und siehst vor dir einen sandigen Platz. Ein Haufen Meermenschen sitzt über euch auf den Tribünen und jubelt bei eurem Anblick.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_23": {
+      "German": "Sie können es kaum erwarten einen echten Kampf zu sehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_24": {
+      "German": "Ein Ansager kündigt dich an und auch deine Gegner:in. Es ist.... Leutnant Scholle?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_25": {
+      "German": "Mach dich auf was gefasst, du Jungspund! Ich bin bereit um die Hand meiner Süßen zu kämpfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_26": {
+      "German": "Scholle tritt dir selbstbewusst entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_27": {
+      "German": "Der Ansager wirft eine Münze und zeigt anschließend auf dich. Anscheinend sollst du die Art des Wettkampfes bestimmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_28": {
+      "German": "Na, wie siehts aus? Worin willst du dich mit Scholle messen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_o1": {
+      "German": "Faustkampf",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_o2": {
+      "German": "Wettschwimmen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_0": {
+      "German": "Du kämpfst mit purer Körperkraft gegen Scholle. Was soll ein alter Mann schon gegen dich ausrichten?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_1": {
+      "German": "Doch da reißt sich Scholle auch schon seine Jacke vom Leib. Auf einmal wirkt er gar nicht mehr so alt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_2": {
+      "German": "Die brutalen Fahrten auf See haben seinen Körper gestählt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_3": {
+      "German": "Grinsend spannt er seine Muskeln an, um der Dame seiner Begierde zu gefallen. Er zwinkert ihr galant zu. Die Menge tobt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_4": {
+      "German": "Erst jetzt bekommst du sie richtig zu sehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_5": {
+      "German": "Sie thront zwischen einem älteren, großen Meermann, der einen Dreizack in seiner rechten Hand hält, und einer edlen und ernst schauenden Meerfrau.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_6": {
+      "German": "Uff. Da hat sich der alte Seebär aber etwas eingebrockt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_7": {
+      "German": "Zumindest scheint die Prinzessin von dem Seefahrer angetan zu sein, denn sie wirft ihm einen kleinen Luftkuss zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_8": {
+      "German": "Für diesen, wird sie aber sogleich von ihren Eltern missbilligend angeschaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r1_9": {
+      "German": "Aber es bleibt dir keine Zeit zum Nachdenken. Scholle steuert auf dich zu und holt weit aus. Schnell, du musst reagieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_o1": {
+      "German": "Deine geheime Kampfkunsttechnik!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_o2": {
+      "German": "Boxen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r1_0": {
+      "German": "Du weichst aus, Scholle zischt an dir vorbei und.... stolpert über deinen Fuß, den du ihm hinterlistig in den Weg gestellt hast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r1_1": {
+      "German": "Du nutzt die Gelegenheit und setzt dich auf ihn drauf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r1_2": {
+      "German": "He! Das ist doch kein anständiger Faustkampf! Geh runter von mir!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r1_3": {
+      "German": "Scholle versucht sich von dir zu lösen, doch du bleibst felsenfest auf ihm sitzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r2_0": {
+      "German": "Du holst weit aus und versuchst Scholle in den Bauch zu treffen. Doch Scholle weicht dir geschickt aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r2_1": {
+      "German": "Wie ein Blitz setzt er zu einem Konter an und trifft dich in die Seite. Spöttisch schaut er dich an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r2_2": {
+      "German": "War das etwa schon alles?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d2_r2_3": {
+      "German": "Nein, das war natürlich noch nicht alles. Diesmal wirst du treffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_o1": {
+      "German": "Scholle austricksen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_o2": {
+      "German": "Scholle treten",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_0": {
+      "German": "Der stürmische Scholle stellt sich breitbeinig vor dich. Es gibt nun kein Entkommen mehr.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_1": {
+      "German": "Da fällt dir etwas auf, was ihn vielleicht ablenken könnte.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_2": {
+      "German": "Du sagst ihm, dass hinter ihm noch eine schönere Prinzessin im Publikum steht!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_3": {
+      "German": "HA! Willst du mich wirklich mit so einem alten Trick reinlegen, du Grünschnabel? Außerdem habe ich nur Augen für mein Seesternchen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_4": {
+      "German": "Du bestehst darauf, dass sich der Seemann umdreht. Widerwillig kommt Scholle deiner Bitte nach und blinzelt entsetzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_5": {
+      "German": "Denn du hast Scholle nicht angelogen, hinter ihm sitzt wirklich eine weitere Prinzessin aus einem anderen Meeresvolk.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_7": {
+      "German": "Es ist die Prinzessin der Landfische. Sie pfeift Scholle hinterher und schwingt ihre üppigen Hüften.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_8": {
+      "German": "Heilige Makrele, die schon wieder! Die verfolgt mich ja überall hin!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_9": {
+      "German": "In diesem Moment ziehst du Scholle zu Boden und setzt dich auf ihn drauf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r1_10": {
+      "German": "Scholle versucht sich von dir zu lösen, doch du bleibst felsenfest auf ihm sitzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r2_0": {
+      "German": "Du versuchst Scholle zu treten, doch leider hast du vergessen, dass du dich unter Wasser befindest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r2_1": {
+      "German": "Statt Scholle zu treten, drückst du dich im Wasser ab und schwimmst ein Stück nach oben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r2_2": {
+      "German": "Scholle hat nun leichtes Spiel. Er packt dich am Bein und zieht dich hinunter.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r2_3": {
+      "German": "Mit seinen starken Armen drückt er dich zu Boden und du musst zugeben, dass dieser Mann ein gewaltiges Gewicht auf die Waage bringt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d3_r2_4": {
+      "German": "Was hattest du denn vor, kleine Landratte?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_0": {
+      "German": "So ein alter Mann kann doch bestimmt nicht schnell schwimmen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_1": {
+      "German": "Zuversichtlich grinst du, als ihr euch in die Schwimmuniformen schmeißt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_2": {
+      "German": "Doch unter Scholles Highspeed-Schuppenanzug befinden sich nur stahlharte Muskeln. Auf einmal wirkt er gar nicht mehr so alt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_3": {
+      "German": "Die brutalen Fahrten auf See haben ihn richtig abgehärtet. Er zwinkert hoch in die Menge.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_4": {
+      "German": "Du folgst seinem Blick bis hin zu einer schönen Meerjungfrau.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_6": {
+      "German": "Erst jetzt bekommst du sie richtig zu sehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_7": {
+      "German": "Sie thront zwischen einem älteren großen Meermann, der einen Dreizack in seiner rechten Hand hält, und einer edlen und ernst schauenden Meerfrau.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_8": {
+      "German": "Geschmeichelt schaut sie mit roten Wangen zur Seite, wofür sie von ihren Eltern nur missbilligend betrachtet wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_9": {
+      "German": "Ihr begebt euch an die Startposition. Scholle dreht sich zu dir um.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_10": {
+      "German": "Aye, Haihappen, dann zeig mal, wie gut du schwimmen kannst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_11": {
+      "German": "Und wie du es ihm zeigen wirst!! Zum Glück wurde in diesem Wettbewerb kein Schwimmstil vorgegeben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d1_r2_12": {
+      "German": "Also, wie kannst du am besten gewinnen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_o1": {
+      "German": "Delphin schwimmen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_o2": {
+      "German": "Rückenschwimmen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_0": {
+      "German": "Plötzlich ertönt der Startschuss.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_1": {
+      "German": "Scholle stößt sich mit aller Kraft vom Boden ab und schwimmt direkt auf die Ziellinie zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_2": {
+      "German": "Aber auch du reagierst schnell auf das Startsignal und bleibst dem alten Mann dicht auf den Fersen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_3": {
+      "German": "Wie ein Fisch schwimmst du graziös durch das Wasser und langsam an Scholle vorbei.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_4": {
+      "German": "HA! Du bist ja doch nicht so ein Grünschnabel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r1_5": {
+      "German": "Du schwimmst genau auf die Ziellinie zu und…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_0": {
+      "German": "Plötzlich ertönt der Startschuss.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_1": {
+      "German": "Ihr stoßt euch beide vom Boden ab. Dabei gelingt es dir schneller zu reagieren, als dem ruppigen Seemann.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_2": {
+      "German": "Während du nach vorne schnellst, drehst du dich auf den Rücken. Im Rückenschwimmen bist du schon immer ein Meister gewesen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_3": {
+      "German": "Außerdem kannst du so deinen Gegner immer im Blick behalten! Du schießt auf die Ziellinie zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_4": {
+      "German": "Der Sieg ist dir gewiss! Auf einmal wird dir schwindelig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_5": {
+      "German": "Unter Wasser auf dem Rücken zu schwimmen ist fast so, als würdest auf dem Rücken durch die Luft fliegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_6": {
+      "German": "Alles sieht auf einmal gleich aus und du verlierst völlig die Orientierung.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_7": {
+      "German": "Das nutzt der Seemann natürlich schamlos aus. Scholle schwimmt an dir vorbei.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_8": {
+      "German": "Was machst du denn, du Grünschnabel?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d4_r2_9": {
+      "German": "Der Leutnant nähert sich schnell dem Ziel. Du musst sofort etwas tun. Doch was?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_o1": {
+      "German": "Geheime Schwimmtechnik",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_o2": {
+      "German": "Scholle ablenken",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_0": {
+      "German": "Fix drehst du dich wieder mit dem Bauch nach unten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_1": {
+      "German": "Der Leutnant liegt bereits weit vor dir, es gibt nur noch eine Sache, die du tun kannst, um jetzt noch zu gewinnen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_2": {
+      "German": "Du musst ihn irgendwie ablenken, um dir so genug Zeit zu verschaffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_3": {
+      "German": "Und wie könntest du ihn besser ablenken, als mit noch einer anderen Prinzessin?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_4": {
+      "German": "Du deutest auf das Publikum und erzählst Scholle, dass sich hinter ihm noch eine Prinzessin im Publikum befindet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_5": {
+      "German": "HA! Willst du mich wirklich mit so einem alten Trick reinlegen, du Grünschnabel?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_6": {
+      "German": "Du bestehst darauf, dass sich der Seemann umdreht. Widerwillig kommt Scholle deiner Bitte nach und blinzelt entsetzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_7": {
+      "German": "Du hast Scholle nicht angelogen. Hinter ihm sitzt wirklich eine weitere Prinzessin aus einem anderen Meervolk.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_8": {
+      "German": "Es ist die Prinzessin der Landfische. Sie pfeift Scholle hinterher.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_9": {
+      "German": "Die schon wieder! Die verfolgt mich auch überall hin!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r1_10": {
+      "German": "Das ist deine Chance. Du schwimmst an dem verdutzten Scholle vorbei und genau auf die Ziellinie zu…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_0": {
+      "German": "Du wendest deine geheime Schwimmtechnik an, den turbulenten Korkenzieher. Durch diese Technik warst du in deiner Kindheit immer am schnellsten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_1": {
+      "German": "Mit ausgebreiteten Armen beginnst du dich um deine eigene Achse zu drehen. Nun siehst du aus wie ein Strudel, aber leider kommst du auch nicht vom Fleck.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_2": {
+      "German": "Scholle schwimmt gemächlich Richtung Ziel, während er dich mit einer hochgezogenen Augenbraue betrachtet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_3": {
+      "German": "Was soll das denn werden?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_4": {
+      "German": "Verdammt, deine Kindheitserinnerungen waren wohl doch mehr Fantasie, als Realität.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_d5_r2_5": {
+      "German": "Der Leutnant kommt vor dir im Ziel an und…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_0": {
+      "German": "Du gewinnst den Wettbewerb! Der Ansager krönt dich zum Sieger und stellt dir deinen Preis vor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_1": {
+      "German": "Du darfst dir alles vom Meereskönig wünschen, was dein Herz begehrt! Du schaust den armen Scholle an, der traurig unter sich schaut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_2": {
+      "German": "Großzügig schlägst du vor, dass du deinen Preis Scholle schenken willst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_3": {
+      "German": "Er kann ihn sicher besser gebrauchen als du. Außerdem fällt dir ja eh nichts ein, was du dir wünschst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_4": {
+      "German": "Dieser schaut dich erstaunt an, ist das wirklich dein Ernst? Grinsend schüttelt er dir die Hand mit festem Händedruck.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_5": {
+      "German": "Sogleich schaut er hoch zu der Tribühne und du bemerkst, dass die Prinzessin sich bereits von ihrem Platz erhoben hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_6": {
+      "German": "Sanft sinkt sie zu euch auf den Meeresboden hinab und schwimmt direkt in Scholles Arme.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_7": {
+      "German": "Plötzlich kniet sich der Seebär hin und schaut seiner Angebeteten tief in die Augen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_8": {
+      "German": "Enya, mein liebreizendes Seegürkchen. Willst du mir die Ehre erweisen und mich zum glücklichsten Seemann der Weltmeere machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_9": {
+      "German": "Die Spannung ist kaum auszuhalten. Doch die Prinzessin lächelt nur und nickt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_10": {
+      "German": "Anscheinend hat sie Leutnant Scholle bereits auf einem seiner Abenteuer kennengelernt und den alten Seebären bei seinen Reisen begleitet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_11": {
+      "German": "Sie haben wohl beide nur auf diesen Moment gewartet. Die Hochzeit soll schon morgen in der Nähe des VIMUKI Strandes stattfinden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_12": {
+      "German": "Natürlich wird für dich noch eine Siegesfeier geschmissen, bei denen sowohl du, als auch deine Freund:innen frei gelassen werden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_13": {
+      "German": "Wahrscheinlich hat Scholle auch eure Gefangennahme eingefädelt, der alte Luchs.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_gut_14": {
+      "German": "Ihr feiert noch ein wenig mit dem Meeresvolk und werdet danach von den Wachen wieder an den Strand eskortiert. Was für ein aufregender Tag.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_0": {
+      "German": "Scholle gewinnt den Wettbewerb! Der Ansager krönt den Leutnant zum Sieger.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_1": {
+      "German": "Scholle darf sich alles vom Meereskönig wünschen, was sein Herz begehrt! Das Publikum jubelt und die Prinzessin winkt Scholle stolz entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_2": {
+      "German": "Sie erhebt sich von ihrer Aussichtsplattform und schwimmt schnurstracks auf Scholle zu. Für seinen Sieg drückt sie ihm einen dicken Kuss auf die Stirn.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_3": {
+      "German": "Anscheinend hat sie Leutnant Scholle bereits auf einen seiner Abenteuer kennengelernt und den alten Seebären bei seinen Reisen begleitet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_4": {
+      "German": "Sie haben wohl beide nur auf diesen Moment gewartet. Plötzlich kniet sich der Leutnant hin und schaut seiner Angebeteten tief in die Augen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_5": {
+      "German": "Die Nixe schaut ihn erwartungsvoll aber nicht sehr überrascht an, anders als ihre Eltern und der Rest des Meervolkes.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_9": {
+      "German": "Enya, mein liebreizendes Seegürkchen. Willst du mir die Ehre erweisen und mich zum glücklichsten Seemann der Weltmeere machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_10": {
+      "German": "Die Spannung ist kaum auszuhalten. Doch die Prinzessin lächelt nur und nickt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_11": {
+      "German": "Die Menge tobt. Die Hochzeit soll schon morgen in der Nähe des VIMUKI Strandes stattfinden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_12": {
+      "German": "Natürlich wird noch eine Siegesfeier geschmissen, bei denen sowohl du, als auch deine Freund:innen frei gelassen werden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_teil3_schlecht_13": {
+      "German": "Ihr feiert noch ein wenig mit dem Meervolk und werdet danach von den Wachen wieder an den Strand eskortiert. Was für ein aufregender Tag.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

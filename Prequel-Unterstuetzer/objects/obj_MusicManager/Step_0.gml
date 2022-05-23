@@ -1,0 +1,1 @@
+global.isSoundPlaying = true; 

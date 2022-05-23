@@ -1,0 +1,512 @@
+{
+  "b_intro_0": {
+    "German":"Das Camp ist ein Ort der Freizeitmöglichkeiten und Aktivitäten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_1": {
+    "German":"Es gleicht im ersten Moment einem Ferienparadies, welches die einheimischen Affen mit handwerklichem Können errichtet haben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_intro_2": {
+    "German":"Es gibt viel zu entdecken. Hier habt ihr euer Lager aufgeschlagen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_0": {
+    "German":"Als ihr das Camp betretet, ruft euch der Postbotenaffe zu sich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_1": {
+    "German":"Es ist ein Päckchen für einen Herrn Jett angekommen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_2": {
+    "German":"Ihr wundert euch einen Moment, einen Herrn Jett gibt es hier nicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_2_b": {
+    "German":"Auf einmal meldet sich Chad.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_3": {
+    "German":"Anscheinend ist das Päckchen von einem seiner Sponsor:innen, der ihn aus unerklärlichen Gründen wohl immer falsch schreibt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_4": {
+    "German":"Ihr beobachtet Chad dabei, wie er den Inhalt des Paketes vor sich ausbreitet und zum Vorschein kommen unzählige Kosmetikartikel.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_5": {
+    "German":"Was sind das denn für Mittel… Ich habe noch nie etwas von dieser Firma gehört.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_6": {
+    "German":"Auch du betrachtest die Auswahl skeptisch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_7": {
+    "German":"Ach, pff! Ich krieg halt immer das Neueste vom Neuesten! Und ich darf der Erste sein der sie reviewed!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_8": {
+    "German":"Während Chad alles für seinen Livestream aufbaut, bekommen Suzan und du ein mulmiges Gefühl bei dieser Sache.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_o1": {
+    "German":"Du fragst nach der Sponsor:in.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_o2": {
+    "German":"Du liest die Etiketten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_o3": {
+    "German":"Keine Zeit für solchen Mist! Los, Chad!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_0": {
+    "German":"Was ist das eigentlich für eine Firma?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_1": {
+    "German":"Das weiß ich ehrlich gesagt nicht genau, ist doch nicht wichtig… oder?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_2": {
+    "German":"Suzan wechselt einen besorgten Blick mit dir.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_3": {
+    "German":"Wenn ihr euch dann beruhigt… such ich ihn halt im Netz!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_4": {
+    "German":"Nach einigen Klicks findet ihr heraus, dass Chads Sponsor:in auf Tierversuche verzichtet… um die Kosmetikartikel dann jedoch durch Sponsorenverträge an unschuldigen Reviewer:innen zu testen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_5": {
+    "German":"Immer mehr und mehr Warnungen vor den Produkten finden sich im Netz:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_6": {
+    "German":"Seine Behälter sind nicht umweltschonend, sogar leicht entzündlich, er lässt seine Mitarbeiter:innen die Inhaltsstoffe aus Mülltonnen fischen und vieles mehr.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r1_7": {
+    "German":"Euer mulmiges Gefühl wächst und selbst Chad wirkt etwas eingeschüchtert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r2_0": {
+    "German":"Du schaust dir mit Suzan die Inhaltsstoffe genauer an. Suzan murmelt dabei vor sich hin und sieht sehr besorgt aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r2_1": {
+    "German":"Asbest, Glasfasern, Schwefelsäure, Freako Microcristallina...",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r2_2": {
+    "German":"Du wunderst dich bei der Hälfte der Inhaltsstoffe, was diese eigentlich bewirken sollen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r2_3": {
+    "German":"Und was ist das jetzt? Reinigt das meine Haut?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r2_4": {
+    "German":"Das reinigt dir die Haut so gut, dass du keine Haut mehr hast. Das sind alles Stoffe, die nicht getestet wurden und auch noch nicht auf dem Markt sind. Die könnten echt gefährlich sein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r3_0": {
+    "German":"Eine Sponsor:in kann unmöglich dubios sein! Du hilfst Chad dabei alles für seinen Live-Stream vorzubereiten, auch wenn Suzan davon nicht begeistert ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r3_1": {
+    "German":"Sei mal keine Spaßbremse!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r3_2": {
+    "German":"Ich halte das wirklich für keine so gute Idee!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r3_3": {
+    "German":"Ach was! Was kann da denn bitte passieren?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d1_r3_4": {
+    "German":"Wenn ihr das unbedingt machen wollt, fein! Aber vielleicht auf einer kleine Hautfläche zum Testen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_9": {
+    "German":"In einem Moment der Unsicherheit haltet ihr inne. Ist es das wirklich alles wert?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_9_b": {
+    "German":"Wollt ihr wirklich für die Sponsor:in und eure Zuschauer:innen eure Schönheit und vor allem eure Gesundheit riskieren?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_o1": {
+    "German":"Du machst das!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_o2": {
+    "German":"Du machst das doch nicht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_0": {
+    "German":"Egal jetzt! Ich muss das noch heute machen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_1": {
+    "German":"Verunsichert aber pflichtbewusst startet er den Livestream damit, die Produkte viel zu nah an die Kamera zu halten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_1_b": {
+    "German":"Er redet mit seinen Zuschauer:innen und reibt seine Arme dabei mit dem übelriechenden Mittel ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_2": {
+    "German":"Nach einiger Zeit machen ihn seine Zuschauer:innen auf eine auffällige Rötung seiner Haut aufmerksam und auch ihr beobachtet, wie der schleichende Ausschlag immer schlimmer wird.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_3": {
+    "German":"Ach, das gehört sich so!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_4": {
+    "German":"Und es hat sich leider nicht so gehört. Den roten, juckenden Stellen folgten schnell gelbe, eitrige Pusteln. Für Chad kommt das wohl etwas unerwartet.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_5": {
+    "German":"Suzan bricht den Livestream ab und hilft dir dabei das Mittel mit Wasser vorsichtig von den gereizten Stellen zu waschen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r1_6": {
+    "German":"Ihr verbringt den ganzen weiteren Tag damit die pulsierenden Pusteln zu kühlen. Was für ein Reinfall…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r2_0": {
+    "German":"Trotz der unbekannten Substanzen, verschwendet Chad keine Zeit sich hübsch für sein Publikum zu machen. Er übergießt sich regelrecht mit den Pflegeprodukten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r2_1": {
+    "German":"Panisch beobachtet ihr, wie Chads Haut anfängt wie wild zu schäumen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r2_1_b": {
+    "German":"Er steht mit schmerzverzerrtem Gesicht da, während Suzan und du versucht den Schaum von seinem Körper zu entfernen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r2_2": {
+    "German":"Vergebens. Währenddessen zieht der Schaum tief in die Poren von Chads Haut ein und er gleicht mehr und mehr einem aufgequollenen Hummer. Eine allergische Reaktion?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r2_3": {
+    "German":"Ihr denkt nicht lange nach und zerrt Chad in eine Duschkabine, wo er sich die säurehaltige Substanz abwaschen kann.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_0": {
+    "German":"Ist doch egal, ob die Firma noch unbekannt ist, immerhin ist das Produkt NEU und aufregend. Das bringt bestimmt total viele Views!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_1": {
+    "German":"Auch du möchtest natürlich von dieser Situation profitieren und ziehst, wie Chad, deine Badeklamotten an. Chad schaltet die Kamera an und los geht's.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_2": {
+    "German":"Also das hier ist das neue Produkt von \"Tox In!\" Das ist noch nicht einmal auf dem Markt und suuuuper exklusiv. Es soll eure Haut beleben und babyzart machen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_3": {
+    "German":"Chad drückt ein wenig von dem Wundermittel auf seine Hand und reibt sich die Brust mit der schaumigen und prickelnden Substanz ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_3_b": {
+    "German":"Du tust es ihm gleich und reibst deine Arme ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_4": {
+    "German":"Oh wow, das fühlt sich richtig blubberig an….AH! Es brennt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_5": {
+    "German":"Entsetzt bemerkst du Chads rote Haut und blickst auf deine Arme, die sich auch langsam verfärben. Es brennt wie Feuer!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_5_b": {
+    "German":"Ihr fangt beide an um euch zu schlagen und die Substanz von euren Armen zu wischen. Ohne Wirkung.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_6": {
+    "German":"Letzten Endes rennt ihr auf den Fluss in der Nähe des Camps zu. Mit einem Hechtsprung landet ihr im Wasser und bekommt das Zeug gerade noch rechtzeitig von euren Körpern gewaschen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_7": {
+    "German":"Ihr seid halbwegs unbeschadet. Leider kann man das über die Pflanzen und Fische um euch herum nicht gerade behaupten. Denn das Mittel scheint stark ätzend zu sein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r1_d1_r3_8": {
+    "German":"Susan macht ein Foto von der Wirkung dieses Zeugs.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_0": {
+    "German":"Ihr diskutiert noch eine kleine Weile über die zwielichtige Sponsor:in.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_1": {
+    "German":"Nach einer dramatischen, minutenlangen Denkpause entschließt sich Chad schweren Herzens dazu, den Sponsor:innen-Vertrag zu kündigen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_1_b": {
+    "German":"Auch wenn Chad eher bockig auf eure bemutternde Art reagiert, weiß er im tiefsten Inneren das es keine gute Idee ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_2": {
+    "German":"Ok ok! Aber schaut mal das ist sicher nicht sooooo gefährlich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_3": {
+    "German":"Demonstrativ lässt er einige Tropfen auf eine Pflanze neben sich rieseln, die im nächsten Moment einfach verdorrt und zu Boden fällt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r1_4": {
+    "German":"Ihr schaut die Pflanze an. Wow, gut, dass er das Zeug nicht auf die Haut geschmiert hat!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_0": {
+    "German":"Chad! Verdammt noch mal schau dir die Inhaltsstoffe an!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_1": {
+    "German":"Sie drückt ihm das Mittel in die Hand, während er mit zugekniffenen Augen versucht aus den Inhaltsstoffen schlau zu werden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_2": {
+    "German":"Das bringt mir nichts… Ich mach die Mittel ja nicht, ich reviewe sie nur!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_3": {
+    "German":"Suzan seufzt nur entrüstet und schaut dich hilfesuchend an. Du überlegst. Wie wäre es, wenn ihr das für Chad kindgerecht erklärt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_4": {
+    "German":"Ihr beginnt dabei aus dem Karton des gelieferten Päckchens ein kleines Puppentheater zu bauen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_4_b": {
+    "German":"Nun fehlen nur noch eure Schauspieler:innen! Aus euren Socken, Knöpfen und herumliegenden Blättern baut ihr Sockenpuppen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_5": {
+    "German":"Chad schaut gebannt auf euer Schauspiel, das die einzelnen Inhaltsstoffe mit viel Gesang und Witz erklärt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_5_b": {
+    "German":"Auch die Sponsor:in, als abstrahierte Sockenpuppe, findet eine Rolle in eurem Stück.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r2_6": {
+    "German":"Chad applaudiert. Er hat wohl den Kern der Sache verstanden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_0": {
+    "German":"Du beschließt die Situation noch einmal zu überdenken und blickst Chad zweifelnd an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_1": {
+    "German":"Och nee, nicht du auch noch. Pass auf, ich zeige euch, dass das Mittel total ungefährlich ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_2": {
+    "German":"Er lässt ein paar Tropfen auf seinen Finger fallen und guckt euch erwartungsvoll an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_3": {
+    "German":"Seht ihr! Voll ungefährlich! Dann kann ich ja…..AUTSCH!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_4": {
+    "German":"Du siehst wie sich Chads Finger rot färbt und sich darauf ein wenig Schaum bildet. Er taucht den Finger schnell in ein Glas Wasser und spült ihn ab. Das war aber knapp.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_5": {
+    "German":"Damit hat auch Chad eingesehen, dass er dieser Sponsor:in wohl besser nicht vertraut. Leider hat er jetzt kein Produkt für sein Video und somit bleibt Chad heute contentlos.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "b_ee_4_d2_r2_d1_r3_6": {
+    "German":"Das kostet ihn zwar einige Abonnent:innen, aber immerhin konnte er mit euch ein schönes Foto machen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "name_postbote": {
+    "German":"Postbote",
+    "English":"",
+    "French":"",
+    "Spain":""
+    }
+}

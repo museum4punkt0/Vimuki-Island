@@ -1,0 +1,716 @@
+{
+   "t_se_2_help_aggro_d4_r3_0": {
+      "German": "Skeptisch betrachtet dich der Säbelzahnbär eingehend.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_1": {
+      "German": "Was für ein doofer Vorschlag. Wozu braucht er denn ein Nachtlicht?!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_2": {
+      "German": "Man kann doch gar nicht gut schlafen wenn es hell ist!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_3": {
+      "German": "Er fletscht leicht die Zähne. War das ein Versuch dich über ihn lustig zu machen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_4": {
+      "German": "Nein, du meinst das todernst! Ein Nachtlicht ist die Lösung eurer Probleme! Doch was willst du als Material benutzen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_0": {
+      "German": "Mürrisch hebt der Säbelzahnbär seinen trägen Kopf. Was für ein doofer Vorschlag.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_1": {
+      "German": "Wozu brauchte er denn ein Nachtlicht?! Wenn er es hell haben will, kann er sich doch nach draußen legen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_2": {
+      "German": "Das kann doch nie und nimmer funktionieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_3": {
+      "German": "Aber du bist überzeugt: Ein Nachtlicht ist die Lösung eurer Probleme!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_4": {
+      "German": "Euch fehlt nur das passende Material: Was möchtet ihr nehmen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_d7_o1": {
+      "German": "Kristalle",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_d7_o2": {
+      "German": "Leuchtende Pilze",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_d7_o3": {
+      "German": "Leuchtkäfer",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_d7_o4": {
+      "German": "RusH-Outdoor-Jacke",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_0": {
+      "German": "Du überlegst. Gab es in dieser Höhle vielleicht leuchtende Kristalle? Du fragst den Bären der daraufhin nur missmutig nickt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_1": {
+      "German": "Ihr macht euch mit dem Bären auf die Suche nach den Kristallen und da dieser sich bestens in den Höhlen auskennt, braucht ihr nicht lange um sie zu finden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_2": {
+      "German": "Allerdings ist der Bär durch den Fußmarsch nur noch gereizter geworden. Das dauert ihm alles viel zu lange!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_3": {
+      "German": "Außerdem fühlt er sich unglaublich müde aber seine Augen wollten und wollen sich nicht schließen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_4": {
+      "German": "Zurück in der Höhle des Bären angekommen stellst du die Kristalle vor ihn.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_5": {
+      "German": "Allerdings ist ihr Leuchten deutlich schwächer geworden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_6": {
+      "German": "Das ist aber echt kein gutes Nachtlicht... Vielleicht müssen wir es anleuchten?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r1_7": {
+      "German": "Du holst deine Taschenlampe heraus und richtest den hellen Strahl direkt auf die Kristalle, die das Licht doppelt und dreifach zurückwerfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_0": {
+      "German": "Ihr müsst nicht lange suchen! Um euch herum befinden sich einige leuchtende Pilze in vielen verschiedenen Formen und Farben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_1": {
+      "German": "Der Bär scheint nicht begeistert von deinem Vorschlag zu sein. Die Dinger wachsen doch schon lange hier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_2": {
+      "German": "Wie sollen sie ihm beim Einschlafen helfen. Pilze hatten noch nie etwas für ihn getan!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_3": {
+      "German": "Beleidigt schnaubt er. Aber ihr lasst euch nicht von der Idee abhalten, stattdessen sucht ihr gemeinsam nach dem richtigen Pilz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_4": {
+      "German": "Der ist doch krass! So richtig geil knallrot!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_5": {
+      "German": "Ich finde ja den blauen schön. Der ist so enspannend.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_6": {
+      "German": "Doch da seht ihr ihn. Den Hammerpilz!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_7": {
+      "German": "Er war groß und leuchtete in einem beruhigenden, goldenen Licht. Der ist perfekt für euer Vorhaben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r2_8": {
+      "German": "Stolz präsentiert ihr das Nachtlicht den Bären.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_0": {
+      "German": "Du schaust den Bären an, der von deinem Vorschlag absolut nicht überzeugt wirkt. Was sollten ihm denn komische kleine Käfer bringen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_1": {
+      "German": "Allerdings ist der Bär verzweifelt. Nach einem kurzen aber strammen Fußmarsch entdeckt ihr sie!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_2": {
+      "German": "Kleine krabbelnde Insekten, die erstaunlicherweise an leuchtende Marienkäfer erinnern. Die passen perfekt zu eurem Vorhaben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_3": {
+      "German": "Sie führen euch zu einer ganzen Kolonie, welche um einen besonderen, weißen Pilz schwärmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_4": {
+      "German": "Die Haube des Pilzes ist von dicken, erbeermarmelade-artigen Tropfen übersät! Das ist wohl ihre Nahrungsquelle!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_5": {
+      "German": "Damit können wir sie für eine kleine Weile zu uns locken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_6": {
+      "German": "Ich fass das Zeug sicher nicht an. Das ist mir nicht geheuer.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_7": {
+      "German": "Du nimmst etwas Moos und befestigst es an einem langen Ast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_8": {
+      "German": "Mit deinem selbstgebauten Wischmop entfernst du ein wenig von der klebrigen und zähen Flüssigkeit des Pilzes.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_9": {
+      "German": "Sofort folgen die Insekten der Nahrungsquelle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_10": {
+      "German": "Zurück in der Behausung des Bären stellt ihr die kleine \"Fackel\" auf, um die sich eine überschaubare Menge Insekten tummeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_11": {
+      "German": "Ihr tretet ein Stück von der Konstruktion weg und blickt auf das Ergebnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r3_12": {
+      "German": "Die vielen, kleinen, leuchtenden Käfer erinnern euch an einen Sternenhimmel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_0": {
+      "German": "Was könntest du wohl als Nachtlicht benutzen? Ratlos kramst du in deiner Tasche und da leuchtet sie dir entgegen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_1": {
+      "German": "Die superfesche, wetterfeste Jacke der Marke Rush. Ihre Pailletten glänzen im schummrigen Licht der Höhle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_2": {
+      "German": "Der Bär wirkt skeptisch. Naja, die Jacke ist ja schick und wahrscheinlich würde er verdammt gut darin aussehen. Zu was soll der Fetzen gut sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_3": {
+      "German": "Man konnte die Jacke schließlich als Lampenschirm verwenden! Du musst sie nur richtig bestrahlen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_4": {
+      "German": "Das ist aber voll die Verschwendung für diese coole Jacke.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_5": {
+      "German": "Das zeigt doch nur, wie funktional sie ist! Sie ist eben nicht nur ein Kleidungsstück!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_6": {
+      "German": "Du solltest dir das aufschreiben. Das wäre ein echt guter Slogan. Ravina wäre stolz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_7": {
+      "German": "Ihr stellt eine Taschenlampe auf und befestigt diese mit einem Drahtgestell, welches du meisterhaft in Form gebogen hast, an der Jacke.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_8": {
+      "German": "Die Pailletten funkeln in der Innenseite des Lampenschirms.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_9": {
+      "German": "Du schaltest die Taschenlampe an und auf einmal bildet sich an der Decke der Höhle eine funkelnde Projektion.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_aggro_d4_r3_d7_r4_10": {
+      "German": "Gespannt schaute der Bär zur Decke. Das hatte er nicht erwartet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_0": {
+      "German": "Vielleicht könntest du in der Höhle etwas Leuchtendes finden. Du fragst den Bären, der daraufhin nur missmutig nickt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_1": {
+      "German": "Nicht weit von hier gab es leuchtende Kristalle. Unbegeistert von deinem Vorschlag verzieht er das Gesicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_2": {
+      "German": "Auf eure Bitte hin führt euch der Bär zu den leuchtenden Steinen, die wie kleine Zacken aus der Wand herausragen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_3": {
+      "German": "Der Bär atmet durch den langen Fußmarsch gestresst aus. Das dauert ja ewig! So würde er doch nie ein Auge zubekommen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_4": {
+      "German": "Zurück in der Höhle des Bären, stellst du die Kristalle vor ihm auf den Boden. Leider ist ihr Leuchten deutlich schwächer geworden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_5": {
+      "German": "Vielleicht müssen wir das olle Ding nur anleuchten?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_6": {
+      "German": "Warum nicht? Einen Versuch ist es wert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r1_7": {
+      "German": "Du holst deine Taschenlampe aus deiner Hosentasche und richtest den hellen Strahl direkt auf die Kristalle, welche das Licht doppelt und dreifach zurückwerfen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_0": {
+      "German": "Ihr müsst nicht lange suchen! Um euch herum befinden sich einige leuchtende Pilze in vielen verschiedenen Formen und Farben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_1": {
+      "German": "Der Bär scheint aber nicht gerade von deinem Vorschlag begeistert zu sein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_2": {
+      "German": "Die haben ihm doch noch nie dabei geholfen einzuschlafen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_3": {
+      "German": "Der Bär legt sich enttäuscht vor euch nieder. Aber ihr lasst euch nicht von der Idee abbringen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_4": {
+      "German": "Stattdessen sucht ihr gemeinsam nach dem richtigen Pilz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_5": {
+      "German": "Der ist doch krass! So richtig geil knallrot!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_6": {
+      "German": "Ich finde ja den blauen schön. Der ist so enspannend.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_7": {
+      "German": "Doch da seht ihr ihn. Den Hammerpilz!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_8": {
+      "German": "Er ist groß und leuchtete in einem beruhigenden, goldenen Licht. Und Ruhe würde dem Bären sicher gut tun!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r2_9": {
+      "German": "Stolz präsentiert ihr das ausgewählte Nachtlicht dem Bären.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_0": {
+      "German": "Du schaust den Bären an, der genervt seufzt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_1": {
+      "German": "Jetzt muss er sich auch noch bewegen, um euch den Weg zu den Käfern zu zeigen. Wie anstrengend!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_2": {
+      "German": "Die krabbeln doch eh nur auf ihm herum und werden ihn auf jeden Fall vom Schlafen abhalten!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_3": {
+      "German": "Nach einem kurzen, aber strammen Fußmarsch entdeckt ihr die Objekte eurer Begierde!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_4": {
+      "German": "Kleine, krabbelnde Insekten, die euch erstaunlicherweise an leuchtende Marienkäfer erinnern. Die passen perfekt zu eurem Vorhaben!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_5": {
+      "German": "Sie führen euch zu einer ganzen Kolonie, welche um einen besonderen, weißen Pilz schwärmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_6": {
+      "German": "Die Haube des Pilzes ist von dicken, erbeermarmelade-artigen Tropfen übersät! Das ist wohl ihre Nahrungsquelle!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_7": {
+      "German": "Damit können wir sie für eine kleine Weile zu uns locken!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_8": {
+      "German": "Suzan hatte recht, aber niemand von euch wollte derjenige sein, der die rote Grütze in die Hand nimmt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_9": {
+      "German": "Du nimmst etwas Moos und befestigst es an einem langen Ast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_10": {
+      "German": "Mit deinem selbstgebauten Wischmop entfernst du ein wenig von der klebrigen und zähen Flüssigkeit vom Pilz.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_11": {
+      "German": "Sofort folgten die Insekten der Nahrungsquelle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_12": {
+      "German": "Zurück in der Behausung des Bären stellt ihr die kleine \"Fackel\" auf, um die sich eine überschaubare Menge Insekten tummeln.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_13": {
+      "German": "Ihr tretet ein Stück von der Konstruktion zurück und blickt auf das Ergebnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r3_14": {
+      "German": "Die vielen, kleinen, leuchtenden Käfer erinnern euch an einen Sternenhimmel.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_0": {
+      "German": "Ratlos kramst du in deiner Tasche und da leuchtet sie dir entgegen. Die superfesche, wetterfeste Jacke der Marke Rush.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_1": {
+      "German": "Ihre Pailletten glänzen jetzt schon! Wie würde es dann erst aussehen, wenn du sie anleuchtest!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_2": {
+      "German": "Das hatte doch sicher einen coolen Effekt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_3": {
+      "German": "Der Bär wirkt skeptisch. Naja, die Jacke ist ja schick und wahrscheinlich würde er verdammt gut darin aussehen. Aber wie soll der Fetzen helfen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_4": {
+      "German": "Ihr stellt eine Taschenlampe auf und befestigt sie mit einem Drahtgestell, welches du meisterhaft in Form gebogen hast.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_5": {
+      "German": "Im Handumdrehen baut ihr aus der Jacke einen feschen Lampenschirm.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_6": {
+      "German": "Die Pailletten funkeln in der Innenseite des Lampenschirms.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_7": {
+      "German": "Du schaltest die Taschenlampe an und auf einmal bildet sich an der Decke der Höhle eine funkelnde Projektion.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_sad_d4_r3_d7_r4_8": {
+      "German": "Gespannt schaut der Bär zur Decke. Das hatte er nicht erwartet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_rush_0": {
+      "German": "Fasziniert von den bunten Lichtern legt sich der Bär auf den Boden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_rush_1": {
+      "German": "Seine Augen werden groß und kindlich. Vergessen ist seine schlechte Laune.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_rush_2": {
+      "German": "Das sieht ja aus wie der Himmel draußen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_rush_3": {
+      "German": "Die leuchtenden Punkte funkeln an der Decke und ihr merkt, wie der Bär immer entspannter wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_rush_4": {
+      "German": "Er kann an nichts anderes mehr denken als an die Sterne.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kaefer_0": {
+      "German": "Das leise Surren der Käfer entspannt den Bären.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kaefer_1": {
+      "German": "Die kleinen sich kontinuierlich bewegenden Punkte haben eine beinahe hypnotische Wirkung auf das riesige Tier.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kaefer_2": {
+      "German": "Sie lullen ihn regelrecht in den Schlaf!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kaefer_3": {
+      "German": "Der Bär gähnt herzhaft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kaefer_4": {
+      "German": "Auch wenn er nicht großartig von eurer Idee überzeugt war, ist dieses Nachtlicht eine wunderbare Ergänzung für sein Schlafzimmer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_0": {
+      "German": "Der Bär schaut skeptisch den Pilz in Chads Hand an. Wozu soll der gut sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_1": {
+      "German": "Einen Gute-Nacht-Snack hätte ich mir auch selbst hohlen können!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_2": {
+      "German": "Plötzlich beißt der Bär in sein eigentliches Nachtlicht. Das hatte er wohl missverstanden!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_3": {
+      "German": "Warte! Das ist doch nicht zum…",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_4": {
+      "German": "Zu spät. Du schaust auf das, was von dem Pilz noch übrig geblieben ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_pilz_5": {
+      "German": "Leider erzeugt der Rest auch kein Licht mehr.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kristalle_0": {
+      "German": "Dieses Nachtlicht eignet sich wirklich gut für eine Party, aber wohl weniger gut zum Einschlafen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kristalle_1": {
+      "German": "Schlimmer noch, es dreht den Bären sogar richtig auf!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kristalle_2": {
+      "German": "Schnell schaltet ihr die Taschenlampe aus! Das ging total nach hinten los!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kristalle_3": {
+      "German": "Ihr schaut schuldbewusst zum Bären, der schon seit einigen Minuten nicht mehr geblinzelt hat.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_help_d4_r3_kristalle_4": {
+      "German": "Jetzt war er sogar super wach!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "t_se_2_bear": {
+      "German": "Säbelzahnbär",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

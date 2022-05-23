@@ -1,0 +1,350 @@
+{
+  "f_intro_0": {
+    "German":"Du hast von einem Tempel auf der anderen Seite der Insel gehört, welcher unglaubliche Gefahren aber auch unglaublichen Spaß beherbergen soll.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_0_b": {
+    "German":"Zumindest laut der Broschüre, welche du von den Affen bekommen hast.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_1": {
+    "German":"Und so reist du durch die Gefahren des Dschungels und findest dich vor einer mächtigen Konstruktion aus festem, dicken Stein wieder.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_intro_2": {
+    "German":"Um euch herum ist sumpfiges Gelände mit einigen kleinen und großen Seerosenteichen, die in voller Blüte stehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_0": {
+    "German":"Ihr kämpft euch durch das Dickicht und die steinernen Treppen des Tempels hoch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_1": {
+    "German":"Suzan betrachtet interessiert die verschiedenen Steinstatuen in eurer Nähe, während Chad mit dir nach einer guten Location für ein Foto sucht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_2": {
+    "German":"Mir reicht es mit dem Wischiwaschi, heute will ich wieder etwas Extremes machen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_3": {
+    "German":"Aber das hier ist doch EXTREM spannend!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_4": {
+    "German":"Ihr verzieht das Gesicht und Suzan grinst euch fröhlich entgegen. Zugegeben, die Statuen sind cool, aber ihr wollt unbedingt mehr Action!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_5": {
+    "German":"Ihr erforscht die Umgebung des Tempels weiter und findet einen kleinen, unscheinbaren Gang.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_5_b": {
+    "German":"Dieser führt zu einer steilen, in den Berg gehauenen Treppe, welche bis ganz nach oben führt",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_6": {
+    "German":"Gespannt auf die Aussicht und die mögliche Action erklimmt ihr gemeinsam die unzähligen Stufen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_7": {
+    "German":"Heiße Luft strömt euch vom Ausgang der Treppe entgegen, auf den ihr außer Atem zusteuert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_7_b": {
+    "German":"Vor euch erstreckt sich ein gewaltiger Vulkankrater, der mehrere hundert Meter in die Tiefe reicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_8": {
+    "German":"Suzan ist überwältigt von der Schönheit dieser Gegend und beginnt Fotos zu machen, während Chad schon frech den Vulkan angrinst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_9": {
+    "German":"Na, das nenn ich mal ACTION!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_10": {
+    "German":"Ihr merkt an Chads Grinsen, dass alles was er jetzt tun wird wohl eine schlechte Idee ist. Chad will anscheinend einen Action-Stunt hinlegen und in den offenen Vulkan springen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_11": {
+    "German":"Chad… Wie willst du dann wieder raus kommen?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_12": {
+    "German":"Natürlich mit einem Bungee-Seil! Und während ich so krass dabei bin, könnt ihr ja Fotos von mir machen! Das kommt sicher echt gut!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_13": {
+    "German":"Du findest keinen Fehler in dieser Logik.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_14": {
+    "German":"Das ist echt eine dumme Aktion!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_15": {
+    "German":"Also ich finde sie spitze!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_16": {
+    "German":"Beide schauen dich an, wem stimmst du zu?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_o1": {
+    "German":"GO CHAD!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_o2": {
+    "German":"Suzan hat Recht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_r1_0": {
+    "German":"Du stimmst Chad zu. Das wird sicher ein echt geiles Foto! Egal wie es ausgeht! Chad grinst dir nur entgegen. Suzan schaut dich wütend an.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_r1_1": {
+    "German":"WARUM unterstützt du das?! Was ist wenn er sich verletzt?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_r2_0": {
+    "German":"Suzan hat Recht, das ist Wahnsinn!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_r2_1": {
+    "German":"Die Wahrscheinlichkeit, dass Chad da nicht wieder rauskommt ist hoch und die Wahrscheinlichkeit, dass er sich dabei verbrennt noch höher.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d1_r2_2": {
+    "German":"Chad schaut dich an, in seiner Mimik kannst du ganz deutlich sehen, dass er sich von dir verraten fühlt .",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_17": {
+    "German":"EGAL! ICH mach das JETZT!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_18": {
+    "German":"Ohne ein weiteres Wort zu verlieren befestigt er sein Seil an einem stabilen Felsen und nähert sich dem Abgrund.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_19": {
+    "German":"Die heiße Luft brennt ihm einige seiner Barthaare weg, doch das hält Action-Chad nicht davon ab, seinen Plan in die Tat umzusetzen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_20": {
+    "German":"Mit einem gewaltigen Satz fliegt er der Lava mutig entgegen. Schnell wird ihm die Dummheit seiner Tat bewusst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_20_b": {
+    "German":"Er entgeht nur knapp einer schmerzhaften Verbrennung, weil ihn das Seil noch einmal nach oben befördert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_21": {
+    "German":"Doch wo es nach oben geht, geht es auch schnell wieder runter!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_22": {
+    "German":"In letzter Sekunde, bevor er wieder tief fallen kann, hält er sich an einem Felsvorsprung fest und entgeht so seinem möglichen Tod.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_23": {
+    "German":"Ihr müsst jetzt schnell reagieren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_o1": {
+    "German":"Ihr sucht nach Rat im Netz.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_o2": {
+    "German":"Ihr müsst ihm sofort helfen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_o3": {
+    "German":"Chad motivieren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r1_0": {
+    "German":"Unter verschiedenen hilfreichen Artikeln darüber wie man richtig springt oder das richtige Bungee-Seil auswählt, finden sich auch weitere unschlagbare Tipps wie:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r1_1": {
+    "German":"Ihr müsst sofort reagieren! Oh... Darauf hättet ihr eigentlich auch selbst kommen können!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r1_2": {
+    "German":"Ihr rennt zu Chad herüber und beginnt ihn an seinem Seil hochzuziehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r1_2_b": {
+    "German":"Leider ist es etwas zu spät, denn seine Hände haben vom Festhalten am heißen Gestein zahlreiche Brandwunden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r1_3": {
+    "German":"Ihr versucht den Schock zu verarbeiten und verarztet den armen Chad, der wohl knapp dem Tod entkommen ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r2_0": {
+    "German":"Ihr sprintet so schnell ihr könnt zum Seil und versucht euren Freund aus dem Vulkankrater zu helfen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r2_1": {
+    "German":"Nur mit Mühe könnt ihr ihn Stück für Stück aus dem feurigen Vulkan ziehen. Als Chad herausklettert ist er kreidebleich und muss sich erst einmal setzen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r2_2": {
+    "German":"Das hält weder dich noch Suzan davon ab ihm eine gehörige Standpauke zu erteilen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r2_3": {
+    "German":"Vielleicht denkst du nächstes Mal mit dem Ding zwischen deinen Ohren! Und was ist wenn das jemand gesehen und nachgemacht hätte?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r2_4": {
+    "German":"Chad verteidigt sich nicht. Das war wirklich eine dumme Idee.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_0": {
+    "German":"Du rennst mit Suzan zum Rand des Kraters. Während sie erschrocken nach dem Seil greift und es mit aller Kraft festhält, hast du eine bessere Idee.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_1": {
+    "German":"Mit einer Vuvuzela feuerst du Chad an seine Muskeln spielen zu lassen. Er schafft das! Er kann herausklettern, wenn er nur möchte!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_2": {
+    "German":"Das Anfeuern motiviert Chad, der daraufhin wirklich seine Muskeln spielen lässt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_2_b": {
+    "German":"Dabei nimmt er die Hände von der Steinwand und kippt rücklings wieder in Richtung Lava.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_3": {
+    "German":"Schnell, bevor er in den sicheren Tod stürzt, ergreifst du ebenfalls das Seil. Mit vereinten Kräften zieht ihr Chad aus dem Vulkankrater.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_4": {
+    "German":"Nun könnt ihr euch beide auf eine gehörige Standpauke gefasst machen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "f_ee_1_d2_r3_5": {
+    "German":"Denn Suzan scheint nun in die Fußstapfen des Vulkans zu treten und regelrecht zu explodieren. Zugegeben, das war wohl nicht eure beste Idee.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

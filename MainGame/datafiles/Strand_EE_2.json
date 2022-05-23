@@ -1,0 +1,626 @@
+{
+  "s_intro_0": {
+    "German":"Der Strand, mit seinen weißen Dünen und seinen seichten blauen Wellen ist eine beliebte Location unter den vielen verschiedenen Inselbewohner:innen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_intro_1": {
+    "German":"Der saubere Strand lädt dazu ein, dich in der warmen Sonne zu baden, unter den Schatten großer Palmen Sandburgen bauen oder einfach nur auf Tauchexpeditionen gehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_intro_2": {
+    "German":"In der Nähe soll es sogar eine Cocktailbar geben. Also packt eure Badesachen und nichts wie los!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_0": {
+    "German":"Heute soll am Strand eine riesige Fete steigen und natürlich lasst ihr euch das nicht entgehen! Stylisch angezogen betretet ihr das sandige Gelände.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_1": {
+    "German":"Leider kommt ihr ein wenig zu früh, denn die Affen sind gerade damit beschäftigt Tische aufzustellen und die Bühne für die Bands aufzubauen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_2": {
+    "German":"Die Musiker:innen werden bereits mit riesigen Plakaten angekündigt. Ihr bestaunt diese aufgeregt:",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_3": {
+    "German":"Den Anfang macht die Band Affenzahn, mit ihren schnellen Techno Beats. Danach legt die Popband Bananaschala mit ihren experimentellen Instrumenten nach.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_4": {
+    "German":"Ein Plakat ist jedoch gerissen. Das Plakat zeigt drei Möwen, die dir wuterfüllt aber auch sinnlich entgegen blicken. Sie werden als Hardcore Punkmetalband beschrieben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_5": {
+    "German":"Anscheinend ist die Band \"Weißer Sturm\" aus dem Programm genommen worden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_6": {
+    "German":"Ihr entschließt euch dazu, gemeinsam ein Getränk an der Bar zu genehmigen. Plötzlich hört ihr die Affen lautstark mit jemanden diskutieren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_7": {
+    "German":"Ihr dreht euch neugierig zu der Geräuschkulisse um und entdeckt eine Gruppe von Möwen, die der Band von dem Plakat erstaunlich ähnlich sehen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_8": {
+    "German":"Wie schon gesagt, es tut uns unheimlich leid, aber eure Musik ist ein wenig zu heftig für unsere Besucher:innen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_9": {
+    "German":"Das ist uns doch egal! Es geht hier um unsere Musik! Wir wollen spielen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_10": {
+    "German":"Oje. Sie stacheln sich immer mehr auf. Es endet damit, dass die Möwen anfangen zu randalieren. Ihr solltet eingreifen, bevor der Streit noch eskaliert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_o1": {
+    "German":"Du bittest sie freundlich damit aufzuhören.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_o2": {
+    "German":"Du versuchst sie einzuschüchtern.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_o3": {
+    "German":"Du versuchst sie mit einer Verkleidung zu verwirren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_0": {
+    "German":"Ihr nähert euch der Streitsituation, während die Affen entsetzt die Arme über dem Kopf zusammenschlagen. Schließlich haben sie den Tag damit verbracht alles schön herzurichten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_1": {
+    "German":"Entschuldigt, aber könnt ihr bitte damit aufhören. Das ist doch kein Grund hier wie wild rumzuschreien und alles kaputt zu machen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_1_b": {
+    "German":"Es gibt doch sicher einen Kompromiss, den wir eingehen können!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_2": {
+    "German":"Die Blicke der Möwen richten sich auch auf euch und ihre kleinen, bösen Augen fixieren Suzan.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_3": {
+    "German":"Das hat hier nichts mit dir zu tun, Schwester! Das ist unsere Sache. Misch dich hier mal nicht ein mit deiner Brille und deinen Händen! Wir machen keine Kompromisse!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_4": {
+    "German":"EY! Sie hat euch doch nur gebeten mit dem Mist aufzuhören!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r1_5": {
+    "German":"Und was willst du machen, Beach Boy?! Uns verhauen oder was?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_0": {
+    "German":"Du willst die Möwen einschüchtern, doch wie bewerkstelligt du das? Natürlich! Ihr zückt eure Kameras.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_1": {
+    "German":"Jetzt passt mal auf ihr gefiederten Mistkerle! Entweder hört ihr jetzt auf oder…. oder",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_2": {
+    "German":"Oder wir zeigen das euren Eltern!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_3": {
+    "German":"Oder posten das auf eure Fanseite! Das is voll schlecht für euer Ansehen und so!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_4": {
+    "German":"Die Möwen sind erschüttert. Doch nicht ihren Eltern! Aber dann wendet sich das Blatt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_5": {
+    "German":"HA! Dann filmen wir euch wie ihr uns filmt! Na wie gefällt euch das?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_6": {
+    "German":"Jeder Einzelne von euch richtet die Kamera gegen einen anderen, ohne jedoch auf den Aufnahmeknopf zu drücken. Vielmehr geht es darum, wer die besseren Nerven hat.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_7": {
+    "German":"Wie in jedem guten Western beginnt nun ein Showdown der Extraklasse. Der ewige Kreislauf des Bluffens.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_8": {
+    "German":"Nach einiger Zeit müsst ihr euch alle eingestehen, dass ihr gleich gut im Bluffen seid und natürlich kann es bei gleicher Stärke keine Gewinner:in geben.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r2_9": {
+    "German":"Außerdem will jede Partei nicht unbedingt einen riesigen Shitstorm auf seinen Kanälen provozieren!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_0": {
+    "German":"Natürlich! Es gibt nur eine Möglichkeit die Situation gut zu bewältigen. Du musst die feindliche Basis infiltrieren, am besten als einer der Ihren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_1": {
+    "German":"Bevor ihr weiter in die Situation eingreift, wählt ihr einen von euch aus, der mutig genug ist die feindlichen Linien zu überqueren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_2": {
+    "German":"Natürlich fällt die Wahl auf dich, die mutigste und anpassungsfähigste Person in deiner Gruppe.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_3": {
+    "German":"Suzan und Chad modellieren die Möwe, die wohl schon immer in dir gesteckt hat!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_4": {
+    "German":"Mit Hilfe von Plastikhandschuhen, Flossen, alten Trinkbechern, Farbe und VIEL Klebstoff bist du kaum von deinen vermeintlichen Artgenossen zu unterscheiden.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_5": {
+    "German":"Du watschelst auf sie zu, während du wild mit den provisorischen Flügeln schlägst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_6": {
+    "German":"Also echt einmal… das ist voll unsensibel von dir! Wir sind definitiv nicht so fett! Das ist nicht in Ordnung, Mann.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_6_b": {
+    "German":"Detlef ist voll unsicher mit seinem Gewicht! Das könnt ihr nicht bringen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_7": {
+    "German":"Verdammt! Ihr habt Detlefs Gefühle verletzt! Das war wohl eine schlechte Idee! Ihr beobachtet, wie eine der Möwen bedrückt auf den Boden starrt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_8": {
+    "German":"Entschuldigt bitte wir…",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d1_r3_9": {
+    "German":"SPART EUCH eure Entschuldigungen! Das kriegt ihr doppelt und dreifach zurück!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_11": {
+    "German":"Die Lage bleibt gespannt. Ihr merkt schnell, dass mit diesen Möwen wohl nicht gut Kirschen essen ist.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_11_b": {
+    "German":"Statt ihren Ärger an unbelebten Gegenständen auszulassen, richtet sich ihre geballte Wut nun auf euch.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_12": {
+    "German":"JETZT findet ihr heraus, warum wir WEIßER STURM genannt werden!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_13": {
+    "German":"Oh nein! Sie werden doch nicht etwa...! Du wirst bleich, als die weißen und feuchten Geschosse überall neben euch auf dem Boden aufkommen! Und es bleibt nicht nur bei diesen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_14": {
+    "German":"Die Vögel haben ja tatsächlich Wasserballons mit schwer abwaschbarer weißer Farbe gefüllt!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_14_b": {
+    "German":"Wenn diese euch berühren, werdet ihr noch wochenlang versuchen sie abzuwaschen! Schnell ihr müsst euch schützen!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_o1": {
+    "German":"Du benutzt die Regenjacke.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_o2": {
+    "German":"Ihr versucht in Deckung zu rennen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_o3": {
+    "German":"Ihr ladet die Möwen auf ein Getränk ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_0": {
+    "German":"Alles spielt sich wie in Zeitlupe ab und dir wird schnell klar: Einer muss ein Opfer für das Team bringen.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_0_b": {
+    "German":"Anstatt wegzulaufen wie es die anderen tun, bleibst du heldenhaft stehen und lenkst ihre Aufmerksamkeit auf dich.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_1": {
+    "German":"DUCK DICH!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_2": {
+    "German":"RENN! RENN DOCH, KOMM!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_3": {
+    "German":"Doch du hörst nicht auf sie, stattdessen zückst du einen quietschgelben Regenmantel! Er flattert wie eine Trophäe im Wind, bevor du ihn dir mit einer schnellen Bewegung überstreifst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_4": {
+    "German":"HA! Jetzt haben ihre klebrigen Geschosse keinen Effekt auf dich!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_5": {
+    "German":"DAS IST UNFAIR!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_6": {
+    "German":"DU BIST EINE RICHTIGE CHEATER:IN!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_7": {
+    "German":"Hast du betrogen? Wer weiß. Aber du gehst als Sieger:in aus dieser Situation hervor.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_7_b": {
+    "German":"Denn jetzt wo die Möwen dich nicht mehr treffen können, haben sie vollkommen die Lust an ihrer Randale verloren.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_8": {
+    "German":"Kommt, Jungs! Verziehen wir uns, das ist doch Mist!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_9": {
+    "German":"Triumphierend siehst du ihnen nach, auch wenn dein gelber Regenmantel nun einem weißen Umhang gleicht.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r1_10": {
+    "German":"Ihr säubert die Umgebung zusammen mit den Affen, die sich für eure Hilfe bedanken. Während des Festes könnt ihr alles auf Kosten des Hauses trinken.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_0": {
+    "German":"Ihr rennt in Deckung und könnt gerade noch so hinter die Theke der Getränkebar springen, bevor euch die weißen Bomben treffen! Ihr steht nun gemeinsam unter Beschuss!!!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_1": {
+    "German":"Und was machen wir jetzt?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_2": {
+    "German":"Ein guter Einwand.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_3": {
+    "German":"Sie können ja nicht unendlich viele von diesen Dingern haben! Wir müssen einfach warten!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_4": {
+    "German":"Ein taktischer Rückzug und ein strategisches Abwarten. Verstanden! Leider habt ihr die Ausdauer der Möwen ein klein wenig unterschätzt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_5": {
+    "German":"In einem bahnbrechenden Tempo werden Geschosse gegen den Tresen und alles drum herum abgefeuert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_6": {
+    "German":"DAS HÖRT JA GAR NICHT MEHR AUF?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_7": {
+    "German":"Der Zorn der Möwen ist deutlich spürbar! Erst Stunden später wird das Tempo langsamer und die Würfe werden immer lustloser.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_8": {
+    "German":"Im Licht der Abenddämmerung über dem Wasser traut ihr euch aus eurem Versteck zu linsen, nur um festzustellen, dass totale Verwüstung herrscht!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_8_b": {
+    "German":"Die komplette Umgebung ist beschädigt, angemalt und beschmiert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_9": {
+    "German":"Von den Möwen ist nichts mehr zu sehen. Ist es um das Fest etwa geschehen!? Dabei habt ihr euch doch so gefreut.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_10": {
+    "German":"Quatsch, es gibt immer ein Grund zum Feiern!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_11": {
+    "German":"Er überlegt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_12": {
+    "German":"ALTER das ist voll die geile Themenparty!!!! Wir machen das alles nur Weiß! Voll artsy und so!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_13": {
+    "German":"Was sich zuerst anhört wie ein seltsames Unterfangen, sorgt schnell für Begeisterung. Alles wird schneeweiß.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r2_14": {
+    "German":"Die Kleider, die Getränke, die Umgebung. Das Fest ist ein wenig anders als geplant, aber dennoch ein totaler Erfolg.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_0": {
+    "German":"WARTET!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_1": {
+    "German":"Er wirft sich in Pose und setzt ein charmantes Grinsen auf.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_2": {
+    "German":"Wollen wir nicht bei einem kühlen Getränk einmal über die Sache reden?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_3": {
+    "German":"Die Möwen sind skeptisch, doch zu einem Freigetränk sagen sie nicht nein. Sie senken die Waffen… vorerst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_4": {
+    "German":"Ihr findet euch zusammen mit den Affen und den Möwen an einem Tisch wieder. Es herrscht dicke Luft unter den gegensätzlichen Parteien. Suzan lehnt sich zu euch herüber und flüstert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_5": {
+    "German":"Und was wollen wir jetzt tun?",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_6": {
+    "German":"Keine Ahnung. Ich dachte nicht, dass ich soweit komme.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_7": {
+    "German":"Doch du hast eine Idee. Du gehst hinter die Theke und beginnst damit chaotisch ein Getränk zusammen zu mixen. Doch dein Chaos hat System.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_8": {
+    "German":"Verdutzt schauen dir alle Parteien zu, wie du Eiswürfel, Tee und Zitronenscheiben mit etlichen anderen Zutaten mischst.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_8_b": {
+    "German":"Als du fertig bist, füllst du den Inhalt in Gläser ein und reichst sie allen Beteiligten.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_9": {
+    "German":"Die Flüssigkeit erinnert an einen feurigen Vulkan.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_10": {
+    "German":"Ihr stoßt an und kippt es gemeinsam herunter. Wie zu erwarten bist du keine gute Barkeeper:in und ihr spuckt alle das scheußliche Getränk wieder aus.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_11": {
+    "German":"Ich spüre meine Zunge nicht mehr… Warum war das so scharf?!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_12": {
+    "German":"SCHARF? Das war verdammt sauer!",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_13": {
+    "German":"Auch die Möwen und die Affen steigen in die Diskussion über den wilden, einzigartigen Geschmack deiner Mischung ein.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_14": {
+    "German":"Nach einer langen Debatte und vielen Späßchen auf deine Kosten ist die Stimmung gelockert.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_14_b": {
+    "German":"Du hast es geschafft. Du hast Möwen und Affen wieder versöhnt.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_15": {
+    "German":"Und was deinen Getränkemix angeht, landet dieser als Bestellung des Tages auf der Karte.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_16": {
+    "German":"Das Fest ist ein riesiger Erfolg und auch die Möwen finden ihren Weg auf die Bühne.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    },
+  "s_ee_2_d2_r3_17": {
+    "German":"Sie widmen euch ihr neuestes Lied “Ich klau dir deine Pommes!”, das zu dem Partyhit schlechthin wird.",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }, 
+	"s_ee_2_name_moewe": {
+	"German":"Möwen",
+    "English":"n/a",
+    "French":"n/a",
+    "Spain":"n/a"
+    }
+}

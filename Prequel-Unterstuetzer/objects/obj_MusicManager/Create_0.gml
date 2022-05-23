@@ -1,0 +1,1 @@
+audio_play_sound(vimuki_investoren_music, 10, true); 

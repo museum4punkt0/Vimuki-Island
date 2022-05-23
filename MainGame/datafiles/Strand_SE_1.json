@@ -1,0 +1,458 @@
+{
+   "s_intro_0": {
+      "German": "Der Strand, mit seinen weißen Dünen und seinen seichten blauen Wellen, ist eine beliebte Location unter den vielen verschiedenen Inselbewohner:innen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": ""
+   },
+   "s_intro_1": {
+      "German": "Der saubere Strand lädt dazu ein, in der warmen Sonne zu baden, im Schatten großer Palmen Sandburgen zu bauen oder einfach nur auf Tauchexpeditionen gehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": ""
+   },
+   "s_intro_2": {
+      "German": "In der Nähe soll es sogar eine Cocktailbar geben. Also packt eure Badesachen und nichts wie los!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": ""
+   },
+   "s_se_1_0": {
+      "German": "Gemeinsam kommt ihr am Strand an und breitet eure Badetücher aus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_1": {
+      "German": "Für heute steht definitiv Sonnenbaden auf eurem Plan. Während ihr euch mit Sonnencreme einreibt, wird Chad auf etwas aufmerksam.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_2": {
+      "German": "Leute, seht ihr das auch oder habe ich einen Sonnenstich?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_3": {
+      "German": "Ihr schaut in die Richtung, in die Chad aufgeregt zeigt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_4": {
+      "German": "Auf den Felsen in der Nähe der Küste, sitzt eine fischförmige Gestalt, die euch einladend zu sich winkt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_5": {
+      "German": "Hier leben Meerjungfrauen? Das ist ja super nice. Mit der muss ich unbedingt ein Foto machen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_6": {
+      "German": "Also ich weiß nicht. Wie sollen wir da bitte hinkommen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_7": {
+      "German": "Hinschwimmen natürlich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_8": {
+      "German": "Du willst so weit schwimmen? Sollten wir nicht lieber ein Floß nehmen? Dort drüben bei der Bar kann man sich eins ausleihen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_9": {
+      "German": "Nee, schwimmen ist doch viel geiler, dann erschrecken wir die Meerfrau auch nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_10": {
+      "German": "Was denkst du?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_o1": {
+      "German": "Mit dem Floß",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_o2": {
+      "German": "Hinschwimmen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_0": {
+      "German": "Du stimmst Suzans Vorschlag zu. Das klingt wirklich vernünftig, darum schnappt ihr euch das Floß von der Affenbar und segelt los.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_1": {
+      "German": "Das Wasser schleudert euch wild hin und her und ihr bemerkt, dass kurz vor der Wasseroberfläche Felsspitzen aus dem Wasser ragen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_2": {
+      "German": "Was tut ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_o1": {
+      "German": "Mitten durch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_o2": {
+      "German": "Umschiffen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_0": {
+      "German": "Der einzige Weg führt mitten durch die spitzen Felsen. Angestrengt versucht ihr die Hindernisse zu umschiffen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_1": {
+      "German": "Vorsicht Chad! Wir müssen nach Links!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_2": {
+      "German": "Das versuch ich doch die ganze Zeit!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_3": {
+      "German": "Leider könnt ihr mit dem Floß doch nicht so gut steuern, wie ihr gedacht habt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_4": {
+      "German": "Ihr navigiert es genau geradeaus genau auf die gefährlichen Felsen zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r1_5": {
+      "German": "Euer Floß kracht auseinander, als ihr auf die Steine prallt, und ihr drei landet alle in dem wild tobenden Ozean. Jetzt müsst ihr doch schwimmen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r2_0": {
+      "German": "Auf keinen Fall fahrt ihr durch diese spitzen Felsen. Sowas überlebt ihr nicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r1_d2_r2_1": {
+      "German": "Das Ganze zu umschiffen dauert zwar etwas länger, aber so werdet ihr heil an eurem Ziel ankommen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_end": {
+      "German": "Je näher ihr kommt, desto schöner klingt das Rauschen des Meeres. Moment. Wo kommt denn der Gesang auf einmal her?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r2_0": {
+      "German": "Wer braucht schon ein Floß? Die Strecke packt ihr doch auch so! Sogleich stürzt ihr euch in die hohen Wellen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r2_1": {
+      "German": "Je näher ihr der schönen Fischdame kommt, desto schöner wird das Rauschen des Meeres. Moment. Wo kommt der Gesang auf einmal her?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r2_2": {
+      "German": "Woah! Das ist ja voll der liebliche Klang. Das ist hundert pro die Meerfrau!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r2_3": {
+      "German": "Das ist kein gutes Zeichen. Hey! Chad warte mal!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d1_r2_4": {
+      "German": "Zu spät, Chad ist schon Feuer und Flamme für das mysteriöse Meerwesen und schießt blindlings durch das Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_11": {
+      "German": "Der Gesang wird immer lauter, immer schöner und fügt sich zu einer eigenständigen Symphonie zusammen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_12": {
+      "German": "Wie verzaubert summt Chad mit einem freudig, dümmlichen Gesicht das Lied der Sagengestalt nach.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_13": {
+      "German": "Völlig verzaubert von ihr, vergisst Chad alles um ihn herum. Suzan starrt ihn nur verwirrt an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_14": {
+      "German": "CHAD! Chad komm zu dir! Er kommt nicht zu sich, was machen wir den jetzt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_15": {
+      "German": "Sie schaut zu dir herüber.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_o1": {
+      "German": "Auch du bist verzaubert!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_o2": {
+      "German": "Der Gesang lässt dich kalt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_0": {
+      "German": "Genauso wie Chad lächelst du bis über beide Ohren. Suzan schaut dich schockiert an.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_1": {
+      "German": "Auch dich hat die Nixe in eine Trance versetzt. Du hörst nichts mehr außer dem wunderschönen Gesang. Langsam und stetig fallen deine Augen zu.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_o1": {
+      "German": "Dagegen wehren",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_o2": {
+      "German": "Dem Gesang lauschen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r1_0": {
+      "German": "Du versuchst dich gegen den Gesang und den Einfluss der Sirene zu wehren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r1_1": {
+      "German": "Halte einfach nur die Augen auf, nicht....einschlafen. Es fällt dir wirklich schwer bei Bewusstsein zu bleiben. Langsam versinkst du in einen tiefen Schlaf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r1_2": {
+      "German": "Plötzlich greift dich etwas am linken Fußgelenk und zerrt dich in die Untiefen des Meeres.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r1_3": {
+      "German": "In deinen letzten wachen Momenten siehst du, dass Chad und Suzan das selbe Schicksal ereilt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r2_0": {
+      "German": "Langsam versinkt du in einen tiefen Schlaf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r2_1": {
+      "German": "Du merkst gar nicht, dass dich etwas am rechten Fußgelenk greift und dich in die Untiefen des Meeres zieht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r1_d4_r2_2": {
+      "German": "Du fragst dich in deinen letzten wachen Momenten, was wohl mit Chad und Suzan passiert.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_0": {
+      "German": "Auch du schaust Chad verwirrt an. Hatte er sich etwa in die Sirene verliebt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_1": {
+      "German": "Herje, Chad! Komm zu dir!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_2": {
+      "German": "Auf einmal schlagen heftige Wellen gegen das kleine Floß, von denen Chad ins Wasser geschmissen wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_2_b": {
+      "German": "Plötzlich schlägt eine heftige Welle über ein. Nach Luft schnappend kämpft ihr euch wieder an die Wasseroberfläche.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_3": {
+      "German": "Erschrocken schaut ihr ihm, unfähig euch zu bewegen, nach.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_3_b": {
+      "German": "Erschrocken stellt ihr fest, dass Chad verschwunden ist.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_4": {
+      "German": "Chad!! Die Meerfrau ist auch weg!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_5": {
+      "German": "Du schaust dich hektisch um. Beide sind nirgendwo zu sehen. Was tut ihr?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_o1": {
+      "German": "Tauchen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_o2": {
+      "German": "Laut rufen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r1_0": {
+      "German": "Du stürzt dich wagemutig in die Tiefen, um Chad zu finden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r1_1": {
+      "German": "Doch die Wellen reißen dich stürmisch hin und her, sodass du völlig die Orientierung verlierst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r1_2": {
+      "German": "Panisch schaust du dich nach Suzan um. Auch sie ist nun nicht mehr auffindbar.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r1_3": {
+      "German": "Plötzlich greift dich etwas am rechten Fußgelenk! Du versuchst dich zu befreien, doch der Griff des Wesens sitzt zu fest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r1_4": {
+      "German": "Etwas zieht dich in die Tiefe. Du willst schreien, aber die Luft wird dir aus deinen Lungen gezogen und du verlierst das Bewusstsein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_0": {
+      "German": "Zusammen mit Suzan rufst du nach Chad.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_1": {
+      "German": "Chaaaad! Chaaaad! Wo bist du?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_2": {
+      "German": "Ich kann ihn nirgendwo sehen. Der wurde bestimmt von den Wellen verschluckt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_3": {
+      "German": "So langsam bekommt ihr wirklich Angst. Er ist noch nicht wieder aufgetaucht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_4": {
+      "German": "Du tauchst nach unten, um nach ihm zu suchen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_5": {
+      "German": "Hektisch versuchst du im trüben Wasser etwas zu erkennen, doch auch hier kannst du deinen Freund nirgendwo finden.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_6": {
+      "German": "Plötzlich greift dich etwas am linken Fußgelenk! Du versuchst dich zu befreien, doch der Griff des Wesens sitzt zu fest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_se_1_d3_r2_d5_r2_7": {
+      "German": "Etwas zieht dich in die Tiefe! Du willst schreien, aber die Luft wird dir aus deinen Lungen gezogen und du verlierst das Bewusstsein.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}

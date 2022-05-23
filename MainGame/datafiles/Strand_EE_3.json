@@ -1,0 +1,836 @@
+{
+   "s_intro_0": {
+      "German": "Der Strand, mit seinen weißen Dünen und seinen seichten blauen Wellen ist eine beliebte Location unter den vielen verschiedenen Inselbewohner:innen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_intro_1": {
+      "German": "Der saubere Strand lädt dazu ein, in der warmen Sonne zu baden, im Schatten großer Palmen Sandburgen zu bauen oder einfach nur auf Tauchexpeditionen gehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_intro_2": {
+      "German": "In der Nähe soll es sogar eine Cocktailbar geben. Also packt eure Badesachen und nichts wie los!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_0": {
+      "German": "Eine kühle Brise haucht euch entgegen, als ihr an diesem heißen, sonnigen Tag den Strand erreicht. So schön der Morgen auch ist, das Meer ist bereits in Aufruhr!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_1": {
+      "German": "Riesige Wellen schlagen gegen die felsigen Küsten dieses Strandabschnitts. Es ist viel zu gefährlich bei diesem Wellengang ins Wasser zu gehen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_2": {
+      "German": "Doch was gibt es sonst zu tun?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_3": {
+      "German": "Wie wär's mit einem Sandburgenwettbewerb?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_4": {
+      "German": "Wettbewerb? Das hört sich gut an!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_5": {
+      "German": "Einstimmig entscheidet ihr euch dafür, den Wettbewerb hier und jetzt auszutragen! Die Zeit endet bei Sonnenuntergang. Eine angemessene Frist, um eine riesige Burg zu bauen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_6": {
+      "German": "Doch was für eine Burg willst du bauen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_o1": {
+      "German": "Etwas Ausgefallenes",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_o2": {
+      "German": "Etwas Stabiles",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_o3": {
+      "German": "Etwas Extremes",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_0": {
+      "German": "Natürlich kann man mit einer einfachen Sandburg keinen Wettkampf gewinnen. Auch nicht mit einer komplizierten oder aufwendigen. Nein! Du brauchst etwas Ausgefalleneres!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_1": {
+      "German": "Deine künstlerischen Fähigkeiten verleiten dich dazu, eine ganze Skulptur zu errichten.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_2": {
+      "German": "Du legst dich ordentlich ins Zeug, um die Idee in deinem Kopf Wirklichkeit werden zu lassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_3": {
+      "German": "Du konzentrierst dich erst einmal darauf, die perfekte Mischung von Sand und Wasser zu finden, als Basis für dein Meisterwerk.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_4": {
+      "German": "Mit viel Geschick formst du aus groben und plumpen Sandmassen menschliche Formen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r1_5": {
+      "German": "Eine Skulptur, von Chad, Suzan und Dir, zumindest in einer abstrakten Form. Allerdings fehlt dieser Skulptur der letzte Schliff. Du solltest sie verzieren.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r2_0": {
+      "German": "Deine Sandburg muss vor allem stabil werden! Und du kennst nichts Stabileres als geometrische Formen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r2_1": {
+      "German": "Du überlegst einen Moment, welche Form deine Burg haben sollte. Ein Quader? Oder vielleicht eine Pyramide? Nein das war doch langweilig und würde dir sicher nicht den Sieg bringen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r2_2": {
+      "German": "Und da fällt es dir wie Schuppen von den Augen! Natürlich! Ein Hyperkubus!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r2_3": {
+      "German": "Sofort machst du dich daran Sand und Wasser zu einer Masse zusammenrühren und die Grundform zu gestalten. Einige Versuche später steht er! Du bist fertig!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r2_4": {
+      "German": "Du feierst einen Moment bis dir auffällt, dass der Kubus doch etwas kahl aussieht. Du solltest ihn zumindest verzieren!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_0": {
+      "German": "Du hast vor eine Burg zu bauen. Aber nicht nur eine popelige Sandburg! Nein, das würde nicht reichen. Du willst eine echte Burg bauen. Eine echte Burg in Realgröße!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_1": {
+      "German": "Du nimmst eine kleine Schaufel und beginnst damit so schnell du kannst Sand anzuhäufen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_1_b": {
+      "German": "Immer mehr Sand findet den Weg auf deinen riesigen Berg. Im Angesicht deiner gewaltigen Burg erschaudern Chad und Suzan in Ehrfurcht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_2": {
+      "German": "Dein Haufen wächst weiter und deine Burg formt sich erst grob, dann mit immer mehr Details aus den sandigen Massen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_2_b": {
+      "German": "Deine Freund:innen beobachten dich dabei, wie du die Burg immer größer und größer baust.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_3": {
+      "German": "Immer Größer. UND GRÖßER, bis sie einen gewaltigen Schatten auf die Umgebung wirft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d1_r3_4": {
+      "German": "Doch etwas fehlt? Deiner Burg fehlt es definitiv an Verzierung!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_7": {
+      "German": "Doch womit sollst du sie verzieren?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_o1": {
+      "German": "Glänzenden Sachen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_o2": {
+      "German": "Muscheln",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_o3": {
+      "German": "Gewächsen",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_o4": {
+      "German": "Mit der Fliegenklatsche",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_0": {
+      "German": "Du schmückst deine Sandskulptur mit glänzenden Gegenständen, die du am Strand verteilt findest:",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_1": {
+      "German": "Glänzende Steine, Glasscherben, Muschelreste und sogar einen Eimer. Du nimmst diese Gegenstände bereitwillig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_1_b": {
+      "German": "Nach und nach bildest du mit dem glänzenden Material eure Gesichtsmerkmale nach.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_2": {
+      "German": "Erst am Abend wird deine massive Skulptur fertig, welche du voller Stolz Suzan und Chad präsentierst. Noch nie haben eure Abbilder glänzender und schöner ausgesehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_3": {
+      "German": "Das ist aber keine Burg…. Das zählt nicht. Das war nicht die Vorgabe.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_4": {
+      "German": "Soll DAS etwa ich sein?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_5": {
+      "German": "Beide inspizieren ihre Sand-Ichs mit einer Mischung aus Verlegenheit und Scham. Es bricht eine Diskussion aus, welches Ich nun schlechter getroffen ist. Unerhört!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r1_6": {
+      "German": "Du bist der Meinung, dass du beide von ihrer Schokoladenseite gezeigt hast. Am Ende könnt ihr jedoch alle darüber lachen und vergesst den eigentlichen Wettbewerb vollkommen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_0": {
+      "German": "Muscheln! Natürlich. Davon gibt es hier besonders viele. Ein fast unerschöpflicher Vorrat an Material, den das Meer dir quasi vor die Füße spült.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_1": {
+      "German": "Du nimmst große Muscheln und benutzt sie als Werkzeug, um deinen Skulpturen Kanten und Rundungen zu verpassen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_1_b": {
+      "German": "Kleine und bunte Muscheln verwendest du, um eure Kleidung und Gesichter bis ins kleinste Detail nachzustellen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_2": {
+      "German": "Es ist ein großer Zeitaufwand, aber du bist am Ende des Tages mit deinem Werk mehr als zufrieden und hoffst, dass der Rest es genauso sehen wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_3": {
+      "German": "Chad und Suzan beäugen die Statuen mit einer Mischung aus Bewunderung und Unverständnis.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_4": {
+      "German": "Gott bist du mies im Burgen bauen … Das sieht ja gar nicht danach aus!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_5": {
+      "German": "Wie hast du das hinbekommen? Ist die überhaupt aus Sand?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_6": {
+      "German": "Stimmt. Du hast so viele Muscheln verwendet, dass deine Skulptur nun fast zu 90% aus Muscheln besteht. Zu viel, laut Regelwerk. Sie gilt nicht mehr offiziell als eine Sandburg.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r1_7": {
+      "German": "Verdammt! Aber Regeln vertragen sich nicht immer mit deiner schöpferischen Ausdruckskraft! Zumindest gefallen Chad und Suzan ihre Abbilder.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_0": {
+      "German": "Du suchst den Strand nach Algen, Schilf, Gras und allem anderen ab, was auch nur im entferntesten nach Vegetation aussieht. Und du wirst schnell fündig.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_1": {
+      "German": "Eifrig baust du das Grün in die Skulpturen ein und formst langsam, aber stetig eure sandigen Doppelgänger:innen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_2": {
+      "German": "Du nimmst Samen und Seepocken für die Augen und benutzt Seealgen, um die Haare so gut es geht nachzubilden. Die Skulpturen werden immer menschlicher!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_3": {
+      "German": "Als du die Kleidung mit deinen gesammelten Palmwedeln nachstellen willst, fällt dir auf, dass deine Skulptur etwas eingegangen ist. Sie verläuft sogar unter der Feuchtigkeit der Algen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_4": {
+      "German": "Du kannst nur erschrocken zusehen, wie deine harte Arbeit zunichte gemacht wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_5": {
+      "German": "Boah! Wie hast du das gemacht? Das ist ja echt der Hammer!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_6": {
+      "German": "Alter! Das ist ja eine ganze Berglandschaft! Und schau mal hier…. Ist das das Camp?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r1_7": {
+      "German": "Wovon reden sie den? Du betrachtest die kaputte Skulptur und tatsächlich, sie wirkt wie eine Berglandschaft mitten im Grünen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_0": {
+      "German": "Für die beste Skulptur braucht man schließlich auch das beste Werkzeug! Du wühlst in deiner Tasche und holst eine Fliegenklatsche heraus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_0_b": {
+      "German": "Sie wirkt vielleicht unscheinbar, ist aber ein universelles Utensil für deinen Erfolg.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_1": {
+      "German": "Du benutzt die Fliegenklatsche, um den Sand zu formen und zu glätten. Gut, dass du sie mitgebracht hast!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_1_b": {
+      "German": "Deine Skulptur wird immer glatter und du verlierst dich immer mehr in der kleinteiligen und aufwendigen Arbeit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_2": {
+      "German": "Leider übertreibst du es damit. Am Ende des Tages hast du drei perfekte Sandwürfel geformt. Makellos und beeindruckend in der Tat, aber keiner von euch wird sich selbst erkennen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_3": {
+      "German": "Nun kommt der Stiel der Fliegenklatsche zum Einsatz, mit dem du in den letzten fünf Minuten eure Namen in den Sand unter ihnen schreibst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_4": {
+      "German": "Woah… Ich dachte nicht, dass man sowas aus Sand machen kann.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_5": {
+      "German": "Das! Das ist einfach gut.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r1_6": {
+      "German": "Außer Konkurrenz wirst du zur Gewinner:in dieses Wettbewerbs erklärt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_0": {
+      "German": "Du suchst glänzende Gegenstände zusammen, die von den Wellen an Land gespült werden. Darunter befinden sich glänzende Steine, Seeglas und funkelnde Muschelstücke.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_1": {
+      "German": "Immer mehr glänzende Gegenstände finden ihren Weg auf die Außenwände des Kubus, welcher langsam aber stetig zu einem Disco - Kubus wird!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_2": {
+      "German": "Am Abend präsentiert jeder seine Sandburg. Chad hat eines seiner Lieblingsmotive als Vorlage genommen und einen riesigen Sandkopf mit seinem Gesicht errichtet, der auf einer massiven Burg aus Sand thront.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_3": {
+      "German": "Suzan hingegen hat einen einzelnen Turm gebaut, auf dessen Dach eine große Rose aufblüht. Deine Burg sticht leider nicht so sehr heraus, wie du es gerne hättest.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_4": {
+      "German": "Schade. Gewonnen hast du zwar nicht, aber deine Skulptur kann etwas wovon die anderen Burgen nur träumen können!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r2_4_b": {
+      "German": "In der Nacht und mit genug Beleuchtung verwandelt sich der Disco-Kubus zu einem wahren Partyhit.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_0": {
+      "German": "Du sammelst verschiedene Muscheln am Strandabschnitt ein und bringst sie zu deinem Hyperkubus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_2": {
+      "German": "Alles was du gefunden hast, wird auf, neben und im Kubus platziert. Zwar wird er dadurch verformt und sieht am Ende etwas ramponiert aus, aber du liebst dein Ergebnis trotzdem.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_3": {
+      "German": "Das sieht ja mal… originell aus?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_4": {
+      "German": "Suzan betrachtet Chad streng.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_5": {
+      "German": "Siehst du nicht, dass das Absicht ist?! Die Einfachheit, diese Formen. Diese Zerstörung! Das ist ein wahres Kunstwerk!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r2_6": {
+      "German": "Alle betrachten deine Skulptur mit großem Interesse, obwohl du dir eigentlich nicht so viel beim Bau gedacht hast. Aber du widersprichst ihnen auch nicht. Suzan krönt dich zur ehrenvollen Sieger:in!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_0": {
+      "German": "Du greifst dir jede Alge, die du finden kannst und transportiert sie zu deinem Kubus, den du wie wild mit den klebrigen und nassen Gewächsen bewirfst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_0_b": {
+      "German": "Schließlich ist der Kubus stabil genug, um allem zu trotzen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_1": {
+      "German": "Leider merkst du nicht, dass es sich bei den Algen um SUPERALGEN handelt!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_1_b": {
+      "German": "Die unglaubliche Menge dieser speziellen Algenart führt dazu, dass sich der Kubus plötzlich erhebt. Ihm sind doch tatsächlich Beine gewachsen!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_2": {
+      "German": "Verärgert über deine grobe Behandlung nimmt er reißaus! Oh nein! Deine Kunst flieht vor dir!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_3": {
+      "German": "Du rennst dem Hyperkubus hinterher und versuchst ihn wieder einzufangen, doch dieser legt eine unglaubliche Geschwindigkeit an den Tag. Algen-Beine sind anscheinend besser als normale Beine.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_4": {
+      "German": "Traurig schaust du deiner Skulptur nach, welche am Horizont verschwindet. Am Abend steht die Sieger:in des Wettbewerbs fest! Es handelt sich dabei um Chad, der sein eigenes Abbild zu einer Burg abstrahiert hat!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r2_5": {
+      "German": "Leider hast du dieses Mal nicht gewonnen, aber du hoffst, dass Algen-Kubus dort wo er ist, sein Glück findet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_0": {
+      "German": "Dir fällt ein, dass du das beste Werkzeug zur Verzierung deiner Skulptur bereits bei dir trägst. Du wühlst in deinem Rucksack und dort, am Boden deiner Tasche, findest du sie. Deine verlässliche Fliegenklatsche!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_1": {
+      "German": "Vorsichtig und mit Fingerspitzengefühl drückst du die breite Seite der Klatsche immer wieder in regelmäßigen Abständen auf die Außenseiten deines Sandkubus.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_2": {
+      "German": "Die rasterförmigen Details sorgen dafür, dass aus deinem Kubus ein abstraktes Kunstwerk wird.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_3": {
+      "German": "Du wirst gerade mit den letzten Handgriffen an deinem Kubus fertig, als die anderen zu dir stoßen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_4": {
+      "German": "Boah das sieht ja mal professionell aus! So als ob du das schon irgendwie dein ganzes Leben lang machst!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_5": {
+      "German": "Das ist eine unglaublich komplexe Form! Wie hast du das nur hinbekommen?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r2_6": {
+      "German": "Du beantwortest alle neugierigen Fragen deiner Freund:innen und grinst siegessicher. Außer Konkurrenz wirst du zur Gewinner:in dieses Wettbewerbs erklärt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_0": {
+      "German": "Du entscheidest dich für glänzendes Material, denn glänzend ist auch gleichbedeutend mit auffällig!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_1": {
+      "German": "Doch nicht jedes glänzende Material kommt für dich und deine Burg in Frage! Du sammelst nur feinstes Seeglas, das von den tobenden Wellen an Land gespült wird. Das wird die Basis!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_2": {
+      "German": "Langsam aber sicher bilden sich aus dem verschiedenfarbigen Seeglas ganze Mosaike auf den einzelnen Burgmauern.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_3": {
+      "German": "Allerdings geht dir irgendwann das Material aus und du musst auf Glasscherben ausweichen, was sich als nicht ganz ungefährlich herausstellt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_4": {
+      "German": "Du schneidest dich immer wieder an den spitzen und scharfen Kanten und beschließt die Scherben nun einfach in die Burg zu stecken.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_4_b": {
+      "German": "Am Ende des Tages ist deine Festung nicht nur groß, sondern auch gefährlich!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_5": {
+      "German": "Die spitzen Scherben stehen wie aufgerichtete Stacheln aus den Mauern empor.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_6": {
+      "German": "Zu dritt betrachtet ihr dein Bauwerk. Beeindruckend aber dennoch furchterregend.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r1_d1_r3_7": {
+      "German": "Ihr solltet sie nach dem Wettbewerb jedoch besser abbauen, bevor sich jemand an den Scherben mehr verletzt als du selbst.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_0": {
+      "German": "Muscheln! Davon gab es hier viele, aber keine die deiner Burg würdig ist. Für diese spezielle Muschel musst du ins Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_1": {
+      "German": "Du begibst dich in Gefahr und springst waghalsig in die wütenden Fluten, die sich jedoch seit dem Morgen ein wenig beruhigt haben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_2": {
+      "German": "Schnell machst du das Ziel deiner Reise ausfindig. Eine Riesenmuschel!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_3": {
+      "German": "Perfekt, auffällig bläulich und vor allem riesengroß. Du packst die Muschel an ihren Schalen und versuchst sie an Land zu ziehen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_3_b": {
+      "German": "Leider hast du ihr Gewicht völlig falsch eingeschätzt. Das Tier wiegt ja eine Tonne!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_4": {
+      "German": "Du strengst deine Muskeln an und mit viel Mühe ziehst du sie dennoch aus dem Wasser.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_4_b": {
+      "German": "Erschöpft legst du sie am Ufer ab und atmest erstmal durch. Das war ein anstrengender Tauchgang!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_5": {
+      "German": "Der Muschel hat es allerdings gar nicht gefallen, dass du sie von ihrem Zuhause weggebracht hast!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_5_b": {
+      "German": "Sowas macht man doch nicht! Sie macht sich bereit und feuert im nächsten Moment eine kanonenkugelgroße Perle ab.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_6": {
+      "German": "Diese prallt auf deine Burgmauern. Entsetzt musst du mit ansehen, wie deine komplette Konstruktion zusammenbricht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_7": {
+      "German": "Die Muschel schnaubt dich ein letztes Mal wütend an, bevor sie langsam wieder zum Wasser hüpft und im tiefblauen Ozean verschwindet.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r2_d1_r3_8": {
+      "German": "Du hast zwar jetzt keine Burg mehr und auch nicht den Wettkampf gewonnen, aber dafür eine riesige Perle.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_0": {
+      "German": "Natürlich! Eine richtige Burg braucht auch einen richtigen Burggarten! Du schaust dich um und stellst ernüchtert fest, dass Algen sich wohl kaum dafür eignen. Mist. Und jetzt?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_1": {
+      "German": "Du brauchst etwas, was genauso groß ist wie deine Burg! Sonst ist das ja gar nicht mehr authentisch!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_1_b": {
+      "German": "Doch das einzige große Gewächs, das hier am Strand wächst ist eine Palme. Nun ja einen Versuch ist das sicherlich wert!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_2": {
+      "German": "Du näherst dich der größten Palme, die du in kurzer Zeit finden kannst und beginnst damit, sie zu entwurzeln, um sie in der Nähe deiner Burg wieder einzupflanzen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_3": {
+      "German": "Zumindest versuchst du das, denn sie bewegt sich keinen Zentimeter vom Fleck.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_4": {
+      "German": "Du entfernst dich einige Schritte von der Palme, nur um dann so schnell du kannst auf sie zuzurennen. Als du mit Anlauf gegen sie springst, bewegt sie sich tatsächlich zu deiner Burg.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_5": {
+      "German": "Nur eben anders als erwartet. Sie beugt sich gummiartig zur Seite und ihr Kopf prallt auf deine Burg, die sofort deutlichen Schaden davon nimmt und langsam in sich zusammenbricht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_6": {
+      "German": "Deine Burg ist zwar groß, aber nicht sehr stabil.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_7": {
+      "German": "Die Palme hingegen geht als Sieger:in aus der Situation hervor, denn sie richtet sich prompt wieder auf.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r3_d1_r3_8": {
+      "German": "So als ob nie etwas passiert wäre. Ohne Burg hast du zwar nicht den Wettbewerb, aber dafür mehr Respekt vor Palmen gewonnen.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_0": {
+      "German": "Du kramst in deinem Rucksack nach einem Hilfsmittel, das dir mit Sicherheit den Sieg verschafft.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_0_b": {
+      "German": "Trinkflasche… Nein zu schwer! Regenschirm…. Nein der ist zu spitz, das würde nicht gut passen. Eine Fliegenklatsche?",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_1": {
+      "German": "Dir kommt eine Idee. Natürlich die Fliegenklatsche!!! Jede Burg braucht eine majestätische Spitze! Eine Spitze, die Stärke und Erhabenheit ausdrückt und die Fliegenklatsche eignete sich perfekt dazu!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_2": {
+      "German": "Sie würde die perfekte Fahne für deinen Turm bilden. Eine Burg mit Fahne kann nur gewinnen. Da bist du dir zu tausend Prozent sicher, auch wenn Suzan und Chad vielleicht nicht ganz deiner Meinung sind.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_3": {
+      "German": "Das Wichtigste an einer Burg ist ihre Stabilität!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_4": {
+      "German": "Ich finde das Wichtigste ist immer noch, dass sie eine ausgefallene Form hat!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_5": {
+      "German": "Nein, sie müssten es nur sehen! Du kletterst langsam an deiner Burg hoch, die unter deinem Gewicht schonmal nicht zusammenbricht. Ein Punkt für Stabilität. Dabei veränderst du ihre Form leicht.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_6": {
+      "German": "Ihre Türme sind nun gestauchter, verdrehter und deine Finger- und Fußabdrücke haben sich tief in den Sand der Mauern gegraben.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_7": {
+      "German": "Ein Punkt für Ausgefallenheit. Doch als du deine Fahne mit Hilfe der Fliegenklatsche hisst, ist deine Festung erst vollendet!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_8": {
+      "German": "Als du wieder runterkommst, applaudieren dir Chad und Suzan zu deinem Erfolg. Du hast jede ihrer Anforderung erfüllt, sogar deine eigene!",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   },
+   "s_ee_3_d2_r4_d1_r3_9": {
+      "German": "Du wirst für deine Mühen und Innovation zur Sieger:in des Wettbewerbs gekrönt.",
+      "English": "n/a",
+      "French": "n/a",
+      "Spain": "n/a"
+   }
+}
