@@ -1,4 +1,4 @@
-global.collectedItemsList = ds_list_create(); //Create List before loading Kofferarea
+global.collectedItemsList = ds_list_create(); // Creates List before Loading Area 
 
 global.tempcode = ""; 
 global.codeCounter = 0; 
