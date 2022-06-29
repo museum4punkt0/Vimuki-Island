@@ -1,4 +1,4 @@
-global.collectedItemsList = ds_list_create();
+
 
 global.tempcode = ""; 
 global.codeCounter = 0; 
